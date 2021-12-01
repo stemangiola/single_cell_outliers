@@ -52,15 +52,23 @@ custom_theme <-
   )
 
 setwd("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/")
-count =
+counts_COVID_19 =
   readRDS(
     "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/s41587-020-0602-4_COVID_19.rds"
   ) %>%
   tidysc::aggregate_cells(c(sample, cell_type), slot = "counts") # 24 distinct cell types
 
 #---------------------------------------------------------------------------------------------------------
-count %>% distinct(severity) # critical, moderate, control
-count %>% count(sample, cell_type)
+counts_COVID_19 %>% distinct(severity) # critical, moderate, control
+counts_COVID_19 %>% count(sample) # total samples 
+
+# how many samples in each group
+counts_COVID_19 %>% 
+  group_by(severity) %>% 
+  summarise(n_sample = n_distinct(sample),.groups = "drop")
+
+# total sample --
+n_distinct(counts_COVID_19$sample)
 
 # select one cell type
 counts_41BB_Hi_CD8_T_cell <-
