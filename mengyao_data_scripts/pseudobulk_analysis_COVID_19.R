@@ -190,6 +190,7 @@ counts_ppc_Squamous_plots <-
   counts_ppc_Squamous %>%
   plot_credible_intervals()
 
+
 counts_ppc_Squamous_plots %>%
-  pull(plot) %>%
+  pull(plot) %>% 
   .[1:2]
