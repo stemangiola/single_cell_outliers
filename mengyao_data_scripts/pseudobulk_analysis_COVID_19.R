@@ -80,10 +80,17 @@ counts_COVID_19 %>%
 # total sample 
 n_distinct(counts_COVID_19$sample) # 32
 
+# create a new column (response) to rename the factor of interests 
+counts_COVID_19 <- counts_COVID_19 %>% 
+  mutate(response = fct_recode(severity, 
+                              "Not Critical" = "control",
+                              "Not Critical" = "moderate",
+                              "Critical" = "critical"))
+  
 ##--------------------------------------------------------------------------------
-# select one cell type
+# select one cell type:Squamous
 counts_Squamous <-
-  counts %>%
+  counts_COVID_19 %>%
   filter(cell_type == "Squamous")
 
 # Filtering out lowly expressed counts
@@ -92,13 +99,13 @@ counts_scaled_Squamous <- counts_Squamous %>%
     .sample = sample,
     .transcript = transcript,
     .abundance = abundance_RNA,
-    factor_of_interest = severity
-  ) %>% # factor of interest = severity
+    factor_of_interest = response
+  ) %>% # factor of interest = response
   scale_abundance(.sample = sample,
                   .transcript = transcript,
                   .abundance = abundance_RNA)
 
-# visualize abundance difference before and after scaling
+# visualize abundance difference before and after scaling -- density plot
 counts_scaled_Squamous %>%
   # Reshaping
   pivot_longer(
@@ -111,7 +118,8 @@ counts_scaled_Squamous %>%
   geom_density() +
   facet_wrap(~ source) +
   scale_x_log10() +
-  custom_theme
+  custom_theme 
+# ggsave("Squamous_density_plot.pdf", path = "/stornext/Home/data/allstaff/m/ma.m/single_cell_outliers/plots/",width=6, height=4,dpi=300)
 
 # PCA dimensional reduction
 counts_scaled_Squamous_PCA <-
@@ -120,23 +128,24 @@ counts_scaled_Squamous_PCA <-
 
 counts_scaled_Squamous_PCA # into 2 new columns (PC1, PC2)
 
+# # A tibble: 2 × 2
+# `Fraction of variance`    PC
+# <dbl> <int>
+#   1                  0.318     1
+# 2                  0.143     2
+# tidybulk says: to access the raw results do `attr(..., "internals")$PCA`
 
-# plot sample-wise information by using pivot_sample
-# counts_scaled_B_cell_PCA %>% pivot_sample()
-
-# Plot sample with dimensional reduction:
-# PCA plot-----------
+# PCA plot
 counts_scaled_Squamous_PCA %>%
   pivot_sample() %>%
-  ggplot(aes(x = PC1, y = PC2, colour = ICB_Exposed)) +
+  ggplot(aes(x = PC1, y = PC2, colour = response)) +
   geom_point() +
   custom_theme
-
 
 # Differential expression analysis -----------------------------------------------------------------
 counts_de_Squamous <- 
   counts_scaled_Squamous_PCA %>%
-  test_differential_abundance(~ severity)  # ~ factor_of_interest + unsplicable_cluster_separation
+  test_differential_abundance(~ response)  # ~ factor_of_interest + unsplicable_cluster_separation
 counts_de_Squamous
 
 
@@ -148,28 +157,15 @@ counts_de_Squamous %>%
   scale_y_continuous(trans = "log10_reverse") +
   custom_theme
 
-
 # ppcseq
-
-fileConn <-
-  file(
-    "/home/users/allstaff/ma.m/single_cell_outliers/parse_data_scripts/pseudobulk_analysis_COVID19.R"
-  )
-writeLines(
-  c(
-    "CXX14FLAGS += -O3",
-    "CXX14FLAGS += -DSTAN_THREADS",
-    "CXX14FLAGS += -pthread"
-  ),
-  fileConn
-)
+fileConn<-file("/home/users/allstaff/ma.m/single_cell_outliers/mengyao_data_scripts/pseudobulk_analysis_COVID_19.R")
+writeLines(c( "CXX14FLAGS += -O3","CXX14FLAGS += -DSTAN_THREADS", "CXX14FLAGS += -pthread"), fileConn)
 close(fileConn)
 
-# devtools::install_github("stemangiola/ppcseq")
+# Import libraries
 library(ppcseq)
 
-counts_B_cell_de
-
+counts_de_Squamous
 # Import libraries
 counts_de_Squamous <- counts_de_Squamous  %>%
   mutate(abundance_RNA = abundance_RNA %>% as.integer) # changed into integer value
@@ -178,7 +174,7 @@ counts_ppc_Squamous <-
   counts_de_Squamous %>%
   mutate(is_significant = FDR < 0.05) %>%
   identify_outliers(
-    formula = ~ severity,
+    formula = ~ response,
     .sample = sample,
     .transcript = transcript,
     .abundance = abundance_RNA,
