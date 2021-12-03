@@ -1,7 +1,10 @@
 # Pesudobulk analysis for COVID_19 dataset
 # cited in https://www.nature.com/articles/s41587-020-0602-4
+<<<<<<< HEAD
 # Latest version by uploading
 # Change factor of interest 
+=======
+>>>>>>> 4d1087009ea0040ce789e8396fcc76ad42bba245
 
 library(tidySummarizedExperiment)
 library(tidysc)
@@ -75,7 +78,11 @@ counts_COVID_19 %>%
 # A tibble: 3 × 2
 # severity n_sample
 # <fct>       <int>
+<<<<<<< HEAD
 # 1 control         5
+=======
+#   1 control         5
+>>>>>>> 4d1087009ea0040ce789e8396fcc76ad42bba245
 # 2 moderate       14
 # 3 critical       13
 
@@ -83,7 +90,10 @@ counts_COVID_19 %>%
 n_distinct(counts_COVID_19$sample) # 32
 
 ---------------------------------------------------------------------------------
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d1087009ea0040ce789e8396fcc76ad42bba245
 # select one cell type
 counts_Squamous <-
   counts %>%
@@ -95,7 +105,11 @@ counts_scaled_Squamous <- counts_Squamous %>%
     .sample = sample,
     .transcript = transcript,
     .abundance = abundance_RNA,
+<<<<<<< HEAD
     factor_of_interest = severity ####
+=======
+    factor_of_interest = severity
+>>>>>>> 4d1087009ea0040ce789e8396fcc76ad42bba245
   ) %>% # factor of interest = severity
   scale_abundance(.sample = sample,
                   .transcript = transcript,
