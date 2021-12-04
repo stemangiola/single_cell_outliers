@@ -157,6 +157,12 @@ counts_de_Squamous %>%
   scale_y_continuous(trans = "log10_reverse") +
   custom_theme
 
+# topgenes_symbols <-
+counts_de_Squamous %>%
+  filter(FDR < 0.05) %>%
+  distinct(transcript)  # 1043 differentiated transcripts
+
+
 # ppcseq
 fileConn<-file("/home/users/allstaff/ma.m/single_cell_outliers/mengyao_data_scripts/pseudobulk_analysis_COVID_19.R")
 writeLines(c( "CXX14FLAGS += -O3","CXX14FLAGS += -DSTAN_THREADS", "CXX14FLAGS += -pthread"), fileConn)
@@ -165,7 +171,6 @@ close(fileConn)
 # Import libraries
 library(ppcseq)
 
-counts_de_Squamous
 # Import libraries
 counts_de_Squamous <- counts_de_Squamous  %>%
   mutate(abundance_RNA = abundance_RNA %>% as.integer) # changed into integer value
@@ -183,7 +188,9 @@ counts_ppc_Squamous <-
     percent_false_positive_genes = 5
   )
 
-counts_ppc_Squamous # contain plots for each gene
+
+counts_ppc_Squamous$`tot deleterious outliers` %>% 
+  sum(na.rm = T) 
 
 # visualise the top five differential transcribed genes
 counts_ppc_Squamous_plots <- 
