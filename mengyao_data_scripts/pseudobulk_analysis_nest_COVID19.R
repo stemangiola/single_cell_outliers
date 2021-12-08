@@ -20,10 +20,9 @@ library(ppcseq)
 
 setwd("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/")
 counts_COVID_19 =
-  readRDS(
-    "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/s41587-020-0602-4_COVID_19.rds"
-  ) %>%
-  tidysc::aggregate_cells(c(sample, cell_type), slot = "counts")
+  readRDS("./s41587-020-0602-4_COVID_19.rds") %>%
+  tidysc::aggregate_cells(c(sample, cell_type), slot = "counts") # 24 distinct cell types
+
 # Use colourblind-friendly colours
 friendly_cols <- dittoSeq::dittoColors()
 
@@ -46,6 +45,14 @@ custom_theme <-
         axis.text.x = element_text(angle = 30, hjust = 1, vjust = 1)
       )
   )
+
+# Rename the factor of interest column 
+counts_COVID_19 <- counts_COVID_19 %>% 
+  mutate(response = fct_recode(severity, 
+                               "Not Critical" = "control",
+                               "Not Critical" = "moderate",
+                               "Critical" = "critical"))
+
 
 counts_COVID_19 %>%
   nest(data_cell_type = -cell_type) %>%

@@ -56,10 +56,9 @@ custom_theme <-
   )
 
 setwd("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/")
+
 counts_COVID_19 =
-  readRDS(
-    "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/s41587-020-0602-4_COVID_19.rds"
-  ) %>%
+  readRDS("./s41587-020-0602-4_COVID_19.rds") %>%
   tidysc::aggregate_cells(c(sample, cell_type), slot = "counts") # 24 distinct cell types
 
 #---------------------------------------------------------------------------------------------------------
@@ -147,14 +146,8 @@ counts_scaled_Squamous_PCA %>%
 counts_de_Squamous <- 
   counts_scaled_Squamous_PCA %>%
   test_differential_abundance(~ response)  # ~ factor_of_interest + unsplicable_cluster_separation
-counts_de_Squamous 
-
 # save_rds for differential expression results
-job::job({counts_de_Squamous %>%
-    saveRDS(
-      "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_de_result_06_12_21.rds"
-    )
-  })
+job::job({counts_de_Squamous %>% saveRDS("./Squamous_de_result_7_12.rds")})
 
 
 # Volcano plot -- label out the significantly expressed genes 
