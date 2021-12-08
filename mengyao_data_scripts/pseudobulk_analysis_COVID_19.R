@@ -1,6 +1,7 @@
 # Pesudobulk analysis for COVID_19 dataset
 # cited in https://www.nature.com/articles/s41587-020-0602-4
-
+install.packages("job")
+library(job)
 library(tidySummarizedExperiment)
 library(tidysc)
 library(tidyverse)
@@ -146,7 +147,14 @@ counts_scaled_Squamous_PCA %>%
 counts_de_Squamous <- 
   counts_scaled_Squamous_PCA %>%
   test_differential_abundance(~ response)  # ~ factor_of_interest + unsplicable_cluster_separation
-counts_de_Squamous
+counts_de_Squamous 
+
+# save_rds for differential expression results
+job::job({counts_de_Squamous %>%
+    saveRDS(
+      "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_de_result_06_12_21.rds"
+    )
+  })
 
 
 # Volcano plot -- label out the significantly expressed genes 
@@ -164,9 +172,11 @@ counts_de_Squamous %>%
 
 
 # ppcseq
-fileConn<-file("/home/users/allstaff/ma.m/single_cell_outliers/mengyao_data_scripts/pseudobulk_analysis_COVID_19.R")
+dir.create(file.path("~/", ".R"), showWarnings = FALSE)
+fileConn<-file("~/.R/Makevars")
 writeLines(c( "CXX14FLAGS += -O3","CXX14FLAGS += -DSTAN_THREADS", "CXX14FLAGS += -pthread"), fileConn)
 close(fileConn)
+
 
 # Import libraries
 library(ppcseq)
@@ -188,15 +198,31 @@ counts_ppc_Squamous <-
     percent_false_positive_genes = 5
   )
 
+# save ggplot as rds
+job::job({counts_ppc_Squamous %>%
+    saveRDS(
+      "//stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_ppcseq_07/12.rds"
+    )
+})
 
-counts_ppc_Squamous$`tot deleterious outliers` %>% 
-  sum(na.rm = T) 
+# counts_ppc_Squamous %>%
+#   saveRDS(
+#     "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_ppcseq_result_06_12_21.rds"
+#   )
+
+counts_ppc_Squamous %>%
+  count(how_many_genes_include_outliers = `tot deleterious outliers` > 0)
+
+counts_ppc_Squamous %>%
+  left_join(
+    counts_de_Squamous %>% pivot_transcript(transcript) %>% arrange(PValue) %>% rowid_to_column(var-=
+                                                                                                  "rank"))
+
 
 # visualise the top five differential transcribed genes
 counts_ppc_Squamous_plots <- 
   counts_ppc_Squamous %>%
   plot_credible_intervals()
-
 
 counts_ppc_Squamous_plots %>%
   pull(plot) %>% 
