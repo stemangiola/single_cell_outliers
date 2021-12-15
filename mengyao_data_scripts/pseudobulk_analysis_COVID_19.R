@@ -116,6 +116,7 @@ counts_scaled_Squamous %>%
   # Plotting
   ggplot(aes(x = abundance + 1, color = sample)) +
   geom_density() +
+  ggtitle(glue("Density plot of {cell_type}")) +
   facet_wrap(~ source) +
   scale_x_log10() +
   custom_theme 

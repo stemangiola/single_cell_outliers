@@ -1,6 +1,7 @@
 # Pesudobulk analysis for COVID_19 dataset
 # cited in https://www.nature.com/articles/s41587-020-0602-4
-### Latest version 
+
+devtools::install_github("tidyverse/glue")
 library(tidySummarizedExperiment)
 library(tidysc)
 library(tidyverse)
@@ -16,6 +17,7 @@ library(plotly)
 library(ggrepel)
 library(GGally)
 library(tidybulk)
+library(glue)
 library(ppcseq)
 
 setwd("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/")
@@ -54,8 +56,8 @@ counts_COVID_19 <- counts_COVID_19 %>%
                                "Critical" = "critical"))
 
 
-counts_COVID_19 %>%
-  nest(data_cell_type = -cell_type) %>%
+counts_COVID_19 <- counts_COVID_19 %>%
+  nest(data_cell_type = -cell_type) %>% ## A tibble: 24 × 2
   # slice(1) %>%
   mutate(data_cell_type = map(
     data_cell_type,
@@ -82,13 +84,14 @@ counts_COVID_19 %>%
         
         # Plotting
         ggplot(aes(x = abundance + 1, color = sample)) +
+        ggtitle(glue("Density plot of {cell_type}")) +
         geom_density() +
         facet_wrap( ~ source) +
         scale_x_log10() +
         custom_theme
     )
   ) %>%
-  pull(plot_density) %>% .[[1]] # to see the first row
+  pull(plot_density) %>% .[[1]] # pull to see the first row
   #-------save for 24 types 
 #   mutate(data_cell_type = map(data_cell_type,
 #                               ~ .x %>% reduce_dimensions(method = "PCA"))) %>% # PCA dimensional reduction
