@@ -63,7 +63,7 @@ counts_COVID_19 %>%
       .sample = sample,
       .transcript = transcript,
       .abundance = abundance_RNA,
-      factor_of_interest = severity
+      factor_of_interest = response
     ) %>%
       scale_abundance(
         .sample = sample,
@@ -72,7 +72,7 @@ counts_COVID_19 %>%
       )
   )) %>%
   mutate(
-    plot_density = map(
+    density_plot = map(
       data_cell_type,
       ~ .x %>% pivot_longer(
         cols = c("abundance_RNA", "abundance_RNA_scaled"),
@@ -88,59 +88,70 @@ counts_COVID_19 %>%
         custom_theme
     )
   ) %>%
-  # pull(plot_density) %>% .[[1]] # to see the first row
-  mutate(data_cell_type = map(data_cell_type,
-                              ~ .x %>% reduce_dimensions(method = "PCA"))) %>% # PCA dimensional reduction
-  mutate(
-    PCA_plot = map(
-      data_cell_type,
-      ~ .x %>% pivot_sample() %>%
-        ggplot(aes(
-          x = PC1, y = PC2, colour = severity
-        )) +
-        geom_point() +
-        custom_theme
-    )
-  ) %>%
-  # pull(PCA_plot) %>% [[1]]
-  mutate(data_cell_type = map(
-    data_cell_type,
-    ~ .x %>% test_differential_abundance(~ severity)
-  )) %>%
-  mutate(
-    volcano_plot = map(
-      data_cell_type, 
-      ~ .x %>% pivot_transcript() %>%
-        ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
-        geom_point() +
-        scale_y_continuous(trans = "log10_reverse") +
-        custom_theme
-    )
-  ) %>% 
-  
-  # ppcseq
-  mutate(data_cell_type = map(
-    data_cell_type,
-    ~ .x %>% mutate(abundance_RNA = abundance_RNA %>% as.integer)
-  )) %>% 
-  mutate(data_cell_type = map(
-    data_cell_type,
-    ~ .x %>% mutate(is_significant = FDR < 0.05) %>%
-      identify_outliers(
-        formula = ~ severity,
-        .sample = sample, 
-        .transcript = transcript,
-        .abundance = abundance_RNA,
-        .significance = PValue,
-        .do_check = is_significant,
-        percent_false_positive_genes = 5
-      )
-  )) %>% 
-  
-  # ppcseq plot
-  mutate(ppcseq_plot = map(
-    data_cell_type,
-    ~ .x %>% plot_credible_intervals()
-  )) %>% 
-  pull(ppcseq_plot) %>% 
-  .[1:2]
+  pull(plot_density) %>% .[[1]] # to see the first row
+  #-------save for 24 types 
+#   mutate(data_cell_type = map(data_cell_type,
+#                               ~ .x %>% reduce_dimensions(method = "PCA"))) %>% # PCA dimensional reduction
+#   mutate(
+#     PCA_plot = map(
+#       data_cell_type,
+#       ~ .x %>% pivot_sample() %>%
+#         ggplot(aes(
+#           x = PC1, y = PC2, colour = response
+#         )) +
+#         geom_point() +
+#         custom_theme
+#     )
+#   ) %>%
+#   # pull(PCA_plot) %>% [[1]]
+#   #--------save PCA plots for all 24 cell types
+#   
+#   
+#   mutate(data_cell_type = map(
+#     data_cell_type,
+#     ~ .x %>% test_differential_abundance(~ response)
+#   )) %>%
+#   
+#   
+#   mutate(
+#     volcano_plot = map(
+#       data_cell_type, 
+#       ~ .x %>% pivot_transcript() %>%
+#         ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
+#         geom_point() +
+#         scale_y_continuous(trans = "log10_reverse") +
+#         custom_theme
+#     )
+#   ) %>% 
+# 
+#   #####-----------------------------------------
+# # pull(PCA_plot) %>% [[1]]
+# #--------save volcano plots for all 24 cell types
+# 
+# 
+#   # ppcseq
+#   mutate(data_cell_type = map(
+#     data_cell_type,
+#     ~ .x %>% mutate(abundance_RNA = abundance_RNA %>% as.integer)
+#   )) %>% 
+#   mutate(data_cell_type = map(
+#     data_cell_type,
+#     ~ .x %>% mutate(is_significant = FDR < 0.05) %>%
+#       identify_outliers(
+#         formula = ~ response,
+#         .sample = sample, 
+#         .transcript = transcript,
+#         .abundance = abundance_RNA,
+#         .significance = PValue,
+#         .do_check = is_significant,
+#         percent_false_positive_genes = 5
+#       )
+#   )) %>% 
+#   
+#   # ppcseq plot
+#   mutate(ppcseq_plot = map(
+#     data_cell_type,
+#     ~ .x %>% plot_credible_intervals()
+#   )) %>% 
+#   pull(ppcseq_plot) %>% 
+#   .[1:2]

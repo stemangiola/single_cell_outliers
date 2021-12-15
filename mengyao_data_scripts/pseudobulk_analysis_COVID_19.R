@@ -1,6 +1,6 @@
 # Pesudobulk analysis for COVID_19 dataset
 # cited in https://www.nature.com/articles/s41587-020-0602-4
-install.packages("job")
+# install.packages("job")
 library(job)
 library(tidySummarizedExperiment)
 library(tidysc)
@@ -147,7 +147,7 @@ counts_de_Squamous <-
   counts_scaled_Squamous_PCA %>%
   test_differential_abundance(~ response)  # ~ factor_of_interest + unsplicable_cluster_separation
 # save_rds for differential expression results
-job::job({counts_de_Squamous %>% saveRDS("./Squamous_de_result_7_12.rds")})
+job::job({counts_de_Squamous %>% saveRDS("./Squamous_de_result_7_12.rds", compress = "xz")})
 
 
 # Volcano plot -- label out the significantly expressed genes 
@@ -165,10 +165,10 @@ counts_de_Squamous %>%
 
 
 # ppcseq
-dir.create(file.path("~/", ".R"), showWarnings = FALSE)
-fileConn<-file("~/.R/Makevars")
-writeLines(c( "CXX14FLAGS += -O3","CXX14FLAGS += -DSTAN_THREADS", "CXX14FLAGS += -pthread"), fileConn)
-close(fileConn)
+# dir.create(file.path("~/", ".R"), showWarnings = FALSE)
+# fileConn<-file("~/.R/Makevars")
+# writeLines(c( "CXX14FLAGS += -O3","CXX14FLAGS += -DSTAN_THREADS", "CXX14FLAGS += -pthread"), fileConn)
+# close(fileConn)
 
 
 # Import libraries
@@ -191,25 +191,47 @@ counts_ppc_Squamous <-
     percent_false_positive_genes = 5
   )
 
-# save ggplot as rds
-job::job({counts_ppc_Squamous %>%
-    saveRDS(
-      "//stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_ppcseq_07/12.rds"
-    )
-})
+
+# job::job({counts_ppc_Squamous %>% saveRDS("./Squamous_ppcseq_7_12.rds")})
 
 # counts_ppc_Squamous %>%
 #   saveRDS(
 #     "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_ppcseq_result_06_12_21.rds"
 #   )
 
-counts_ppc_Squamous %>%
-  count(how_many_genes_include_outliers = `tot deleterious outliers` > 0)
+# counts_ppc_Squamous %>%
+#   count(how_many_genes_include_outliers = `tot deleterious outliers` > 0)
 
-counts_ppc_Squamous %>%
+# # A tibble: 2 × 2
+# how_many_genes_include_outliers     n
+# <lgl>                           <int>
+#   1 FALSE                             761
+# 2 TRUE                              282
+
+# Summary tibble
+outlier_analysis_Squamous <- counts_ppc_Squamous %>%
   left_join(
-    counts_de_Squamous %>% pivot_transcript(transcript) %>% arrange(PValue) %>% rowid_to_column(var-=
-                                                                                                  "rank"))
+    counts_de_Squamous %>% pivot_transcript(transcript) %>% arrange(PValue) %>% rowid_to_column(var =
+                                                                                                  "rank")
+  )
+
+outlier_analysis_Squamous %>% saveRDS("./outlier_analysis_Squamous_9_12.rds")
+
+
+# summary tibble
+# num_genes_with_outliers | total_num_genes | num_genes_with_outliers_in_top_10_PValue
+
+outlier_summary_table <-
+  tibble(
+    num_genes_with_outliers = sum(outlier_analysis_Squamous$`tot deleterious outliers` > 0),
+    total_num_genes = nrow(outlier_analysis_Squamous),
+    num_genes_with_outliers_in_top_PValue = sum(
+      outlier_analysis_Squamous$`tot deleterious outliers` > 0 &
+        outlier_analysis_Squamous$rank <= 10
+    )
+  )
+
+outlier_summary_table %>% saveRDS("./outlier_summary_table.rds")
 
 
 # visualise the top five differential transcribed genes
