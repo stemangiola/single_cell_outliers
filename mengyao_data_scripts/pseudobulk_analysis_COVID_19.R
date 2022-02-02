@@ -116,7 +116,6 @@ counts_scaled_Squamous %>%
   # Plotting
   ggplot(aes(x = abundance + 1, color = sample)) +
   geom_density() +
-  ggtitle(glue("Density plot of {cell_type}")) +
   facet_wrap(~ source) +
   scale_x_log10() +
   custom_theme 
@@ -200,8 +199,8 @@ counts_ppc_Squamous <-
 #     "/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/Squamous_ppcseq_result_06_12_21.rds"
 #   )
 
-# counts_ppc_Squamous %>%
-#   count(how_many_genes_include_outliers = `tot deleterious outliers` > 0)
+counts_ppc_Squamous %>%
+  count(how_many_genes_include_outliers = `tot deleterious outliers` > 0)
 
 # # A tibble: 2 × 2
 # how_many_genes_include_outliers     n
@@ -209,19 +208,19 @@ counts_ppc_Squamous <-
 #   1 FALSE                             761
 # 2 TRUE                              282
 
-# Summary tibble
+
 outlier_analysis_Squamous <- counts_ppc_Squamous %>%
   left_join(
     counts_de_Squamous %>% pivot_transcript(transcript) %>% arrange(PValue) %>% rowid_to_column(var =
                                                                                                   "rank")
   )
 
-outlier_analysis_Squamous %>% saveRDS("./outlier_analysis_Squamous_9_12.rds")
+outlier_analysis_Squamous %>% saveRDS("./outlier_analysis_Squamous_9_12", compress = "xz")
 
 
 # summary tibble
 # num_genes_with_outliers | total_num_genes | num_genes_with_outliers_in_top_10_PValue
-
+  
 outlier_summary_table <-
   tibble(
     num_genes_with_outliers = sum(outlier_analysis_Squamous$`tot deleterious outliers` > 0),
@@ -231,9 +230,6 @@ outlier_summary_table <-
         outlier_analysis_Squamous$rank <= 10
     )
   )
-
-outlier_summary_table %>% saveRDS("./outlier_summary_table.rds")
-
 
 # visualise the top five differential transcribed genes
 counts_ppc_Squamous_plots <- 

@@ -30,7 +30,9 @@ main_S <- readRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/
 # main_S <- read.delim("./data/22927382.1")
 DefaultAssay(main_S) <- "integrated"
 head(main_S@meta.data)
-table(main_S@meta.data$severity)
+table(main_S@meta.data$severity) 
+# control moderate critical 
+# 2982    82814    49804 
 
 # check commanes
 names(main_S@commands)

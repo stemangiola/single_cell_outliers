@@ -1,7 +1,6 @@
 # Pesudobulk analysis for COVID_19 dataset
 # cited in https://www.nature.com/articles/s41587-020-0602-4
 
-devtools::install_github("tidyverse/glue")
 library(tidySummarizedExperiment)
 library(tidysc)
 library(tidyverse)
@@ -56,7 +55,7 @@ counts_COVID_19 <- counts_COVID_19 %>%
                                "Critical" = "critical"))
 
 
-counts_COVID_19 <- counts_COVID_19 %>%
+counts_ <- counts_COVID_19 %>%
   nest(data_cell_type = -cell_type) %>% ## A tibble: 24 × 2
   # slice(1) %>%
   mutate(data_cell_type = map(
@@ -84,51 +83,68 @@ counts_COVID_19 <- counts_COVID_19 %>%
         
         # Plotting
         ggplot(aes(x = abundance + 1, color = sample)) +
-        ggtitle(glue("Density plot of {cell_type}")) +
+        ggtitle(glue("Density plot of {counts_COVID_19$cell_type}")) +
         geom_density() +
         facet_wrap( ~ source) +
         scale_x_log10() +
         custom_theme
     )
-  ) %>%
-  pull(plot_density) %>% .[[1]] # pull to see the first row
+  ) 
+ggsave(
+  "Squamous_density_plot.pdf",
+  path = "/stornext/Home/data/allstaff/m/ma.m/single_cell_outliers/plots/",
+  width = 6,
+  height = 4,
+  dpi = 300
+)
+
+
+#%>%
+  # pull(plot_density) %>% .[[1]] # pull to see the first row
   #-------save for 24 types 
-#   mutate(data_cell_type = map(data_cell_type,
-#                               ~ .x %>% reduce_dimensions(method = "PCA"))) %>% # PCA dimensional reduction
-#   mutate(
-#     PCA_plot = map(
-#       data_cell_type,
-#       ~ .x %>% pivot_sample() %>%
-#         ggplot(aes(
-#           x = PC1, y = PC2, colour = response
-#         )) +
-#         geom_point() +
-#         custom_theme
-#     )
-#   ) %>%
-#   # pull(PCA_plot) %>% [[1]]
-#   #--------save PCA plots for all 24 cell types
-#   
-#   
-#   mutate(data_cell_type = map(
-#     data_cell_type,
-#     ~ .x %>% test_differential_abundance(~ response)
-#   )) %>%
-#   
-#   
-#   mutate(
-#     volcano_plot = map(
-#       data_cell_type, 
-#       ~ .x %>% pivot_transcript() %>%
-#         ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
-#         geom_point() +
-#         scale_y_continuous(trans = "log10_reverse") +
-#         custom_theme
-#     )
-#   ) %>% 
-# 
-#   #####-----------------------------------------
-# # pull(PCA_plot) %>% [[1]]
+  # counts %>% saveRDS("./")
+  
+counts_ <- counts_ %>% 
+  mutate(data_cell_type = map(data_cell_type,
+                              ~ .x %>% reduce_dimensions(method = "PCA"))) %>% # PCA dimensional reduction
+  mutate(
+    PCA_plot = map(
+      data_cell_type,
+      ~ .x %>% pivot_sample() %>%
+        ggplot(aes(
+          x = PC1, y = PC2, colour = response
+        )) +
+        geom_point() +
+        ggtitle(glue("PCA plot of {counts_COVID_19$cell_type}")) +
+        custom_theme
+    )
+  ) # %>%
+  # pull(PCA_plot) %>% [[1]]
+  #--------save PCA plots for all 24 cell types
+
+# counts_ %>% save("....")
+
+
+counts_ <- counts_ %>% 
+  mutate(data_cell_type = map(
+    data_cell_type,
+    ~ .x %>% test_differential_abundance(~ response)
+  )) %>%
+
+  mutate(
+    volcano_plot = map(
+      data_cell_type,
+      ~ .x %>% pivot_transcript() %>%
+        ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
+        geom_point() +
+        scale_y_continuous(trans = "log10_reverse") +
+        ggtitle(glue("Volcano plot of {counts_COVID_19$cell_type}")) +
+        custom_theme
+    )
+  ) # %>%
+
+  #####-----------------------------------------
+# pull(PCA_plot) %>% [[1]]
 # #--------save volcano plots for all 24 cell types
 # 
 # 
