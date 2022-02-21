@@ -1,0 +1,99 @@
+# FILE 1644739661825724 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/COVID_19/run_ppcseq/run_ppcseq.makeflow.batchlog 1 0
+# STARTED 1644739661827439
+# FILE 1644739661828298 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/unknown_epithelial_ppcseq.rds 1 1073741824
+1644739661847472 23 1 6522209 23 1 0 0 0 24
+# FILE 1644739661847518 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Treg_ppcseq.rds 1 1073741824
+1644739661859614 22 1 6522210 22 2 0 0 0 24
+# FILE 1644739661859657 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Squamous_ppcseq.rds 1 1073741824
+1644739661870861 21 1 6522211 21 3 0 0 0 24
+# FILE 1644739661870902 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Secretory-diff_ppcseq.rds 1 1073741824
+1644739661882138 20 1 6522212 20 4 0 0 0 24
+# FILE 1644739661882178 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Secretory_ppcseq.rds 1 1073741824
+1644739661893771 19 1 6522213 19 5 0 0 0 24
+# FILE 1644739661893813 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/rMa_ppcseq.rds 1 1073741824
+1644739661904827 18 1 6522214 18 6 0 0 0 24
+# FILE 1644739661904867 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/pDC_ppcseq.rds 1 1073741824
+1644739661915980 17 1 6522215 17 7 0 0 0 24
+# FILE 1644739661916022 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/outliers_epithelial_ppcseq.rds 1 1073741824
+1644739661927566 16 1 6522216 16 8 0 0 0 24
+# FILE 1644739661927613 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/nrMa_ppcseq.rds 1 1073741824
+1644739661938731 15 1 6522217 15 9 0 0 0 24
+# FILE 1644739661938775 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NKT-p_ppcseq.rds 1 1073741824
+1644739661950194 14 1 6522218 14 10 0 0 0 24
+# FILE 1644739661950240 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NKT_ppcseq.rds 1 1073741824
+1644739661961188 13 1 6522219 13 11 0 0 0 24
+# FILE 1644739661961231 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NK_ppcseq.rds 1 1073741824
+1644739661972296 12 1 6522220 12 12 0 0 0 24
+# FILE 1644739661972337 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Neu_ppcseq.rds 1 1073741824
+1644739661983113 11 1 6522221 11 13 0 0 0 24
+# FILE 1644739661983159 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/moDC_ppcseq.rds 1 1073741824
+1644739661993979 10 1 6522222 10 14 0 0 0 24
+# FILE 1644739661994023 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/MoD-Ma_ppcseq.rds 1 1073741824
+1644739662011614 9 1 6522223 9 15 0 0 0 24
+# FILE 1644739662011656 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/MC_ppcseq.rds 1 1073741824
+1644739662026504 8 1 6522224 8 16 0 0 0 24
+# FILE 1644739662026569 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/IRC_ppcseq.rds 1 1073741824
+1644739662038195 7 1 6522225 7 17 0 0 0 24
+# FILE 1644739662038237 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ionocyte_ppcseq.rds 1 1073741824
+1644739662049077 6 1 6522226 6 18 0 0 0 24
+# FILE 1644739662049122 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/FOXN4_ppcseq.rds 1 1073741824
+1644739663356873 5 1 6522227 5 19 0 0 0 24
+# FILE 1644739663356940 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/CTL_ppcseq.rds 1 1073741824
+1644739663368315 4 1 6522228 4 20 0 0 0 24
+# FILE 1644739663368358 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ciliated-diff_ppcseq.rds 1 1073741824
+1644739663379920 3 1 6522229 3 21 0 0 0 24
+# FILE 1644739663379964 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ciliated_ppcseq.rds 1 1073741824
+1644739663390963 2 1 6522230 2 22 0 0 0 24
+# FILE 1644739663391003 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Basal_ppcseq.rds 1 1073741824
+1644739663401843 1 1 6522231 1 23 0 0 0 24
+# FILE 1644739663401886 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/B_cell_ppcseq.rds 1 1073741824
+1644739663412770 0 1 6522232 0 24 0 0 0 24
+# FILE 1644739673483355 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/MoD-Ma_ppcseq.rds 2 186
+1644739673483684 9 2 6522223 0 23 1 0 0 24
+# FILE 1644739678491043 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NKT_ppcseq.rds 2 186
+1644739678491224 13 2 6522219 0 22 2 0 0 24
+# FILE 1644739678495734 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NK_ppcseq.rds 2 186
+1644739678495745 12 2 6522220 0 21 3 0 0 24
+# FILE 1644739678499629 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/MC_ppcseq.rds 2 186
+1644739678499641 8 2 6522224 0 20 4 0 0 24
+# FILE 1644739678502956 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/IRC_ppcseq.rds 2 186
+1644739678502967 7 2 6522225 0 19 5 0 0 24
+# FILE 1644739679508876 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/NKT-p_ppcseq.rds 2 186
+1644739679508899 14 2 6522218 0 18 6 0 0 24
+# FILE 1644739679512307 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ionocyte_ppcseq.rds 2 186
+1644739679512319 6 2 6522226 0 17 7 0 0 24
+# FILE 1644739679515691 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ciliated-diff_ppcseq.rds 2 186
+1644739679515705 3 2 6522229 0 16 8 0 0 24
+# FILE 1644739679519974 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/B_cell_ppcseq.rds 2 186
+1644739679519985 0 2 6522232 0 15 9 0 0 24
+# FILE 1644739680524313 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/FOXN4_ppcseq.rds 2 186
+1644739680524335 5 2 6522227 0 14 10 0 0 24
+# FILE 1644739680529438 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/unknown_epithelial_ppcseq.rds 2 186
+1644739680529452 23 2 6522209 0 13 11 0 0 24
+# FILE 1644739683534992 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Secretory-diff_ppcseq.rds 2 186
+1644739683535188 20 2 6522212 0 12 12 0 0 24
+# FILE 1644739759645874 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Basal_ppcseq.rds 2 3099
+1644739759647111 1 2 6522231 0 11 13 0 0 24
+# FILE 1644739794684425 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/moDC_ppcseq.rds 2 4750
+1644739794684743 10 2 6522222 0 10 14 0 0 24
+# FILE 1644739823714738 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Neu_ppcseq.rds 2 16789
+1644739823716031 11 2 6522221 0 9 15 0 0 24
+# FILE 1644739825720439 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/rMa_ppcseq.rds 2 10904
+1644739825720459 18 2 6522214 0 8 16 0 0 24
+# FILE 1644739836727964 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/pDC_ppcseq.rds 2 7481
+1644739836728133 17 2 6522215 0 7 17 0 0 24
+# FILE 1644739840734107 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/outliers_epithelial_ppcseq.rds 2 2183
+1644739840734304 16 2 6522216 0 6 18 0 0 24
+# FILE 1644739873758931 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/nrMa_ppcseq.rds 2 15290
+1644739873759107 15 2 6522217 0 5 19 0 0 24
+# FILE 1644739903794641 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/CTL_ppcseq.rds 2 14550
+1644739903795854 4 2 6522228 0 4 20 0 0 24
+# FILE 1644739964838169 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Treg_ppcseq.rds 2 19136
+1644739964839350 22 2 6522210 0 3 21 0 0 24
+# FILE 1644740099897266 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Secretory_ppcseq.rds 2 80165
+1644740099898453 19 2 6522213 0 2 22 0 0 24
+# FILE 1644740460015334 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Ciliated_ppcseq.rds 2 225697
+1644740460020183 2 2 6522230 0 1 23 0 0 24
+# FILE 1644740703077312 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/Squamous_ppcseq.rds 2 350896
+1644740703078635 21 2 6522211 0 0 24 0 0 24
+# COMPLETED 1644740703078699

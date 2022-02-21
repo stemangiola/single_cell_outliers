@@ -1,0 +1,99 @@
+# FILE 1644732336427008 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/COVID_19/DE_analysis/run_de.makeflow.batchlog 1 0
+# STARTED 1644732336428848
+# FILE 1644732336430023 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/unknown_epithelial_DE.rds 1 1073741824
+1644732336444334 23 1 6521769 23 1 0 0 0 24
+# FILE 1644732336444376 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Treg_DE.rds 1 1073741824
+1644732336456363 22 1 6521770 22 2 0 0 0 24
+# FILE 1644732336456415 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Squamous_DE.rds 1 1073741824
+1644732336467797 21 1 6521771 21 3 0 0 0 24
+# FILE 1644732336467834 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Secretory-diff_DE.rds 1 1073741824
+1644732336479257 20 1 6521772 20 4 0 0 0 24
+# FILE 1644732336479298 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Secretory_DE.rds 1 1073741824
+1644732336490530 19 1 6521773 19 5 0 0 0 24
+# FILE 1644732336490566 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/rMa_DE.rds 1 1073741824
+1644732336502064 18 1 6521774 18 6 0 0 0 24
+# FILE 1644732336502102 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/pDC_DE.rds 1 1073741824
+1644732336513453 17 1 6521775 17 7 0 0 0 24
+# FILE 1644732336513492 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/outliers_epithelial_DE.rds 1 1073741824
+1644732336524666 16 1 6521776 16 8 0 0 0 24
+# FILE 1644732336524703 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/nrMa_DE.rds 1 1073741824
+1644732336535731 15 1 6521777 15 9 0 0 0 24
+# FILE 1644732336535773 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NKT-p_DE.rds 1 1073741824
+1644732336547144 14 1 6521778 14 10 0 0 0 24
+# FILE 1644732336547184 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NKT_DE.rds 1 1073741824
+1644732336558350 13 1 6521779 13 11 0 0 0 24
+# FILE 1644732336558409 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NK_DE.rds 1 1073741824
+1644732336569799 12 1 6521780 12 12 0 0 0 24
+# FILE 1644732336569840 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Neu_DE.rds 1 1073741824
+1644732336581066 11 1 6521781 11 13 0 0 0 24
+# FILE 1644732336581103 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/moDC_DE.rds 1 1073741824
+1644732336592702 10 1 6521782 10 14 0 0 0 24
+# FILE 1644732336592740 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/MoD-Ma_DE.rds 1 1073741824
+1644732336603847 9 1 6521783 9 15 0 0 0 24
+# FILE 1644732336603891 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/MC_DE.rds 1 1073741824
+1644732336615128 8 1 6521784 8 16 0 0 0 24
+# FILE 1644732336615163 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/IRC_DE.rds 1 1073741824
+1644732336626614 7 1 6521785 7 17 0 0 0 24
+# FILE 1644732336626653 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ionocyte_DE.rds 1 1073741824
+1644732336637541 6 1 6521786 6 18 0 0 0 24
+# FILE 1644732336637587 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/FOXN4_DE.rds 1 1073741824
+1644732336648858 5 1 6521787 5 19 0 0 0 24
+# FILE 1644732336648901 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/CTL_DE.rds 1 1073741824
+1644732336660045 4 1 6521788 4 20 0 0 0 24
+# FILE 1644732336660087 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ciliated-diff_DE.rds 1 1073741824
+1644732336671419 3 1 6521789 3 21 0 0 0 24
+# FILE 1644732336671459 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ciliated_DE.rds 1 1073741824
+1644732336682401 2 1 6521790 2 22 0 0 0 24
+# FILE 1644732336682440 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Basal_DE.rds 1 1073741824
+1644732336693635 1 1 6521791 1 23 0 0 0 24
+# FILE 1644732336693677 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/B_cell_DE.rds 1 1073741824
+1644732336704491 0 1 6521792 0 24 0 0 0 24
+# FILE 1644732355776510 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/MoD-Ma_DE.rds 2 185584
+1644732355776815 9 2 6521783 0 23 1 0 0 24
+# FILE 1644732355780489 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/MC_DE.rds 2 296344
+1644732355780503 8 2 6521784 0 22 2 0 0 24
+# FILE 1644732356786631 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/moDC_DE.rds 2 1114910
+1644732356786646 10 2 6521782 0 21 3 0 0 24
+# FILE 1644732357791592 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/IRC_DE.rds 2 520002
+1644732357791606 7 2 6521785 0 20 4 0 0 24
+# FILE 1644732358798377 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ionocyte_DE.rds 2 2212747
+1644732358798556 6 2 6521786 0 19 5 0 0 24
+# FILE 1644732361807110 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/outliers_epithelial_DE.rds 2 1187273
+1644732361807293 16 2 6521776 0 18 6 0 0 24
+# FILE 1644732361811025 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NK_DE.rds 2 31282
+1644732361811038 12 2 6521780 0 17 7 0 0 24
+# FILE 1644732361823660 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/FOXN4_DE.rds 2 10230538
+1644732361823672 5 2 6521787 0 16 8 0 0 24
+# FILE 1644732361828267 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Basal_DE.rds 2 566430
+1644732361828279 1 2 6521791 0 15 9 0 0 24
+# FILE 1644732362837605 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/B_cell_DE.rds 2 2441933
+1644732362837619 0 2 6521792 0 14 10 0 0 24
+# FILE 1644732363842599 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NKT_DE.rds 2 436386
+1644732363842616 13 2 6521779 0 13 11 0 0 24
+# FILE 1644732364858595 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ciliated-diff_DE.rds 2 6725686
+1644732364858785 3 2 6521789 0 12 12 0 0 24
+# FILE 1644732365863642 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/unknown_epithelial_DE.rds 2 161424
+1644732365863661 23 2 6521769 0 11 13 0 0 24
+# FILE 1644732365875093 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/rMa_DE.rds 2 2983314
+1644732365875107 18 2 6521774 0 10 14 0 0 24
+# FILE 1644732365877105 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/CTL_DE.rds 2 10117120
+1644732365877117 4 2 6521788 0 9 15 0 0 24
+# FILE 1644732366885694 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Secretory-diff_DE.rds 2 2722557
+1644732366885708 20 2 6521772 0 8 16 0 0 24
+# FILE 1644732366900737 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/NKT-p_DE.rds 2 6723982
+1644732366900749 14 2 6521778 0 7 17 0 0 24
+# FILE 1644732368911950 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/pDC_DE.rds 2 1084724
+1644732368912117 17 2 6521775 0 6 18 0 0 24
+# FILE 1644732369923570 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Neu_DE.rds 2 3103517
+1644732369923590 11 2 6521781 0 5 19 0 0 24
+# FILE 1644732372926891 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Treg_DE.rds 2 3776512
+1644732372927049 22 2 6521770 0 4 20 0 0 24
+# FILE 1644732375930091 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/nrMa_DE.rds 2 16089088
+1644732375930249 15 2 6521777 0 3 21 0 0 24
+# FILE 1644732379933375 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Squamous_DE.rds 2 20393058
+1644732379933558 21 2 6521771 0 2 22 0 0 24
+# FILE 1644732380943794 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Ciliated_DE.rds 2 36651008
+1644732380943815 2 2 6521790 0 1 23 0 0 24
+# FILE 1644732398949420 /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/de_data/Secretory_DE.rds 2 34111488
+1644732398950611 19 2 6521773 0 0 24 0 0 24
+# COMPLETED 1644732398950683
