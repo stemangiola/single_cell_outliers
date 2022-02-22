@@ -15,8 +15,8 @@ custom_theme <-
       theme(
         panel.border = element_blank(),
         axis.line = element_line(),
-        # panel.grid.major = element_line(size = 0.2),
-        # panel.grid.minor = element_line(size = 0.1),
+        panel.grid.major = element_line(size = 0.2),
+        panel.grid.minor = element_line(size = 0.1),
         # text = element_text(size = 12),
         # legend.position = "bottom",
         strip.background = element_blank(),
@@ -35,7 +35,7 @@ custom_theme <-
         # axis.text.x = element_text(
         #   angle = 30,
         #   hjust = 1,
-        #   vjust = 1, 
+        #   vjust = 1,
         # )
       )
   )
@@ -137,24 +137,35 @@ df_label_outliers = df_for_volcano %>%
     mutate(outlier_transcript = map(data, ~ .x %>% arrange(.$PValue))) %>% # 从小到大
     mutate(outlier_transcript = map(outlier_transcript, ~ .x %>% head(5))) %>% 
     select(cell_type, outlier_transcript) %>% 
-    unnest(cols = outlier_transcript)
+    unnest(cols = outlier_transcript) %>% 
+    select(cell_type, transcript) # select only cell_type and transcript for later left_join with df_for_volcano
+# change column name of transcript to symbol (later to label out)
+df_label_outliers <- df_label_outliers %>% 
+    mutate(symbol = transcript)
+
+# combine two df
+df_for_volcano <- df_for_volcano %>% left_join(df_label_outliers, by = c("cell_type", "transcript"))
+# replace NA value to ""
+df_for_volcano <- df_for_volcano %>% dplyr::mutate(symbol = replace_na(symbol, ""))
+
+
 
 dev.off()
-dev.new(width = 3000, height = 1500, unit = "px") 
+dev.new(width = 3000, height = 2000, unit = "px") 
 df_for_volcano %>%
-  ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
-  geom_point(data = df_for_volcano) +
-  geom_point(data = subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),color = "red") +
-  geom_text_repel(data = df_label_outliers, aes(logFC, PValue, label = transcript),
-            # mapping = aes(label = transcript), 
-            color = "red", size = 3, 
-            box.padding = unit(0.5, "lines"), #字到点的距离
-            point.padding = unit(0.8, "lines"), #短线段可以省略
-            segment.color = "red"
-            # show.legend = F
-            ) + # segment.colour = NA, #不显示线段
+    ggplot(aes(x = logFC, y = PValue, label = symbol)) +
+    geom_point(aes(color = is_significant, size = is_significant, alpha = is_significant)) +
+    geom_text_repel(max.overlaps = 30, size = 2) +
+    # geom_point(data = subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),color = "red") +
+    # geom_text_repel(aes(logFC, PValue, label = symbol),
+    #                 # mapping = aes(label = transcript),
+    #                 # color = "red", size = 3,
+    #                 box.padding = unit(0.5, "lines"), #字到点的距离
+    #                 point.padding = unit(0.8, "lines") #短线段可以省略 +
+    #                 segment.color = "red")
+    # ) 
     facet_wrap(~ cell_type) +
-  scale_y_continuous(trans = "log10_reverse") +
-    custom_theme
-
-
+    custom_theme +
+    scale_y_continuous(trans = "log10_reverse") +
+    scale_color_manual(values = c("black","#e11f28")) +
+    scale_size_discrete(range = c(0, 2))
