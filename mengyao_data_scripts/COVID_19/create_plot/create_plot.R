@@ -15,28 +15,28 @@ custom_theme <-
       theme(
         panel.border = element_blank(),
         axis.line = element_line(),
-        panel.grid.major = element_line(size = 0.2),
-        panel.grid.minor = element_line(size = 0.1),
-        text = element_text(size = 12),
-        legend.position = "bottom",
+        # panel.grid.major = element_line(size = 0.2),
+        # panel.grid.minor = element_line(size = 0.1),
+        # text = element_text(size = 12),
+        # legend.position = "bottom",
         strip.background = element_blank(),
-        axis.title.x = element_text(margin = margin(
-          t = 10,
-          r = 10,
-          b = 10,
-          l = 10
-        )),
-        axis.title.y = element_text(margin = margin(
-          t = 10,
-          r = 10,
-          b = 10,
-          l = 10
-        )),
-        axis.text.x = element_text(
-          angle = 40,
-          hjust = 1,
-          vjust = 1, size = 8
-        )
+        # axis.title.x = element_text(margin = margin(
+        #   t = 10,
+        #   r = 10,
+        #   b = 10,
+        #   l = 10
+        # )),
+        # axis.title.y = element_text(margin = margin(
+        #   t = 10,
+        #   r = 10,
+        #   b = 10,
+        #   l = 10
+        # )),
+        # axis.text.x = element_text(
+        #   angle = 30,
+        #   hjust = 1,
+        #   vjust = 1, 
+        # )
       )
   )
 
@@ -130,41 +130,31 @@ df_for_volcano$tot_deleterious_outliers[is.na(df_for_volcano$tot_deleterious_out
 df_for_volcano %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/final_sum_table/df_with_ppcseq.rds")
 
 
-# p1 = df_for_volcano %>%
-#   ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
-#   geom_point() +
-#   # geom_text(subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),
-#   #                         mapping = aes(label = transcript),
-#   #                          size = 2,
-#   #                          color = "black",
-#   #                 ) +
-#   facet_wrap(~ cell_type) +
-#   scale_y_continuous(trans = "log10_reverse") +
-#   custom_theme
+# filter out the essential transcript (top 5 Pvalue) with outliers
+df_label_outliers = df_for_volcano %>% 
+    filter(tot_deleterious_outliers > 0) %>% 
+    nest(data = -cell_type) %>% 
+    mutate(outlier_transcript = map(data, ~ .x %>% arrange(.$PValue))) %>% # 从小到大
+    mutate(outlier_transcript = map(outlier_transcript, ~ .x %>% head(5))) %>% 
+    select(cell_type, outlier_transcript) %>% 
+    unnest(cols = outlier_transcript)
 
-# Plus the geom_text 
-# df_label_outliers = df_for_volcano %>% filter(tot_deleterious_outliers > 0)
-# p2 = p1 + geom_text(data=df_label_outliers,mapping = aes(label=transcript), color = "black") + facet_wrap(~ cell_type)
-
-# p2 = ggplot(df_label_outliers, aes(x = logFC, y = PValue,label= transcript)) + facet_wrap(~cell_type) +
-#   geom_point(color = "red") + geom_text_repel(color = "red", size = 2, max.overlaps = 10,
-#                                  box.padding = 0.5, #字到点的距离
-#                                  point.padding = 0.8, #字到点的距离，点周围的空白宽度
-#                                  min.segment.length = 0.5, #短线段可以省略
-#                                  segment.color = "red",# segment.colour = NA, #不显示线段
-#                                  show.legend = F) + custom_theme
-
-
+dev.off()
+dev.new(width = 3000, height = 1500, unit = "px") 
 df_for_volcano %>%
   ggplot(aes(x = logFC, y = PValue, colour = FDR < 0.05)) +
-  geom_point(data = df_for_volcano) + facet_wrap(~ cell_type) +
+  geom_point(data = df_for_volcano) +
   geom_point(data = subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),color = "red") +
-  geom_text(data = subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),
-            mapping = aes(label = transcript), max.overlaps = Inf, na.rm = TRUE,
-            color = "black") +
-            # box.padding = unit(0.5, "lines"),
-            # point.padding = unit(0.8, "lines"), segment.color = "black", show.legend = FALSE,) +
+  geom_text_repel(data = df_label_outliers, aes(logFC, PValue, label = transcript),
+            # mapping = aes(label = transcript), 
+            color = "red", size = 3, 
+            box.padding = unit(0.5, "lines"), #字到点的距离
+            point.padding = unit(0.8, "lines"), #短线段可以省略
+            segment.color = "red"
+            # show.legend = F
+            ) + # segment.colour = NA, #不显示线段
+    facet_wrap(~ cell_type) +
   scale_y_continuous(trans = "log10_reverse") +
-  custom_theme
+    custom_theme
 
 
