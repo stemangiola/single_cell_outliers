@@ -31,8 +31,7 @@ ppcseq_df = ppcseq_df %>%
 ppcseq_df %>% ggplot(aes(x = FC)) +
     geom_histogram(bins = 30) +
     xlim(-10, 10) +
-    scale_x_continuous(trans = pseudolog10_trans) +
-    facet_wrap(~ cell_type) + 
+    scale_x_continuous(trans = pseudolog10_trans, guide = guide_axis(check.overlap = TRUE)) +
+    facet_wrap(~ cell_type, scales = "free") + 
     ggtitle("Histogram of fold changes of differential transcripts with and without outliers") +
-    custom_theme
-    
+    custom_theme 

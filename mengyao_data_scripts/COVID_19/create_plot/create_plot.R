@@ -4,11 +4,8 @@ library(glue)
 library(ggplot2)
 library(tidybulk)
 library(ggrepel)
-devtools::install_github("slowkow/ggrepel")
-
 
 friendly_cols <- dittoSeq::dittoColors()
-
 # Set theme
 custom_theme <-
   list(
@@ -36,9 +33,9 @@ custom_theme <-
           l = 10
         )),
         axis.text.x = element_text(
-          angle = 30,
+          angle = 40,
           hjust = 1,
-          vjust = 1
+          vjust = 1, size = 8
         )
       )
   )
