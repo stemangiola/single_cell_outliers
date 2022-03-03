@@ -1,5 +1,3 @@
-devtools::install_github("stemangiola/tidysc")
-devtools::install_github("stemangiola/nanny")
 # devtools::install_github("stemangiola/tidySingleCellExperiment")
 library(tidySummarizedExperiment)
 library(tidysc)
@@ -236,21 +234,3 @@ counts.ppc_plots %>%
   .[1:2]
 
 
-
-
-
-
-# ppcseq, try the tutorial, read the article, adapt the tutorial to one of your dataset
-# taking as factor of interest (covariate) some clinical of personal (sex) variable of one dataset
-
-
-# Zijie: aggregate all the datasets available
-# install cellsig from my github
-# bind_row all datasets
-# print in the console cellsig::tree
-# Look what name convention we use in the cell tree
-# Convert the cell names (if exist in the tree), or adapt cell name to similar convention
-# For conversion mutate(case_when(_)) is quite powerful
-# Ask jian, about how to use his pipeline for your dataset
-# See results
-# Write report
