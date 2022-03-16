@@ -9,7 +9,7 @@ out_dir = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanom
 # error_file = "> /stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/ppcseq_data/err.stderr  2>&1"
 
 files = list.files(path = glue("{input_dir}"))
-cell_name = tools::file_path_sans_ext(files) %>% basename() %>% str_replace_all("_DE","")
+cell_name = tools::file_path_sans_ext(files) %>% basename() %>% str_replace("_DE","")
 
 command_df = tibble(out_dir = out_dir, 
                     cell_name = cell_name,

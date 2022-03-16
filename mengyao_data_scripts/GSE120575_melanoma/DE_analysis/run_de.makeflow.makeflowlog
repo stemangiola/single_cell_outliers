@@ -1,47 +1,47 @@
-# FILE 1646138665765027 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/GSE120575_melanoma/DE_analysis/run_de.makeflow.batchlog 1 0
-# STARTED 1646138665766926
-# FILE 1646138665771186 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Regulatory_T_cells_DE.rds 1 1073741824
-1646138665805119 10 1 6595703 10 1 0 0 0 11
-# FILE 1646138665805165 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Plasma_cells_DE.rds 1 1073741824
-1646138665821028 9 1 6595704 9 2 0 0 0 11
-# FILE 1646138665821068 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Monocytes_Macrophages_DE.rds 1 1073741824
-1646138665834233 8 1 6595705 8 3 0 0 0 11
-# FILE 1646138665834271 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Memory_T_cells_DE.rds 1 1073741824
-1646138665847394 7 1 6595706 7 4 0 0 0 11
-# FILE 1646138665847436 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_DE.rds 1 1073741824
-1646138665860466 6 1 6595707 6 5 0 0 0 11
-# FILE 1646138665860511 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_exhausted_cell_cycle_DE.rds 1 1073741824
-1646138665877883 5 1 6595708 5 6 0 0 0 11
-# FILE 1646138665877923 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_HS_CD8+_T_cells_DE.rds 1 1073741824
-1646138665892052 4 1 6595709 4 7 0 0 0 11
-# FILE 1646138665892090 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_CD8+_T_cells_DE.rds 1 1073741824
-1646138665906585 3 1 6595710 3 8 0 0 0 11
-# FILE 1646138665906625 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Dendritic_cells_DE.rds 1 1073741824
-1646138665920972 2 1 6595711 2 9 0 0 0 11
-# FILE 1646138665921022 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Cytotoxicity_Lymphocytes_DE.rds 1 1073741824
-1646138665944767 1 1 6595712 1 10 0 0 0 11
-# FILE 1646138665944806 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/B_cells_DE.rds 1 1073741824
-1646138665965368 0 1 6595713 0 11 0 0 0 11
-# FILE 1646138701042472 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Plasma_cells_DE.rds 2 1158972
-1646138701042656 9 2 6595704 0 10 1 0 0 11
-# FILE 1646138714056647 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_DE.rds 2 19292160
-1646138714056840 6 2 6595707 0 9 2 0 0 11
-# FILE 1646138717064897 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Monocytes_Macrophages_DE.rds 2 24698880
-1646138717065100 8 2 6595705 0 8 3 0 0 11
-# FILE 1646138718068809 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Memory_T_cells_DE.rds 2 24731648
-1646138718068834 7 2 6595706 0 7 4 0 0 11
-# FILE 1646138719078834 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_HS_CD8+_T_cells_DE.rds 2 21079511
-1646138719078863 4 2 6595709 0 6 5 0 0 11
-# FILE 1646138726085790 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Regulatory_T_cells_DE.rds 2 39018496
-1646138726087377 10 2 6595703 0 5 6 0 0 11
-# FILE 1646138728096286 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_exhausted_cell_cycle_DE.rds 2 31694848
-1646138728096311 5 2 6595708 0 4 7 0 0 11
-# FILE 1646138736105970 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Dendritic_cells_DE.rds 2 5477372
-1646138736106147 2 2 6595711 0 3 8 0 0 11
-# FILE 1646138751121850 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/B_cells_DE.rds 2 5562368
-1646138751122049 0 2 6595713 0 2 9 0 0 11
-# FILE 1646138757128405 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_CD8+_T_cells_DE.rds 2 29360128
-1646138757128623 3 2 6595710 0 1 10 0 0 11
-# FILE 1646138764134030 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Cytotoxicity_Lymphocytes_DE.rds 2 35807232
-1646138764134345 1 2 6595712 0 0 11 0 0 11
-# COMPLETED 1646138764134391
+# FILE 1647344361836438 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/GSE120575_melanoma/DE_analysis/run_de.makeflow.batchlog 1 0
+# STARTED 1647344361839161
+# FILE 1647344361840282 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Regulatory_T_cells_DE.rds 1 1073741824
+1647344362331869 10 1 6637453 10 1 0 0 0 11
+# FILE 1647344362331926 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Plasma_cells_DE.rds 1 1073741824
+1647344362545717 9 1 6637454 9 2 0 0 0 11
+# FILE 1647344362545769 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Monocytes_Macrophages_DE.rds 1 1073741824
+1647344362835831 8 1 6637455 8 3 0 0 0 11
+# FILE 1647344362835891 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Memory_T_cells_DE.rds 1 1073741824
+1647344363133754 7 1 6637456 7 4 0 0 0 11
+# FILE 1647344363133808 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_DE.rds 1 1073741824
+1647344363348601 6 1 6637457 6 5 0 0 0 11
+# FILE 1647344363348650 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_exhausted_cell_cycle_DE.rds 1 1073741824
+1647344363443032 5 1 6637458 5 6 0 0 0 11
+# FILE 1647344363443074 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_HS_CD8+_T_cells_DE.rds 1 1073741824
+1647344363539705 4 1 6637459 4 7 0 0 0 11
+# FILE 1647344363539745 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_CD8+_T_cells_DE.rds 1 1073741824
+1647344363733449 3 1 6637460 3 8 0 0 0 11
+# FILE 1647344363733492 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1647344364231020 2 1 6637461 2 9 0 0 0 11
+# FILE 1647344364231227 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Cytotoxicity_Lymphocytes_DE.rds 1 1073741824
+1647344364439846 1 1 6637462 1 10 0 0 0 11
+# FILE 1647344364439894 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/B_cells_DE.rds 1 1073741824
+1647344364540331 0 1 6637463 0 11 0 0 0 11
+# FILE 1647344490241450 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Plasma_cells_DE.rds 2 1166791
+1647344490242694 9 2 6637454 0 10 1 0 0 11
+# FILE 1647344515840635 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Regulatory_T_cells_DE.rds 2 39002694
+1647344515840841 10 2 6637453 0 9 2 0 0 11
+# FILE 1647344559640052 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Monocytes_Macrophages_DE.rds 2 22839296
+1647344559641296 8 2 6637455 0 8 3 0 0 11
+# FILE 1647344588043678 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Memory_T_cells_DE.rds 2 24986717
+1647344588043836 7 2 6637456 0 7 4 0 0 11
+# FILE 1647344619530761 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_DE.rds 2 22085632
+1647344619532209 6 2 6637457 0 6 5 0 0 11
+# FILE 1647344656030691 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Lymphocytes_exhausted_cell_cycle_DE.rds 2 36804982
+1647344656035113 5 2 6637458 0 5 6 0 0 11
+# FILE 1647344679439299 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_HS_CD8+_T_cells_DE.rds 2 17219584
+1647344679439465 4 2 6637459 0 4 7 0 0 11
+# FILE 1647344714938875 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Exhausted_CD8+_T_cells_DE.rds 2 28778496
+1647344714939040 3 2 6637460 0 3 8 0 0 11
+# FILE 1647344733635484 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Dendritic_cells_DE.rds 2 5487522
+1647344733730565 2 2 6637461 0 2 9 0 0 11
+# FILE 1647344779341711 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/Cytotoxicity_Lymphocytes_DE.rds 2 28860416
+1647344779341906 1 2 6637462 0 1 10 0 0 11
+# FILE 1647344798535672 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/de_data/B_cells_DE.rds 2 12591104
+1647344798538452 0 2 6637463 0 0 11 0 0 11
+# COMPLETED 1647344798538586

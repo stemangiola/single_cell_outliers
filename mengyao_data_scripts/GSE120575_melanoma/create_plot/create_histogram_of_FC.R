@@ -43,7 +43,6 @@ custom_theme <-
 # df =  ppcseq.rds
 ppcseq_dir = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/ppcseq_data/"
 ppcseq_files = list.files(path = glue("{ppcseq_dir}"))
-cell_names = tools::file_path_sans_ext(ppcseq_files) %>% basename() %>% str_replace_all("_ppcseq","")
 
 ppcseq_df <- tibble(filename = ppcseq_files) %>% # create a data frame
     # holding the file names
@@ -64,7 +63,8 @@ ppcseq_df = ppcseq_df %>%
     distinct(cell_type, transcript, slope_after_outlier_filtering, slope_before_outlier_filtering) %>% 
     mutate(FC = slope_after_outlier_filtering/slope_before_outlier_filtering) 
 
-ppcseq_df %>% ggplot(aes(x = FC)) +
+dev.new()
+histogram_plot <- ppcseq_df %>% ggplot(aes(x = FC)) +
     geom_histogram(bins = 30) +
     xlim(-10, 10) +
     scale_x_continuous(trans = pseudolog10_trans, guide = guide_axis(check.overlap = TRUE)) +
@@ -72,3 +72,12 @@ ppcseq_df %>% ggplot(aes(x = FC)) +
     ggtitle("Histogram of fold changes of differential transcripts with and without outliers for dataset (GSE120575)") +
     custom_theme
 
+histogram_plot %>% ggsave(filename = "Histogram_of_FC.pdf", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
+
+histogram_plot %>% ggsave(filename = "Histogram_of_FC.png", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
+
+dev.off()

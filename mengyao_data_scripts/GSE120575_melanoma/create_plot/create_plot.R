@@ -53,26 +53,47 @@ df <- files %>%
 # df %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/all_de.rds")
 
 # generate faced density plot
-df %>% 
-    ggplot(aes(x = abundance_RNA_scaled, color = sample)) +
+dev.new()
+density_plot <- df %>% 
+    ggplot(aes(x = abundance_RNA_scaled + 1, color = sample)) +
     geom_density() +
     facet_wrap(~ cell_type) +
     scale_x_log10() +
     ggtitle("Density plot for 11 cell types of dataset (GSE120575)") +
     custom_theme 
 
+density_plot %>% ggsave(filename = "Density_plot.pdf", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
+
+density_plot %>% ggsave(filename = "Density_plot.png", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
+dev.off()
+
+
 # PCA plot
-df1 = df %>% nest(data = -cell_type) %>% 
+df_for_PCA = df %>% nest(data = -cell_type) %>% 
     mutate(test_df = map(data, ~.x %>% pivot_sample())) %>% 
     select(cell_type,test_df) %>% unnest(test_df)
 
-df1 %>% 
+dev.new()
+PCA_plot <- df_for_PCA %>% 
     ggplot(aes(x = PC1, y = PC2, colour = condition)) +
     geom_point() +
     # geom_text_repel(aes(label = sample), show.legend = FALSE) +
     facet_wrap(~ cell_type) +
     ggtitle("PCA plot for 11 cell types for dataset (GSE120575)") +
     custom_theme
+
+PCA_plot %>% ggsave(filename = "PCA_plot.pdf", 
+                        path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                        width = 14, height = 10, units = "in", dpi = 300)
+
+PCA_plot %>% ggsave(filename = "PCA_plot.png", 
+                        path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                        width = 14, height = 10, units = "in", dpi = 300)
+dev.off()
 
 #####------------------------------------------------------------------------------------------------------------
 # df1 %>% 
@@ -87,9 +108,7 @@ df1 %>%
 # # Visualise cell type by cell type separately, zoom out, decrease the size of text
 # # see if all outliers appear to have the same or overlapping sample labels
 
-
 ###-----------------------------------------------------------------------------------------------------------------
-
 
 # bar plot
 df <- df %>% 
@@ -97,8 +116,9 @@ df <- df %>%
     mutate(is_significant = FDR < 0.05) 
 
 new_df = df %>% nest(data = -cell_type) %>% 
-    mutate(tot_transcript = map(data, ~ .x$transcript %>% n_distinct()))
-new_df = new_df %>% select(-data) %>% unnest(tot_transcript)
+    mutate(tot_transcript = map_dbl(data, ~ .x$transcript %>% n_distinct())) %>% 
+    select(-data) 
+
 # read final summary table
 sum_table <- readRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/final_sum_table/sum_table.rds")
 
@@ -110,9 +130,10 @@ sum_table = sum_table %>% select(cell_type, transcript, de_genes, genes_with_out
 sum_table <- sum_table %>% pivot_longer(cols = c(transcript, de_genes, genes_with_outliers, outliers_in_top_PValue),
                                         names_to = "variable",
                                         values_to = "Count")
-sum_table %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/final_sum_table/final_sum_table.rds")
+sum_table %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/final_sum_table/sum_table_for_bar_plot.rds")
 # draw bar plot
 
+# change the levels of 4 variables 
 sum_table$variable = factor(sum_table$variable, levels = c("transcript","de_genes","genes_with_outliers","outliers_in_top_PValue"))
 dev.new()
 bar_plot = sum_table %>% ggplot(aes(x = variable, y = Count,fill = variable)) +
@@ -124,18 +145,23 @@ bar_plot = sum_table %>% ggplot(aes(x = variable, y = Count,fill = variable)) +
     theme(axis.text.x = element_text(angle = 90, hjust = 1))+
     ggtitle("summary table of dataset (GSE120575)")
 
-bar_plot
+bar_plot %>% ggsave(filename = "summary_bar_plot.pdf", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
 
+bar_plot %>% ggsave(filename = "summary_bar_plot.png", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
+dev.off()
 
 # volcano plot
-df2 = df %>% nest(data = -cell_type) %>% 
+data_for_volanco <- df %>% nest(data = -cell_type) %>% 
     mutate(test_df = map(data, ~.x %>% pivot_transcript())) %>% 
     select(cell_type,test_df) %>% unnest(test_df)
 
 # read all ppcseq results
 ppcseq_dir = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/ppcseq_data/"
 ppcseq_files = list.files(path = glue("{ppcseq_dir}"))
-cell_names = tools::file_path_sans_ext(ppcseq_files) %>% basename() %>% str_replace_all("_ppcseq","")
 
 ppcseq_df <- tibble(filename = ppcseq_files) %>% # create a data frame
     # holding the file names
@@ -150,13 +176,13 @@ ppcseq_df$cell_type <- gsub("_ppcseq.rds", "", ppcseq_df$cell_type)
 # ppcseq_df %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/final_sum_table/all_genes_with_outliers.rds")
 
 # combine two dfs
-df_for_volcano = df2 %>% left_join(ppcseq_df) 
-df_for_volcano$tot_deleterious_outliers[is.na(df_for_volcano$tot_deleterious_outliers)] <- 0 # change all NA to 0 
-df_for_volcano %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/df_with_ppcseq.rds")
+data_for_volanco = data_for_volanco %>% left_join(ppcseq_df) 
+data_for_volanco$tot_deleterious_outliers[is.na(data_for_volanco$tot_deleterious_outliers)] <- 0 # change all NA to 0 
+data_for_volanco %>% saveRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/final_sum_table/dataframe_for_volcano.rds")
 
 
 # filter out the essential transcript (top 5 Pvalue) with outliers
-df_label_outliers = df_for_volcano %>% 
+df_label_outliers = data_for_volanco %>% 
     filter(tot_deleterious_outliers > 0) %>% 
     nest(data = -cell_type) %>% 
     mutate(outlier_transcript = map(data, ~ .x %>% arrange(.$PValue))) %>% # 从小到大
@@ -165,18 +191,21 @@ df_label_outliers = df_for_volcano %>%
     unnest(cols = outlier_transcript) %>% 
     select(cell_type, transcript) # select only cell_type and transcript for later left_join with df_for_volcano
 # change column name of transcript to symbol (later to label out)
+
+
+
 df_label_outliers <- df_label_outliers %>% 
     mutate(symbol = transcript)
 
 # combine two df
-df_for_volcano <- df_for_volcano %>% left_join(df_label_outliers, by = c("cell_type", "transcript"))
+data_for_volanco <- data_for_volanco %>% left_join(df_label_outliers, by = c("cell_type", "transcript"))
 # replace NA value to ""
-df_for_volcano <- df_for_volcano %>% dplyr::mutate(symbol = replace_na(symbol, ""))
-
+data_for_volanco <- data_for_volanco %>% dplyr::mutate(symbol = replace_na(symbol, ""))
 
 dev.off()
 dev.new(width = 3000, height = 2000, unit = "px") 
-df_for_volcano %>%
+dev.new()
+volcano_plot <- data_for_volanco %>%
     ggplot(aes(x = logFC, y = PValue, label = symbol)) +
     geom_point(aes(color = is_significant, size = is_significant, alpha = is_significant)) +
     geom_text_repel(max.overlaps = 30, size = 2) +
@@ -194,5 +223,12 @@ df_for_volcano %>%
     scale_color_manual(values = c("black","#e11f28")) +
     scale_size_discrete(range = c(0, 2))
 
+volcano_plot %>% ggsave(filename = "Volcano_plot.pdf", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
 
+volcano_plot %>% ggsave(filename = "Volcano_plot.png", 
+                    path = "/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/plot/",
+                    width = 14, height = 10, units = "in", dpi = 300)
 
+dev.off()
