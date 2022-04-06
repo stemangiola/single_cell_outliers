@@ -1,0 +1,135 @@
+# FILE 1648987973845334 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/SCP1288_renal_cell_carcinoma/DE_analysis/run_de.makeflow.batchlog 1 0
+# STARTED 1648987973847048
+# FILE 1648987973848144 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/VSIR-Hi_TAM_DE.rds 1 1073741824
+1648987973887795 32 1 6738814 32 1 0 0 0 33
+# FILE 1648987973887859 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/TP2_DE.rds 1 1073741824
+1648987973907186 31 1 6738815 31 2 0 0 0 33
+# FILE 1648987973907231 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/TP1_DE.rds 1 1073741824
+1648987973918362 30 1 6738816 30 3 0 0 0 33
+# FILE 1648987973918405 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/T-Reg_DE.rds 1 1073741824
+1648987973929274 29 1 6738817 29 4 0 0 0 33
+# FILE 1648987973929316 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Plasma_cell_DE.rds 1 1073741824
+1648987973940552 28 1 6738818 28 5 0 0 0 33
+# FILE 1648987973940598 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/NKT_DE.rds 1 1073741824
+1648987973954118 27 1 6738819 27 6 0 0 0 33
+# FILE 1648987973954162 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MX1-Hi_CD8+_T_cell_DE.rds 1 1073741824
+1648987973968469 26 1 6738820 26 7 0 0 0 33
+# FILE 1648987973968517 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_T-Helper_DE.rds 1 1073741824
+1648987973980760 25 1 6738821 25 8 0 0 0 33
+# FILE 1648987973980808 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_NK_DE.rds 1 1073741824
+1648987973992085 24 1 6738822 24 9 0 0 0 33
+# FILE 1648987973992129 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_Myeloid_DE.rds 1 1073741824
+1648987974003147 23 1 6738823 23 10 0 0 0 33
+# FILE 1648987974003190 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_CD8+_T_cell_DE.rds 1 1073741824
+1648987974021360 22 1 6738824 22 11 0 0 0 33
+# FILE 1648987974021403 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Misc_Undetermined_DE.rds 1 1073741824
+1648987974032591 21 1 6738825 21 12 0 0 0 33
+# FILE 1648987974032635 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Memory_T-Helper_DE.rds 1 1073741824
+1648987974043458 20 1 6738826 20 13 0 0 0 33
+# FILE 1648987974043503 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Mast_cell_DE.rds 1 1073741824
+1648987974056253 19 1 6738827 19 14 0 0 0 33
+# FILE 1648987974056296 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/LowLibSize_Macrophage_DE.rds 1 1073741824
+1648987974074428 18 1 6738828 18 15 0 0 0 33
+# FILE 1648987974074488 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/GPNMB-Hi_TAM_DE.rds 1 1073741824
+1648987974088456 17 1 6738829 17 16 0 0 0 33
+# FILE 1648987974088509 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FOLR2-Hi_TAM_DE.rds 1 1073741824
+1648987974100801 16 1 6738830 16 17 0 0 0 33
+# FILE 1648987974100846 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Fibroblast_DE.rds 1 1073741824
+1648987974112290 15 1 6738831 15 18 0 0 0 33
+# FILE 1648987974112337 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FGFBP2+_NK_DE.rds 1 1073741824
+1648987974125550 14 1 6738832 14 19 0 0 0 33
+# FILE 1648987974125598 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FGFBP2-_NK_DE.rds 1 1073741824
+1648987974147413 13 1 6738833 13 20 0 0 0 33
+# FILE 1648987974147464 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Endothelial_DE.rds 1 1073741824
+1648987974160599 12 1 6738834 12 21 0 0 0 33
+# FILE 1648987974160648 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Effector_T-Helper_DE.rds 1 1073741824
+1648987974171604 11 1 6738835 11 22 0 0 0 33
+# FILE 1648987974171651 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_Tumor_DE.rds 1 1073741824
+1648987974182431 10 1 6738836 10 23 0 0 0 33
+# FILE 1648987974182475 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_TAM_DE.rds 1 1073741824
+1648987974198869 9 1 6738837 9 24 0 0 0 33
+# FILE 1648987974198938 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_CD8+_T_cell_DE.rds 1 1073741824
+1648987974219456 8 1 6738838 8 25 0 0 0 33
+# FILE 1648987974219506 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CXCL10-Hi_TAM_DE.rds 1 1073741824
+1648987974235248 7 1 6738839 7 26 0 0 0 33
+# FILE 1648987974235292 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CLEC9A+_DC_DE.rds 1 1073741824
+1648987974250970 6 1 6738840 6 27 0 0 0 33
+# FILE 1648987974251022 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD1C+_DC_DE.rds 1 1073741824
+1648987974267963 5 1 6738841 5 28 0 0 0 33
+# FILE 1648987974268013 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD16+_Monocyte_DE.rds 1 1073741824
+1648987974283889 4 1 6738842 4 29 0 0 0 33
+# FILE 1648987974283946 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD16-_Monocyte_DE.rds 1 1073741824
+1648987974296973 3 1 6738843 3 30 0 0 0 33
+# FILE 1648987974297020 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/B_cell_DE.rds 1 1073741824
+1648987974314372 2 1 6738844 2 31 0 0 0 33
+# FILE 1648987974314424 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/41BB-Lo_CD8+_T_cell_DE.rds 1 1073741824
+1648987974327655 1 1 6738845 1 32 0 0 0 33
+# FILE 1648987974327699 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/41BB-Hi_CD8+_T_cell_DE.rds 1 1073741824
+1648987974338517 0 1 6738846 0 33 0 0 0 33
+# FILE 1648987993480535 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Mast_cell_DE.rds 2 118122
+1648987993480866 19 2 6738827 0 32 1 0 0 33
+# FILE 1648987994486751 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Fibroblast_DE.rds 2 63881
+1648987994486785 15 2 6738831 0 31 2 0 0 33
+# FILE 1648987995506004 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MX1-Hi_CD8+_T_cell_DE.rds 2 195581
+1648987995506073 26 2 6738820 0 30 3 0 0 33
+# FILE 1648987995510050 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Misc_Undetermined_DE.rds 2 119696
+1648987995510063 21 2 6738825 0 29 4 0 0 33
+# FILE 1648987995514427 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/LowLibSize_Macrophage_DE.rds 2 336523
+1648987995514439 18 2 6738828 0 28 5 0 0 33
+# FILE 1648987995518016 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FGFBP2+_NK_DE.rds 2 318348
+1648987995518028 14 2 6738832 0 27 6 0 0 33
+# FILE 1648987995522785 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Endothelial_DE.rds 2 451038
+1648987995522798 12 2 6738834 0 26 7 0 0 33
+# FILE 1648987995527709 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CLEC9A+_DC_DE.rds 2 538514
+1648987995527722 6 2 6738840 0 25 8 0 0 33
+# FILE 1648987995531394 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD16+_Monocyte_DE.rds 2 263879
+1648987995531411 4 2 6738842 0 24 9 0 0 33
+# FILE 1648987996573012 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/NKT_DE.rds 2 2485135
+1648987996573194 27 2 6738819 0 23 10 0 0 33
+# FILE 1648987996577652 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_T-Helper_DE.rds 2 676942
+1648987996577667 25 2 6738821 0 22 11 0 0 33
+# FILE 1648987996581506 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_CD8+_T_cell_DE.rds 2 1205456
+1648987996581519 22 2 6738824 0 21 12 0 0 33
+# FILE 1648987996585203 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Memory_T-Helper_DE.rds 2 514938
+1648987996585215 20 2 6738826 0 20 13 0 0 33
+# FILE 1648987996590321 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FGFBP2-_NK_DE.rds 2 1599067
+1648987996590333 13 2 6738833 0 19 14 0 0 33
+# FILE 1648987996596182 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_Tumor_DE.rds 2 1288984
+1648987996596195 10 2 6738836 0 18 15 0 0 33
+# FILE 1648987996601172 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD1C+_DC_DE.rds 2 1658680
+1648987996601187 5 2 6738841 0 17 16 0 0 33
+# FILE 1648987997616909 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/VSIR-Hi_TAM_DE.rds 2 4181875
+1648987997617150 32 2 6738814 0 16 17 0 0 33
+# FILE 1648987997626165 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_TAM_DE.rds 2 1604309
+1648987997626178 9 2 6738837 0 15 18 0 0 33
+# FILE 1648987997631703 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Cycling_CD8+_T_cell_DE.rds 2 1974160
+1648987997631718 8 2 6738838 0 14 19 0 0 33
+# FILE 1648987997635289 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CXCL10-Hi_TAM_DE.rds 2 1304772
+1648987997635361 7 2 6738839 0 13 20 0 0 33
+# FILE 1648987997683504 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/CD16-_Monocyte_DE.rds 2 2462266
+1648987997683560 3 2 6738843 0 12 21 0 0 33
+# FILE 1648987998688470 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_NK_DE.rds 2 243940
+1648987998688545 24 2 6738822 0 11 22 0 0 33
+# FILE 1648987999699713 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/TP2_DE.rds 2 6862815
+1648987999699742 31 2 6738815 0 10 23 0 0 33
+# FILE 1648987999717489 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/GPNMB-Hi_TAM_DE.rds 2 5351717
+1648987999717506 17 2 6738829 0 9 24 0 0 33
+# FILE 1648987999733276 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/FOLR2-Hi_TAM_DE.rds 2 5185607
+1648987999733289 16 2 6738830 0 8 25 0 0 33
+# FILE 1648987999741890 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Effector_T-Helper_DE.rds 2 3514594
+1648987999741912 11 2 6738835 0 7 26 0 0 33
+# FILE 1648988000752096 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/T-Reg_DE.rds 2 714065
+1648988000752280 29 2 6738817 0 6 27 0 0 33
+# FILE 1648988000757328 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/MitoHigh_Myeloid_DE.rds 2 1505152
+1648988000757352 23 2 6738823 0 5 28 0 0 33
+# FILE 1648988002771631 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/TP1_DE.rds 2 4326159
+1648988002771702 30 2 6738816 0 4 29 0 0 33
+# FILE 1648988007779789 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/Plasma_cell_DE.rds 2 376535
+1648988007779981 28 2 6738818 0 3 30 0 0 33
+# FILE 1648988013787319 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/B_cell_DE.rds 2 527017
+1648988013787691 2 2 6738844 0 2 31 0 0 33
+# FILE 1648988014793031 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/41BB-Hi_CD8+_T_cell_DE.rds 2 1586023
+1648988014793058 0 2 6738846 0 1 32 0 0 33
+# FILE 1648988018806680 /stornext/HPCScratch/home/ma.m/single_cell_database/SCP1288_renal_cell_carcinoma/data/de_data/41BB-Lo_CD8+_T_cell_DE.rds 2 5333151
+1648988018806929 1 2 6738845 0 0 33 0 0 33
+# COMPLETED 1648988018807095
