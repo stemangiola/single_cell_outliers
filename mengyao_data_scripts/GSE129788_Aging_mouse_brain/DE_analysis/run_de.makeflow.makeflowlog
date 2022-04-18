@@ -1,0 +1,251 @@
+# FILE 1649588974684532 /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/GSE129788_Aging_mouse_brain/DE_analysis/run_de.makeflow.batchlog 1 0
+# STARTED 1649588974686425
+# FILE 1649588974687519 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Vascular_smooth_muscle_cells_DE.rds 1 1073741824
+1649588974739762 24 1 6769907 24 1 0 0 0 25
+# FILE 1649588974739806 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Vascular_and_leptomeningeal_cells_DE.rds 1 1073741824
+1649588974751264 23 1 6769908 23 2 0 0 0 25
+# FILE 1649588974751298 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649588974762077 22 1 6769909 22 3 0 0 0 25
+# FILE 1649588974762111 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Pericytes_DE.rds 1 1073741824
+1649588974773023 21 1 6769910 21 4 0 0 0 25
+# FILE 1649588974773058 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Oligodendrocytes_DE.rds 1 1073741824
+1649588974784051 20 1 6769911 20 5 0 0 0 25
+# FILE 1649588974784086 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Oligodendrocyte_precursor_cells_DE.rds 1 1073741824
+1649588974795006 19 1 6769912 19 6 0 0 0 25
+# FILE 1649588974795042 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Olfactory_ensheathing_glia_DE.rds 1 1073741824
+1649588974806204 18 1 6769913 18 7 0 0 0 25
+# FILE 1649588974806241 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649588974817174 17 1 6769914 17 8 0 0 0 25
+# FILE 1649588974817213 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neuronal_restricted_precursors_DE.rds 1 1073741824
+1649588974828107 16 1 6769915 16 9 0 0 0 25
+# FILE 1649588974828143 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neuroendocrine_cells_DE.rds 1 1073741824
+1649588974839098 15 1 6769916 15 10 0 0 0 25
+# FILE 1649588974839142 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neural_stem_cells_DE.rds 1 1073741824
+1649588974850086 14 1 6769917 14 11 0 0 0 25
+# FILE 1649588974850125 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/NEUR_mature_DE.rds 1 1073741824
+1649588974861138 13 1 6769918 13 12 0 0 0 25
+# FILE 1649588974861175 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/NEUR_immature_DE.rds 1 1073741824
+1649588974872171 12 1 6769919 12 13 0 0 0 25
+# FILE 1649588974872211 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Monocytes_DE.rds 1 1073741824
+1649588974883119 11 1 6769920 11 14 0 0 0 25
+# FILE 1649588974883155 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Microglia_DE.rds 1 1073741824
+1649588974893994 10 1 6769921 10 15 0 0 0 25
+# FILE 1649588974894028 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Macrophages_DE.rds 1 1073741824
+1649588974904951 9 1 6769922 9 16 0 0 0 25
+# FILE 1649588974904989 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649588974915917 8 1 6769923 8 17 0 0 0 25
+# FILE 1649588974915953 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1649588974926943 7 1 6769924 7 18 0 0 0 25
+# FILE 1649588974926979 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Ependymocytes_DE.rds 1 1073741824
+1649588974937890 6 1 6769925 6 19 0 0 0 25
+# FILE 1649588974937941 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Endothelial_cells_DE.rds 1 1073741824
+1649588974948817 5 1 6769926 5 20 0 0 0 25
+# FILE 1649588974948854 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649588974959762 4 1 6769927 4 21 0 0 0 25
+# FILE 1649588974959798 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1649588974970633 3 1 6769928 3 22 0 0 0 25
+# FILE 1649588974970669 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Astrocytes_DE.rds 1 1073741824
+1649588974981567 2 1 6769929 2 23 0 0 0 25
+# FILE 1649588974981604 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Astrocyte_restricted_precursors_DE.rds 1 1073741824
+1649588974992245 1 1 6769930 1 24 0 0 0 25
+# FILE 1649588974992280 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Arachnoid_barrier_cells_DE.rds 1 1073741824
+1649588975003179 0 1 6769931 0 25 0 0 0 25
+# FILE 1649588991167379 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Vascular_and_leptomeningeal_cells_DE.rds 2 232875
+1649588991167667 23 2 6769908 0 24 1 0 0 25
+# FILE 1649588991169107 makeflow.failed.22 4 0
+# FILE 1649588991169352 makeflow.failed.22 3 0
+1649588991172090 22 3 6769909 0 23 1 1 0 25
+# FILE 1649588991172251 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+1649588991172318 22 0 6769909 1 23 1 0 0 25
+# FILE 1649588991172350 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649588991185522 22 1 6769933 0 24 1 0 0 25
+# FILE 1649588991187077 makeflow.failed.17 4 0
+# FILE 1649588991187273 makeflow.failed.17 3 0
+1649588991190747 17 3 6769914 0 23 1 1 0 25
+# FILE 1649588991190872 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+1649588991190917 17 0 6769914 1 23 1 0 0 25
+# FILE 1649588991190951 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649588991201994 17 1 6769934 0 24 1 0 0 25
+# FILE 1649588991207176 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neuronal_restricted_precursors_DE.rds 2 230252
+1649588991207189 16 2 6769915 0 23 2 0 0 25
+# FILE 1649588991244219 makeflow.failed.8 4 0
+# FILE 1649588991244409 makeflow.failed.8 3 0
+1649588991247055 8 3 6769923 0 22 2 1 0 25
+# FILE 1649588991247244 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+1649588991247270 8 0 6769923 1 22 2 0 0 25
+# FILE 1649588991247314 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649588991258444 8 1 6769935 0 23 2 0 0 25
+# FILE 1649588992261479 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Vascular_smooth_muscle_cells_DE.rds 2 825682
+1649588992261494 24 2 6769907 0 22 3 0 0 25
+# FILE 1649588992266558 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neuroendocrine_cells_DE.rds 2 2033847
+1649588992266572 15 2 6769916 0 21 4 0 0 25
+# FILE 1649588992270345 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neural_stem_cells_DE.rds 2 406104
+1649588992270356 14 2 6769917 0 20 5 0 0 25
+# FILE 1649588992273631 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/NEUR_immature_DE.rds 2 384679
+1649588992273644 12 2 6769919 0 19 6 0 0 25
+# FILE 1649588992276441 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Monocytes_DE.rds 2 128765
+1649588992276454 11 2 6769920 0 18 7 0 0 25
+# FILE 1649588992317032 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hemoglobin_expressing_vascular_cells_DE.rds 2 43667
+1649588992317048 7 2 6769924 0 17 8 0 0 25
+# FILE 1649588992330397 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Choroid_plexus_epithelial_cells_DE.rds 2 188668
+1649588992330410 3 2 6769928 0 16 9 0 0 25
+# FILE 1649588992334399 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Astrocyte_restricted_precursors_DE.rds 2 409303
+1649588992334412 1 2 6769930 0 15 10 0 0 25
+# FILE 1649588993342602 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Olfactory_ensheathing_glia_DE.rds 2 3720591
+1649588993342617 18 2 6769913 0 14 11 0 0 25
+# FILE 1649588993347820 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Ependymocytes_DE.rds 2 1188030
+1649588993347834 6 2 6769925 0 13 12 0 0 25
+# FILE 1649588994354105 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Macrophages_DE.rds 2 1105732
+1649588994354263 9 2 6769922 0 12 13 0 0 25
+# FILE 1649588996371239 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Pericytes_DE.rds 2 4340803
+1649588996371257 21 2 6769910 0 11 14 0 0 25
+# FILE 1649588997390246 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Microglia_DE.rds 2 12648378
+1649588997390412 10 2 6769921 0 10 15 0 0 25
+# FILE 1649588998392578 makeflow.failed.4 4 0
+# FILE 1649588998392818 makeflow.failed.4 3 0
+1649588998395432 4 3 6769927 0 9 15 1 0 25
+# FILE 1649588998395623 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+1649588998395657 4 0 6769927 1 9 15 0 0 25
+# FILE 1649588998395715 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649588998409878 4 1 6769936 0 10 15 0 0 25
+# FILE 1649588999411933 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Oligodendrocytes_DE.rds 2 17554394
+1649588999411946 20 2 6769911 0 9 16 0 0 25
+# FILE 1649588999413401 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/NEUR_mature_DE.rds 2 12263424
+1649588999413414 13 2 6769918 0 8 17 0 0 25
+# FILE 1649589000416187 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Astrocytes_DE.rds 2 16981382
+1649589000416342 2 2 6769929 0 7 18 0 0 25
+# FILE 1649589000423859 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Arachnoid_barrier_cells_DE.rds 2 1248446
+1649589000423872 0 2 6769931 0 6 19 0 0 25
+# FILE 1649589007430745 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Endothelial_cells_DE.rds 2 9551872
+1649589007430915 5 2 6769926 0 5 20 0 0 25
+# FILE 1649589007437764 makeflow.failed.17 4 0
+# FILE 1649589007438010 makeflow.failed.17 3 0
+1649589007440730 17 3 6769934 0 4 20 1 0 25
+# FILE 1649589007440911 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+1649589007440941 17 0 6769934 1 4 20 0 0 25
+# FILE 1649589007440977 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649589007453680 17 1 6769938 0 5 20 0 0 25
+# FILE 1649589007460394 makeflow.failed.8 4 0
+# FILE 1649589007460622 makeflow.failed.8 3 0
+1649589007463333 8 3 6769935 0 4 20 1 0 25
+# FILE 1649589007463487 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+1649589007463515 8 0 6769935 1 4 20 0 0 25
+# FILE 1649589007463560 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649589007474547 8 1 6769939 0 5 20 0 0 25
+# FILE 1649589008476868 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Oligodendrocyte_precursor_cells_DE.rds 2 10649600
+1649589008476881 19 2 6769912 0 4 21 0 0 25
+# FILE 1649589008483321 makeflow.failed.22 4 0
+# FILE 1649589008483569 makeflow.failed.22 3 0
+1649589008486213 22 3 6769933 0 3 21 1 0 25
+# FILE 1649589008486373 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+1649589008486400 22 0 6769933 1 3 21 0 0 25
+# FILE 1649589008486425 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649589008500088 22 1 6769940 0 4 21 0 0 25
+# FILE 1649589015517262 makeflow.failed.4 4 0
+# FILE 1649589015517848 makeflow.failed.4 3 0
+1649589015521058 4 3 6769936 0 3 21 1 0 25
+# FILE 1649589015521222 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+1649589015521254 4 0 6769936 1 3 21 0 0 25
+# FILE 1649589015521304 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649589015534856 4 1 6769941 0 4 21 0 0 25
+# FILE 1649589022549133 makeflow.failed.22 4 0
+# FILE 1649589022549617 makeflow.failed.22 3 0
+1649589022553306 22 3 6769940 0 3 21 1 0 25
+# FILE 1649589022553331 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+1649589022553357 22 0 6769940 1 3 21 0 0 25
+# FILE 1649589022553385 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649589022567946 22 1 6769942 0 4 21 0 0 25
+# FILE 1649589023576799 makeflow.failed.17 4 0
+# FILE 1649589023577033 makeflow.failed.17 3 0
+1649589023580055 17 3 6769938 0 3 21 1 0 25
+# FILE 1649589023580078 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+1649589023580103 17 0 6769938 1 3 21 0 0 25
+# FILE 1649589023580136 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649589023592614 17 1 6769943 0 4 21 0 0 25
+# FILE 1649589030606916 makeflow.failed.8 4 0
+# FILE 1649589030607345 makeflow.failed.8 3 0
+1649589030610121 8 3 6769939 0 3 21 1 0 25
+# FILE 1649589030610142 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+1649589030610172 8 0 6769939 1 3 21 0 0 25
+# FILE 1649589030610223 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649589030624369 8 1 6769944 0 4 21 0 0 25
+# FILE 1649589030631523 makeflow.failed.4 4 0
+# FILE 1649589030631730 makeflow.failed.4 3 0
+1649589030634494 4 3 6769941 0 3 21 1 0 25
+# FILE 1649589030634515 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+1649589030634539 4 0 6769941 1 3 21 0 0 25
+# FILE 1649589030634589 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649589030645939 4 1 6769945 0 4 21 0 0 25
+# FILE 1649589037657484 makeflow.failed.17 4 0
+# FILE 1649589037659109 makeflow.failed.17 3 0
+1649589037662101 17 3 6769943 0 3 21 1 0 25
+# FILE 1649589037662123 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+1649589037662149 17 0 6769943 1 3 21 0 0 25
+# FILE 1649589037662187 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649589037674689 17 1 6769946 0 4 21 0 0 25
+# FILE 1649589038680492 makeflow.failed.22 4 0
+# FILE 1649589038680764 makeflow.failed.22 3 0
+1649589038683451 22 3 6769942 0 3 21 1 0 25
+# FILE 1649589038683474 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+1649589038683502 22 0 6769942 1 3 21 0 0 25
+# FILE 1649589038683528 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649589038697034 22 1 6769947 0 4 21 0 0 25
+# FILE 1649589044715780 makeflow.failed.4 4 0
+# FILE 1649589044716366 makeflow.failed.4 3 0
+1649589044718923 4 3 6769945 0 3 21 1 0 25
+# FILE 1649589044718945 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+1649589044718973 4 0 6769945 1 3 21 0 0 25
+# FILE 1649589044719034 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649589044732548 4 1 6769958 0 4 21 0 0 25
+# FILE 1649589044740927 makeflow.failed.8 4 0
+# FILE 1649589044741122 makeflow.failed.8 3 0
+1649589044743609 8 3 6769944 0 3 21 1 0 25
+# FILE 1649589044743631 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+1649589044743655 8 0 6769944 1 3 21 0 0 25
+# FILE 1649589044743698 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649589044755082 8 1 6769959 0 4 21 0 0 25
+# FILE 1649589054768196 makeflow.failed.22 4 0
+# FILE 1649589054768637 makeflow.failed.22 3 0
+1649589054771573 22 3 6769947 0 3 21 1 0 25
+# FILE 1649589054771596 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+1649589054771623 22 0 6769947 1 3 21 0 0 25
+# FILE 1649589054771650 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 1 1073741824
+1649589054785201 22 1 6769960 0 4 21 0 0 25
+# FILE 1649589059794631 makeflow.failed.17 4 0
+# FILE 1649589059795075 makeflow.failed.17 3 0
+1649589059797761 17 3 6769946 0 3 21 1 0 25
+# FILE 1649589059797783 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+1649589059797810 17 0 6769946 1 3 21 0 0 25
+# FILE 1649589059797847 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 1 1073741824
+1649589059810869 17 1 6769961 0 4 21 0 0 25
+# FILE 1649589060820054 makeflow.failed.8 4 0
+# FILE 1649589060820260 makeflow.failed.8 3 0
+1649589060823140 8 3 6769959 0 3 21 1 0 25
+# FILE 1649589060823161 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+1649589060823194 8 0 6769959 1 3 21 0 0 25
+# FILE 1649589060823249 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 1 1073741824
+1649589060836340 8 1 6769962 0 4 21 0 0 25
+# FILE 1649589061857474 makeflow.failed.4 4 0
+# FILE 1649589061857717 makeflow.failed.4 3 0
+1649589061860292 4 3 6769958 0 3 21 1 0 25
+# FILE 1649589061860314 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+1649589061860337 4 0 6769958 1 3 21 0 0 25
+# FILE 1649589061860385 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 1 1073741824
+1649589061873436 4 1 6769963 0 4 21 0 0 25
+# FILE 1649589068885599 makeflow.failed.22 4 0
+# FILE 1649589068886022 makeflow.failed.22 3 0
+1649589068888592 22 3 6769960 0 3 21 1 0 25
+# FILE 1649589068888616 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Tanycytes_DE.rds 4 1073741824
+# FILE 1649589073897638 makeflow.failed.17 4 0
+# FILE 1649589073898105 makeflow.failed.17 3 0
+1649589073901048 17 3 6769961 0 2 21 2 0 25
+# FILE 1649589073901071 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Neutrophils_DE.rds 4 1073741824
+# FILE 1649589077907406 makeflow.failed.4 4 0
+# FILE 1649589077907875 makeflow.failed.4 3 0
+1649589077910497 4 3 6769963 0 1 21 3 0 25
+# FILE 1649589077910521 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Dendritic_cells_DE.rds 4 1073741824
+# FILE 1649589079918167 makeflow.failed.8 4 0
+# FILE 1649589079918414 makeflow.failed.8 3 0
+1649589079921201 8 3 6769962 0 0 21 4 0 25
+# FILE 1649589079921224 /stornext/HPCScratch/home/ma.m/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/Hypendymal_cells_DE.rds 4 1073741824
+# COMPLETED 1649589079921307
