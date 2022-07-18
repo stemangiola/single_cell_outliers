@@ -1,0 +1,520 @@
+# FILE 1657699503889619 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/GSE120575_melanoma/GSE120575.makeflow.batchlog 1 0
+# STARTED 1657699503892073
+# FILE 1657699503894158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Regulatory_T_cells_filtered.rds 1 1073741824
+1657699505402859 10 1 7212199 109 1 0 0 0 110
+# FILE 1657699505403082 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Plasma_cells_filtered.rds 1 1073741824
+1657699505419269 9 1 7212200 108 2 0 0 0 110
+# FILE 1657699505419381 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Monocytes_Macrophages_filtered.rds 1 1073741824
+1657699505434960 8 1 7212201 107 3 0 0 0 110
+# FILE 1657699505435068 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Memory_T_cells_filtered.rds 1 1073741824
+1657699505450783 7 1 7212202 106 4 0 0 0 110
+# FILE 1657699505450852 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_filtered.rds 1 1073741824
+1657699505466360 6 1 7212203 105 5 0 0 0 110
+# FILE 1657699505466424 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_exhausted_cell_cycle_filtered.rds 1 1073741824
+1657699505484047 5 1 7212204 104 6 0 0 0 110
+# FILE 1657699505484105 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_HS_CD8+_T_cells_filtered.rds 1 1073741824
+1657699505507949 4 1 7212205 103 7 0 0 0 110
+# FILE 1657699505508023 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_CD8+_T_cells_filtered.rds 1 1073741824
+1657699505525841 3 1 7212206 102 8 0 0 0 110
+# FILE 1657699505525932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Dendritic_cells_filtered.rds 1 1073741824
+1657699505542496 2 1 7212207 101 9 0 0 0 110
+# FILE 1657699505542583 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Cytotoxicity_Lymphocytes_filtered.rds 1 1073741824
+1657699505558871 1 1 7212208 100 10 0 0 0 110
+# FILE 1657699505558952 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/B_cells_filtered.rds 1 1073741824
+1657699505574250 0 1 7212209 99 11 0 0 0 110
+# FILE 1657699544596297 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Regulatory_T_cells_filtered.rds 2 16179200
+1657699544597443 10 2 7212199 99 10 1 0 0 110
+# FILE 1657699544597528 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Regulatory_T_cells_DE.rds 1 1073741824
+1657699544618719 107 1 7212222 98 11 1 0 0 110
+# FILE 1657699544618795 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Regulatory_T_cells_DE.rds 1 1073741824
+1657699544636126 104 1 7212223 97 12 1 0 0 110
+# FILE 1657699544636234 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Regulatory_T_cells_DE.rds 1 1073741824
+1657699544651885 101 1 7212224 96 13 1 0 0 110
+# FILE 1657699558670949 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Plasma_cells_filtered.rds 2 9420800
+1657699558671246 9 2 7212200 96 12 2 0 0 110
+# FILE 1657699558671423 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Plasma_cells_DE.rds 1 1073741824
+1657699558691584 98 1 7212226 95 13 2 0 0 110
+# FILE 1657699558691709 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Plasma_cells_DE.rds 1 1073741824
+1657699558707979 95 1 7212227 94 14 2 0 0 110
+# FILE 1657699558708082 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Plasma_cells_DE.rds 1 1073741824
+1657699558722749 92 1 7212228 93 15 2 0 0 110
+# FILE 1657699574738838 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Monocytes_Macrophages_filtered.rds 2 14589952
+1657699574740749 8 2 7212201 93 14 3 0 0 110
+# FILE 1657699574740938 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_DE.rds 1 1073741824
+1657699574759142 89 1 7212230 92 15 3 0 0 110
+# FILE 1657699574759220 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Monocytes_Macrophages_DE.rds 1 1073741824
+1657699574775329 86 1 7212231 91 16 3 0 0 110
+# FILE 1657699574775395 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Monocytes_Macrophages_DE.rds 1 1073741824
+1657699574790553 83 1 7212232 90 17 3 0 0 110
+# FILE 1657699591815661 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Memory_T_cells_filtered.rds 2 14884864
+1657699591815924 7 2 7212202 90 16 4 0 0 110
+# FILE 1657699591816080 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Memory_T_cells_DE.rds 1 1073741824
+1657699591834230 80 1 7212234 89 17 4 0 0 110
+# FILE 1657699591834321 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Memory_T_cells_DE.rds 1 1073741824
+1657699591850292 77 1 7212235 88 18 4 0 0 110
+# FILE 1657699591850369 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Memory_T_cells_DE.rds 1 1073741824
+1657699591865418 74 1 7212236 87 19 4 0 0 110
+# FILE 1657699605891304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_filtered.rds 2 11796480
+1657699605891528 6 2 7212203 87 18 5 0 0 110
+# FILE 1657699605891691 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_DE.rds 1 1073741824
+1657699605910996 71 1 7212240 86 19 5 0 0 110
+# FILE 1657699605911093 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_DE.rds 1 1073741824
+1657699605927789 68 1 7212241 85 20 5 0 0 110
+# FILE 1657699605927862 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_DE.rds 1 1073741824
+1657699605944351 65 1 7212242 84 21 5 0 0 110
+# FILE 1657699611961435 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_exhausted_cell_cycle_filtered.rds 2 15364835
+1657699611961683 5 2 7212204 84 20 6 0 0 110
+# FILE 1657699611961869 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_DE.rds 1 1073741824
+1657699611981774 62 1 7212243 83 21 6 0 0 110
+# FILE 1657699611981909 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_DE.rds 1 1073741824
+1657699611998278 59 1 7212244 82 22 6 0 0 110
+# FILE 1657699611998355 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_exhausted_cell_cycle_DE.rds 1 1073741824
+1657699612013051 56 1 7212245 81 23 6 0 0 110
+# FILE 1657699616032919 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_HS_CD8+_T_cells_filtered.rds 2 13000093
+1657699616033178 4 2 7212205 81 22 7 0 0 110
+# FILE 1657699616033450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_DE.rds 1 1073741824
+1657699616052974 53 1 7212246 80 23 7 0 0 110
+# FILE 1657699616053072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_DE.rds 1 1073741824
+1657699616070071 50 1 7212247 79 24 7 0 0 110
+# FILE 1657699616070148 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_HS_CD8+_T_cells_DE.rds 1 1073741824
+1657699616177310 47 1 7212248 78 25 7 0 0 110
+# FILE 1657699616179459 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_CD8+_T_cells_filtered.rds 2 13082198
+1657699616179482 3 2 7212206 78 24 8 0 0 110
+# FILE 1657699616179719 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_DE.rds 1 1073741824
+1657699616195603 44 1 7212249 77 25 8 0 0 110
+# FILE 1657699616195675 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_DE.rds 1 1073741824
+1657699616210421 41 1 7212250 76 26 8 0 0 110
+# FILE 1657699616210499 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_CD8+_T_cells_DE.rds 1 1073741824
+1657699616225206 38 1 7212251 75 27 8 0 0 110
+# FILE 1657699622246157 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Dendritic_cells_filtered.rds 2 12498246
+1657699622246436 2 2 7212207 75 26 9 0 0 110
+# FILE 1657699622246882 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657699622266130 35 1 7212253 74 27 9 0 0 110
+# FILE 1657699622266268 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657699622282576 32 1 7212254 73 28 9 0 0 110
+# FILE 1657699622282651 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657699622298230 29 1 7212255 72 29 9 0 0 110
+# FILE 1657699623307438 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Cytotoxicity_Lymphocytes_filtered.rds 2 13967360
+1657699623307477 1 2 7212208 72 28 10 0 0 110
+# FILE 1657699623307871 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_DE.rds 1 1073741824
+1657699623326782 26 1 7212256 71 29 10 0 0 110
+# FILE 1657699623326849 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_DE.rds 1 1073741824
+1657699623342771 23 1 7212257 70 30 10 0 0 110
+# FILE 1657699623342835 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Cytotoxicity_Lymphocytes_DE.rds 1 1073741824
+1657699623358607 20 1 7212258 69 31 10 0 0 110
+# FILE 1657699627377730 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/B_cells_filtered.rds 2 13200861
+1657699627378075 0 2 7212209 69 30 11 0 0 110
+# FILE 1657699627378725 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_B_cells_DE.rds 1 1073741824
+1657699627397893 17 1 7212259 68 31 11 0 0 110
+# FILE 1657699627397968 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_B_cells_DE.rds 1 1073741824
+1657699627413922 14 1 7212260 67 32 11 0 0 110
+# FILE 1657699627413995 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_B_cells_DE.rds 1 1073741824
+1657699627429248 11 1 7212261 66 33 11 0 0 110
+# FILE 1657699656502231 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Plasma_cells_DE.rds 2 1196363
+1657699656504727 98 2 7212226 66 32 12 0 0 110
+# FILE 1657699656504853 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Plasma_cells_ppcseq.rds 1 1073741824
+1657699656526694 99 1 7212270 65 33 12 0 0 110
+# FILE 1657699657536177 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Plasma_cells_DE.rds 2 1007616
+1657699657536219 95 2 7212227 65 32 13 0 0 110
+# FILE 1657699657536383 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Plasma_cells_ppcseq.rds 1 1073741824
+1657699657557742 96 1 7212271 64 33 13 0 0 110
+# FILE 1657699665591316 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Plasma_cells_DE.rds 2 2195242
+# FILE 1657699665591612 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Plasma_cells_filtered.rds 3 9420800
+1657699665591641 92 2 7212228 64 32 14 0 0 110
+# FILE 1657699665591799 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Plasma_cells_ppcseq.rds 1 1073741824
+1657699665612702 93 1 7212275 63 33 14 0 0 110
+# FILE 1657699669632531 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Regulatory_T_cells_DE.rds 2 32636928
+1657699669632841 104 2 7212223 63 32 15 0 0 110
+# FILE 1657699669632982 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Regulatory_T_cells_ppcseq.rds 1 1073741824
+1657699669652243 105 1 7212276 62 33 15 0 0 110
+# FILE 1657699690685195 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Regulatory_T_cells_DE.rds 2 57761792
+1657699690685445 101 2 7212224 62 32 16 0 0 110
+# FILE 1657699690685539 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Regulatory_T_cells_ppcseq.rds 1 1073741824
+1657699690706032 102 1 7212279 61 33 16 0 0 110
+# FILE 1657699695726128 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Monocytes_Macrophages_DE.rds 2 28041216
+1657699695726372 86 2 7212231 61 32 17 0 0 110
+# FILE 1657699695726523 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_Macrophages_ppcseq.rds 1 1073741824
+1657699695836230 87 1 7212280 60 33 17 0 0 110
+# FILE 1657699705863321 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Monocytes_Macrophages_DE.rds 2 40394752
+1657699705863599 83 2 7212232 60 32 18 0 0 110
+# FILE 1657699705863745 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Monocytes_Macrophages_ppcseq.rds 1 1073741824
+1657699705883787 84 1 7212282 59 33 18 0 0 110
+# FILE 1657699706893153 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Memory_T_cells_DE.rds 2 20824064
+1657699706893180 77 2 7212235 59 32 19 0 0 110
+# FILE 1657699706893328 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Memory_T_cells_ppcseq.rds 1 1073741824
+1657699706911786 78 1 7212283 58 33 19 0 0 110
+# FILE 1657699717935711 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_DE.rds 2 30278332
+# FILE 1657699717937544 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Monocytes_Macrophages_filtered.rds 3 14589952
+1657699717937562 89 2 7212230 58 32 20 0 0 110
+# FILE 1657699717937653 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_ppcseq.rds 1 1073741824
+1657699717957107 90 1 7212286 57 33 20 0 0 110
+# FILE 1657699721985879 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Memory_T_cells_DE.rds 2 38022092
+1657699721986186 74 2 7212236 57 32 21 0 0 110
+# FILE 1657699721986385 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Memory_T_cells_ppcseq.rds 1 1073741824
+1657699722005405 75 1 7212289 56 33 21 0 0 110
+# FILE 1657699723014642 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Regulatory_T_cells_DE.rds 2 38240256
+# FILE 1657699723014666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Regulatory_T_cells_filtered.rds 3 16179200
+1657699723014680 107 2 7212222 56 32 22 0 0 110
+# FILE 1657699723014756 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Regulatory_T_cells_ppcseq.rds 1 1073741824
+1657699723033972 108 1 7212290 55 33 22 0 0 110
+# FILE 1657699737062190 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_DE.rds 2 25337856
+1657699737062494 68 2 7212241 55 32 23 0 0 110
+# FILE 1657699737062727 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_ppcseq.rds 1 1073741824
+1657699737083039 69 1 7212292 54 33 23 0 0 110
+# FILE 1657699738091240 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Memory_T_cells_DE.rds 2 25173521
+# FILE 1657699738091275 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Memory_T_cells_filtered.rds 3 14884864
+1657699738091290 80 2 7212234 54 32 24 0 0 110
+# FILE 1657699738091495 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Memory_T_cells_ppcseq.rds 1 1073741824
+1657699738110922 81 1 7212293 53 33 24 0 0 110
+# FILE 1657699750141406 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_DE.rds 2 28835840
+1657699750141678 65 2 7212242 53 32 25 0 0 110
+# FILE 1657699750141909 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_ppcseq.rds 1 1073741824
+1657699750160613 66 1 7212296 52 33 25 0 0 110
+# FILE 1657699757189710 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_DE.rds 2 24158208
+# FILE 1657699757189950 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_filtered.rds 3 11796480
+1657699757189968 71 2 7212240 52 32 26 0 0 110
+# FILE 1657699757190196 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_ppcseq.rds 1 1073741824
+1657699757211197 72 1 7212298 51 33 26 0 0 110
+# FILE 1657699760228220 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_DE.rds 2 36848535
+1657699760228509 59 2 7212244 51 32 27 0 0 110
+# FILE 1657699760228785 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 1 1073741824
+1657699760249867 60 1 7212299 50 33 27 0 0 110
+# FILE 1657699764266799 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_DE.rds 2 19365888
+1657699764267098 50 2 7212247 50 32 28 0 0 110
+# FILE 1657699764267418 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699764287408 51 1 7212300 49 33 28 0 0 110
+# FILE 1657699771321628 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_DE.rds 2 28835840
+1657699771321974 41 2 7212250 49 32 29 0 0 110
+# FILE 1657699771322348 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699771347675 42 1 7212301 48 33 29 0 0 110
+# FILE 1657699774366626 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_exhausted_cell_cycle_DE.rds 2 54583296
+1657699774366924 56 2 7212245 48 32 30 0 0 110
+# FILE 1657699774367253 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 1 1073741824
+1657699774387838 57 1 7212302 47 33 30 0 0 110
+# FILE 1657699776406255 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_HS_CD8+_T_cells_DE.rds 2 35946152
+1657699776406291 47 2 7212248 47 32 31 0 0 110
+# FILE 1657699776406616 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_HS_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699776425616 48 1 7212303 46 33 31 0 0 110
+# FILE 1657699782451113 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 2 5497636
+1657699782453021 32 2 7212254 46 32 32 0 0 110
+# FILE 1657699782453382 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Dendritic_cells_ppcseq.rds 1 1073741824
+1657699782474762 33 1 7212305 45 33 32 0 0 110
+# FILE 1657699790500913 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 2 5568414
+1657699790501167 35 2 7212253 45 32 33 0 0 110
+# FILE 1657699790501502 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Dendritic_cells_ppcseq.rds 1 1073741824
+1657699790559908 36 1 7212306 44 33 33 0 0 110
+# FILE 1657699790562401 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_DE.rds 2 18931712
+# FILE 1657699790562424 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_HS_CD8+_T_cells_filtered.rds 3 13000093
+1657699790562436 53 2 7212246 44 32 34 0 0 110
+# FILE 1657699790562731 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699790579505 54 1 7212307 43 33 34 0 0 110
+# FILE 1657699793601328 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Plasma_cells_ppcseq.rds 2 195
+1657699793601586 99 2 7212270 43 32 35 0 0 110
+# FILE 1657699793601713 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Plasma_cells_table.rds 1 1073741824
+1657699793620365 100 1 7212308 42 33 35 0 0 110
+# FILE 1657699797641043 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_DE.rds 2 38130813
+# FILE 1657699797641275 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Lymphocytes_exhausted_cell_cycle_filtered.rds 3 15364835
+1657699797641290 62 2 7212243 42 32 36 0 0 110
+# FILE 1657699797641541 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 1 1073741824
+1657699797661520 63 1 7212309 41 33 36 0 0 110
+# FILE 1657699798670817 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Dendritic_cells_DE.rds 2 4915200
+# FILE 1657699798670848 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Dendritic_cells_filtered.rds 3 12498246
+1657699798670864 29 2 7212255 41 32 37 0 0 110
+# FILE 1657699798671271 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Dendritic_cells_ppcseq.rds 1 1073741824
+1657699798690120 30 1 7212310 40 33 37 0 0 110
+# FILE 1657699799701175 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Plasma_cells_ppcseq.rds 2 195
+1657699799701233 96 2 7212271 40 32 38 0 0 110
+# FILE 1657699799701444 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Plasma_cells_table.rds 1 1073741824
+1657699799719430 97 1 7212311 39 33 38 0 0 110
+# FILE 1657699802738797 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_CD8+_T_cells_DE.rds 2 53600256
+1657699802739066 38 2 7212251 39 32 39 0 0 110
+# FILE 1657699802739395 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699802760167 39 1 7212313 38 33 39 0 0 110
+# FILE 1657699804773510 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Plasma_cells_ppcseq.rds 2 195
+1657699804773550 93 2 7212275 38 32 40 0 0 110
+# FILE 1657699804773714 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Plasma_cells_table.rds 1 1073741824
+1657699804792873 94 1 7212314 37 33 40 0 0 110
+# FILE 1657699807820606 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Regulatory_T_cells_ppcseq.rds 2 195
+1657699807820904 105 2 7212276 37 32 41 0 0 110
+# FILE 1657699807821000 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Regulatory_T_cells_table.rds 1 1073741824
+1657699807838833 106 1 7212315 36 33 41 0 0 110
+# FILE 1657699810856912 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_B_cells_DE.rds 2 778240
+1657699810857137 14 2 7212260 36 32 42 0 0 110
+# FILE 1657699810857497 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_B_cells_ppcseq.rds 1 1073741824
+1657699810877388 15 1 7212317 35 33 42 0 0 110
+# FILE 1657699814896757 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_DE.rds 2 34662448
+1657699814897040 23 2 7212257 35 32 43 0 0 110
+# FILE 1657699814897557 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_ppcseq.rds 1 1073741824
+1657699814916121 24 1 7212318 34 33 43 0 0 110
+# FILE 1657699817934941 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Memory_T_cells_ppcseq.rds 2 195
+1657699817935249 78 2 7212283 34 32 44 0 0 110
+# FILE 1657699817935460 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Memory_T_cells_table.rds 1 1073741824
+1657699818475685 79 1 7212319 33 33 44 0 0 110
+# FILE 1657699822488376 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_DE.rds 2 36392908
+# FILE 1657699822488656 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Exhausted_CD8+_T_cells_filtered.rds 3 13082198
+1657699822488706 44 2 7212249 33 32 45 0 0 110
+# FILE 1657699822488940 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_ppcseq.rds 1 1073741824
+1657699822506450 45 1 7212322 32 33 45 0 0 110
+# FILE 1657699824517534 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_B_cells_DE.rds 2 19984401
+1657699824517573 11 2 7212261 32 32 46 0 0 110
+# FILE 1657699824517956 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_B_cells_ppcseq.rds 1 1073741824
+1657699824537068 12 1 7212323 31 33 46 0 0 110
+# FILE 1657699829562527 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_B_cells_DE.rds 2 9805824
+# FILE 1657699829562771 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/B_cells_filtered.rds 3 13200861
+1657699829562817 17 2 7212259 31 32 47 0 0 110
+# FILE 1657699829563231 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_B_cells_ppcseq.rds 1 1073741824
+1657699829582703 18 1 7212324 30 33 47 0 0 110
+# FILE 1657699829587431 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_ppcseq.rds 2 195
+1657699829587476 69 2 7212292 30 32 48 0 0 110
+# FILE 1657699829587683 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Lymphocytes_table.rds 1 1073741824
+1657699829609496 70 1 7212325 29 33 48 0 0 110
+# FILE 1657699833632057 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Cytotoxicity_Lymphocytes_DE.rds 2 56016429
+1657699833632291 20 2 7212258 29 32 49 0 0 110
+# FILE 1657699833632662 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Cytotoxicity_Lymphocytes_ppcseq.rds 1 1073741824
+1657699833650898 21 1 7212326 28 33 49 0 0 110
+# FILE 1657699833656224 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Memory_T_cells_ppcseq.rds 2 195
+1657699833656247 81 2 7212293 28 32 50 0 0 110
+# FILE 1657699833656356 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Memory_T_cells_table.rds 1 1073741824
+1657699833672516 82 1 7212327 27 33 50 0 0 110
+# FILE 1657699841703727 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_ppcseq.rds 2 195
+1657699841704327 66 2 7212296 27 32 51 0 0 110
+# FILE 1657699841704540 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Lymphocytes_table.rds 1 1073741824
+1657699841723126 67 1 7212331 26 33 51 0 0 110
+# FILE 1657699841728900 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_ppcseq.rds 2 195
+1657699841728924 72 2 7212298 26 32 52 0 0 110
+# FILE 1657699841729066 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Lymphocytes_table.rds 1 1073741824
+1657699841744151 73 1 7212332 25 33 52 0 0 110
+# FILE 1657699844767062 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_ppcseq.rds 2 195
+1657699844768689 51 2 7212300 25 32 53 0 0 110
+# FILE 1657699844768911 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_table.rds 1 1073741824
+1657699844787468 52 1 7212333 24 33 53 0 0 110
+# FILE 1657699847804841 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_ppcseq.rds 2 195
+1657699847805083 42 2 7212301 24 32 54 0 0 110
+# FILE 1657699847805326 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_table.rds 1 1073741824
+1657699847822778 43 1 7212334 23 33 54 0 0 110
+# FILE 1657699852842998 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Dendritic_cells_ppcseq.rds 2 195
+1657699852843297 33 2 7212305 23 32 55 0 0 110
+# FILE 1657699852843568 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Dendritic_cells_table.rds 1 1073741824
+1657699852864857 34 1 7212335 22 33 55 0 0 110
+# FILE 1657699854880304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_HS_CD8+_T_cells_ppcseq.rds 2 195
+1657699854880336 48 2 7212303 22 32 56 0 0 110
+# FILE 1657699854880569 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Exhausted_HS_CD8+_T_cells_table.rds 1 1073741824
+1657699854899125 49 1 7212336 21 33 56 0 0 110
+# FILE 1657699859919808 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Plasma_cells_table.rds 2 192
+# FILE 1657699859920058 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Plasma_cells_DE.rds 3 1196363
+# FILE 1657699859920073 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Plasma_cells_ppcseq.rds 3 195
+1657699859920092 100 2 7212308 21 32 57 0 0 110
+# FILE 1657699861929851 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_DE.rds 2 34930688
+# FILE 1657699861929878 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/filtered_data/Cytotoxicity_Lymphocytes_filtered.rds 3 13967360
+1657699861929892 26 2 7212256 21 31 58 0 0 110
+# FILE 1657699861930154 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_ppcseq.rds 1 1073741824
+1657699861946695 27 1 7212338 20 32 58 0 0 110
+# FILE 1657699868972028 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Dendritic_cells_ppcseq.rds 2 195
+1657699868972351 30 2 7212310 20 31 59 0 0 110
+# FILE 1657699868972602 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Dendritic_cells_table.rds 1 1073741824
+1657699868992562 31 1 7212339 19 32 59 0 0 110
+# FILE 1657699874022083 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Plasma_cells_table.rds 2 192
+# FILE 1657699874022318 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Plasma_cells_DE.rds 3 1007616
+# FILE 1657699874022330 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Plasma_cells_ppcseq.rds 3 195
+1657699874022341 97 2 7212311 19 31 60 0 0 110
+# FILE 1657699881050849 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_CD8+_T_cells_ppcseq.rds 2 195
+1657699881051122 39 2 7212313 19 30 61 0 0 110
+# FILE 1657699881051351 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Exhausted_CD8+_T_cells_table.rds 1 1073741824
+1657699881071718 40 1 7212341 18 31 61 0 0 110
+# FILE 1657699883090098 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Plasma_cells_table.rds 2 192
+# FILE 1657699883090123 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Plasma_cells_DE.rds 3 2195242
+# FILE 1657699883090135 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Plasma_cells_ppcseq.rds 3 195
+1657699883090148 94 2 7212314 18 30 62 0 0 110
+# FILE 1657699888116023 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_B_cells_ppcseq.rds 2 195
+1657699888116298 15 2 7212317 18 29 63 0 0 110
+# FILE 1657699888116617 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_B_cells_table.rds 1 1073741824
+1657699888137832 16 1 7212343 17 30 63 0 0 110
+# FILE 1657699892177158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Regulatory_T_cells_table.rds 2 192
+# FILE 1657699892177478 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Regulatory_T_cells_DE.rds 3 32636928
+# FILE 1657699892177491 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Regulatory_T_cells_ppcseq.rds 3 195
+1657699892177504 106 2 7212315 17 29 64 0 0 110
+# FILE 1657699896195642 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_ppcseq.rds 2 195
+1657699896195876 24 2 7212318 17 28 65 0 0 110
+# FILE 1657699896196144 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_table.rds 1 1073741824
+1657699896215627 25 1 7212346 16 29 65 0 0 110
+# FILE 1657699899231518 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_B_cells_ppcseq.rds 2 195
+1657699899231764 18 2 7212324 16 28 66 0 0 110
+# FILE 1657699899232114 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_B_cells_table.rds 1 1073741824
+1657699899252135 19 1 7212347 15 29 66 0 0 110
+# FILE 1657699900266102 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Memory_T_cells_table.rds 2 192
+# FILE 1657699900266129 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Memory_T_cells_DE.rds 3 20824064
+# FILE 1657699900266139 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Memory_T_cells_ppcseq.rds 3 195
+1657699900266152 79 2 7212319 15 28 67 0 0 110
+# FILE 1657699901274300 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_B_cells_ppcseq.rds 2 195
+1657699901274325 12 2 7212323 15 27 68 0 0 110
+# FILE 1657699901274589 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_B_cells_table.rds 1 1073741824
+1657699901293031 13 1 7212348 14 28 68 0 0 110
+# FILE 1657699911334679 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Cytotoxicity_Lymphocytes_ppcseq.rds 2 195
+1657699911336636 21 2 7212326 14 27 69 0 0 110
+# FILE 1657699911336908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Cytotoxicity_Lymphocytes_table.rds 1 1073741824
+1657699911530275 22 1 7212352 13 28 69 0 0 110
+# FILE 1657699913543377 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Memory_T_cells_table.rds 2 192
+# FILE 1657699913543420 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Memory_T_cells_DE.rds 3 25173521
+# FILE 1657699913543441 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Memory_T_cells_ppcseq.rds 3 195
+1657699913543464 82 2 7212327 13 27 70 0 0 110
+# FILE 1657699917555615 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Dendritic_cells_table.rds 2 192
+# FILE 1657699917555887 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 3 5497636
+# FILE 1657699917555913 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Dendritic_cells_ppcseq.rds 3 195
+1657699917555933 34 2 7212335 13 26 71 0 0 110
+# FILE 1657699917561976 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Lymphocytes_table.rds 2 192
+# FILE 1657699917562034 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_DE.rds 3 25337856
+# FILE 1657699917562058 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_ppcseq.rds 3 195
+1657699917562080 70 2 7212325 13 25 72 0 0 110
+# FILE 1657699918568664 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_table.rds 2 192
+# FILE 1657699918568685 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_DE.rds 3 19365888
+# FILE 1657699918568696 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_HS_CD8+_T_cells_ppcseq.rds 3 195
+1657699918568709 52 2 7212333 13 24 73 0 0 110
+# FILE 1657699919578251 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Lymphocytes_table.rds 2 192
+# FILE 1657699919578293 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_DE.rds 3 24158208
+# FILE 1657699919578316 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_ppcseq.rds 3 195
+1657699919578354 73 2 7212332 13 23 74 0 0 110
+# FILE 1657699920583416 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Lymphocytes_table.rds 2 192
+# FILE 1657699920583670 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_DE.rds 3 28835840
+# FILE 1657699920583695 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_ppcseq.rds 3 195
+1657699920583719 67 2 7212331 13 22 75 0 0 110
+# FILE 1657699921592875 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Dendritic_cells_table.rds 2 192
+# FILE 1657699921592915 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Dendritic_cells_DE.rds 3 4915200
+# FILE 1657699921592938 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Dendritic_cells_ppcseq.rds 3 195
+1657699921592962 31 2 7212339 13 21 76 0 0 110
+# FILE 1657699922602544 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_table.rds 2 192
+# FILE 1657699922602568 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_DE.rds 3 28835840
+# FILE 1657699922602580 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Exhausted_CD8+_T_cells_ppcseq.rds 3 195
+1657699922602592 43 2 7212334 13 20 77 0 0 110
+# FILE 1657699925611049 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Exhausted_HS_CD8+_T_cells_table.rds 2 192
+# FILE 1657699925611278 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_HS_CD8+_T_cells_DE.rds 3 35946152
+# FILE 1657699925611292 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_HS_CD8+_T_cells_ppcseq.rds 3 195
+1657699925611303 49 2 7212336 13 19 78 0 0 110
+# FILE 1657699926614882 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_B_cells_table.rds 2 192
+# FILE 1657699926614922 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_B_cells_DE.rds 3 778240
+# FILE 1657699926614945 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_B_cells_ppcseq.rds 3 195
+1657699926614968 16 2 7212343 13 18 79 0 0 110
+# FILE 1657699933633304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_table.rds 2 192
+# FILE 1657699933633537 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_DE.rds 3 34662448
+# FILE 1657699933633551 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Cytotoxicity_Lymphocytes_ppcseq.rds 3 195
+1657699933633564 25 2 7212346 13 17 80 0 0 110
+# FILE 1657699936650808 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_B_cells_table.rds 2 192
+# FILE 1657699936651084 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_B_cells_DE.rds 3 19984401
+# FILE 1657699936651097 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_B_cells_ppcseq.rds 3 195
+1657699936651109 13 2 7212348 13 16 81 0 0 110
+# FILE 1657699942661539 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Cytotoxicity_Lymphocytes_table.rds 2 192
+# FILE 1657699942661825 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Cytotoxicity_Lymphocytes_DE.rds 3 56016429
+# FILE 1657699942661848 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Cytotoxicity_Lymphocytes_ppcseq.rds 3 195
+1657699942661870 22 2 7212352 13 15 82 0 0 110
+# FILE 1657699946670750 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_B_cells_table.rds 2 192
+# FILE 1657699946670990 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_B_cells_DE.rds 3 9805824
+# FILE 1657699946671019 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_B_cells_ppcseq.rds 3 195
+1657699946671032 19 2 7212347 13 14 83 0 0 110
+# FILE 1657699974719098 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_Macrophages_ppcseq.rds 2 3083
+1657699974721874 87 2 7212280 13 13 84 0 0 110
+# FILE 1657699974722096 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Monocytes_Macrophages_table.rds 1 1073741824
+1657699975420172 88 1 7212369 12 14 84 0 0 110
+# FILE 1657699997462216 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Monocytes_Macrophages_table.rds 2 245
+# FILE 1657699997462499 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Monocytes_Macrophages_DE.rds 3 28041216
+# FILE 1657699997462526 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_Macrophages_ppcseq.rds 3 3083
+1657699997462547 88 2 7212369 12 13 85 0 0 110
+# FILE 1657700002475095 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Regulatory_T_cells_ppcseq.rds 2 5697
+1657700002475321 102 2 7212279 12 12 86 0 0 110
+# FILE 1657700002475411 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Regulatory_T_cells_table.rds 1 1073741824
+1657700002495689 103 1 7212377 11 13 86 0 0 110
+# FILE 1657700002500294 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Monocytes_Macrophages_ppcseq.rds 2 5774
+1657700002500320 84 2 7212282 11 12 87 0 0 110
+# FILE 1657700002500422 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Monocytes_Macrophages_table.rds 1 1073741824
+1657700002516685 85 1 7212378 10 13 87 0 0 110
+# FILE 1657700002521285 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_ppcseq.rds 2 2468
+1657700002521311 54 2 7212307 10 12 88 0 0 110
+# FILE 1657700002521473 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_table.rds 1 1073741824
+1657700002541425 55 1 7212379 9 13 88 0 0 110
+# FILE 1657700018574824 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 2 2456
+1657700018575058 60 2 7212299 9 12 89 0 0 110
+# FILE 1657700018575244 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_table.rds 1 1073741824
+1657700018595904 61 1 7212380 8 13 89 0 0 110
+# FILE 1657700020607136 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 2 2576
+1657700020607180 57 2 7212302 8 12 90 0 0 110
+# FILE 1657700020607463 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Lymphocytes_exhausted_cell_cycle_table.rds 1 1073741824
+1657700020624802 58 1 7212383 7 13 90 0 0 110
+# FILE 1657700022633653 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Dendritic_cells_ppcseq.rds 2 5745
+1657700022633908 36 2 7212306 7 12 91 0 0 110
+# FILE 1657700022634266 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Dendritic_cells_table.rds 1 1073741824
+1657700022655292 37 1 7212384 6 13 91 0 0 110
+# FILE 1657700024671926 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_table.rds 2 254
+# FILE 1657700024671953 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_DE.rds 3 18931712
+# FILE 1657700024671966 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_HS_CD8+_T_cells_ppcseq.rds 3 2468
+1657700024671978 55 2 7212379 6 12 92 0 0 110
+# FILE 1657700026682304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Memory_T_cells_ppcseq.rds 2 2110
+1657700026682631 75 2 7212289 6 11 93 0 0 110
+# FILE 1657700026682811 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Memory_T_cells_table.rds 1 1073741824
+1657700026703825 76 1 7212385 5 12 93 0 0 110
+# FILE 1657700029713112 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Monocytes_Macrophages_table.rds 2 234
+# FILE 1657700029713420 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Monocytes_Macrophages_DE.rds 3 40394752
+# FILE 1657700029713444 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Monocytes_Macrophages_ppcseq.rds 3 5774
+1657700029713464 85 2 7212378 5 11 94 0 0 110
+# FILE 1657700031721850 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Regulatory_T_cells_table.rds 2 225
+# FILE 1657700031721895 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Regulatory_T_cells_DE.rds 3 57761792
+# FILE 1657700031721916 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Regulatory_T_cells_ppcseq.rds 3 5697
+1657700031721968 103 2 7212377 5 10 95 0 0 110
+# FILE 1657700038739263 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Exhausted_CD8+_T_cells_table.rds 2 192
+# FILE 1657700038741370 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Exhausted_CD8+_T_cells_DE.rds 3 53600256
+# FILE 1657700038741471 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Exhausted_CD8+_T_cells_ppcseq.rds 3 195
+1657700038741487 40 2 7212341 5 9 96 0 0 110
+# FILE 1657700038745283 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_table.rds 2 253
+# FILE 1657700038745320 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_DE.rds 3 36848535
+# FILE 1657700038745339 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edgeR_quasi_likelihood_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 3 2456
+1657700038745360 61 2 7212380 5 8 97 0 0 110
+# FILE 1657700039750901 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Dendritic_cells_table.rds 2 244
+# FILE 1657700039750930 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 3 5568414
+# FILE 1657700039750940 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Dendritic_cells_ppcseq.rds 3 5745
+1657700039750953 37 2 7212384 5 7 98 0 0 110
+# FILE 1657700039756345 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Regulatory_T_cells_ppcseq.rds 2 15320
+1657700039756370 108 2 7212290 5 6 99 0 0 110
+# FILE 1657700039756434 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Regulatory_T_cells_table.rds 1 1073741824
+1657700039777191 109 1 7212386 4 7 99 0 0 110
+# FILE 1657700047790323 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Lymphocytes_exhausted_cell_cycle_table.rds 2 241
+# FILE 1657700047790615 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Lymphocytes_exhausted_cell_cycle_DE.rds 3 54583296
+# FILE 1657700047790628 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 3 2576
+1657700047790641 58 2 7212383 4 6 100 0 0 110
+# FILE 1657700048795368 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/deseq2_Memory_T_cells_table.rds 2 224
+# FILE 1657700048795410 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/deseq2_Memory_T_cells_DE.rds 3 38022092
+# FILE 1657700048795433 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/deseq2_Memory_T_cells_ppcseq.rds 3 2110
+1657700048795458 76 2 7212385 4 5 101 0 0 110
+# FILE 1657700060807653 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Regulatory_T_cells_table.rds 2 247
+# FILE 1657700060807904 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Regulatory_T_cells_DE.rds 3 38240256
+# FILE 1657700060807918 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Regulatory_T_cells_ppcseq.rds 3 15320
+1657700060807929 109 2 7212386 4 4 102 0 0 110
+# FILE 1657700076822901 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_ppcseq.rds 2 4270
+1657700076823185 27 2 7212338 4 3 103 0 0 110
+# FILE 1657700076823539 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_table.rds 1 1073741824
+1657700076843941 28 1 7212391 3 4 103 0 0 110
+# FILE 1657700100865232 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_table.rds 2 253
+# FILE 1657700100866861 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_DE.rds 3 34930688
+# FILE 1657700100866929 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Cytotoxicity_Lymphocytes_ppcseq.rds 3 4270
+1657700100866944 28 2 7212391 3 3 104 0 0 110
+# FILE 1657700116884964 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_ppcseq.rds 2 30378
+1657700116885198 45 2 7212322 3 2 105 0 0 110
+# FILE 1657700116885512 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_table.rds 1 1073741824
+1657700116906350 46 1 7212396 2 3 105 0 0 110
+# FILE 1657700136924705 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_table.rds 2 252
+# FILE 1657700136924946 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_DE.rds 3 36392908
+# FILE 1657700136924959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Exhausted_CD8+_T_cells_ppcseq.rds 3 30378
+1657700136924971 46 2 7212396 2 2 106 0 0 110
+# FILE 1657700319017027 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_ppcseq.rds 2 120254
+1657700319020436 90 2 7212286 2 1 107 0 0 110
+# FILE 1657700319020581 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Monocytes_Macrophages_table.rds 1 1073741824
+1657700319041163 91 1 7212439 1 2 107 0 0 110
+# FILE 1657700339056349 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Monocytes_Macrophages_table.rds 2 252
+# FILE 1657700339056589 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_DE.rds 3 30278332
+# FILE 1657700339056606 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_Macrophages_ppcseq.rds 3 120254
+1657700339056618 91 2 7212439 1 1 108 0 0 110
+# FILE 1657700933259401 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 2 346217
+1657700933261934 63 2 7212309 1 0 109 0 0 110
+# FILE 1657700933262159 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_table.rds 1 1073741824
+1657700933283323 64 1 7212654 0 1 109 0 0 110
+# FILE 1657700955297956 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/summary_table/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_table.rds 2 262
+# FILE 1657700955298207 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/de_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_DE.rds 3 38130813
+# FILE 1657700955298221 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE120575_melanoma/data/ppcseq_data/edger_robust_likelihood_ratio_Lymphocytes_exhausted_cell_cycle_ppcseq.rds 3 346217
+1657700955298233 64 2 7212654 0 0 110 0 0 110
+# COMPLETED 1657700955298566

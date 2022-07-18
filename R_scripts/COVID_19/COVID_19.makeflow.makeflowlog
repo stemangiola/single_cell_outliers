@@ -1,0 +1,1038 @@
+# FILE 1657763953161333 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/COVID_19/COVID_19.makeflow.batchlog 1 0
+# STARTED 1657763953163705
+# FILE 1657763953165431 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_unknown_epithelial_DE.rds 1 1073741824
+1657763953187568 213 1 7225817 215 1 0 0 0 216
+# FILE 1657763953187671 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_unknown_epithelial_DE.rds 1 1073741824
+1657763953204770 210 1 7225818 214 2 0 0 0 216
+# FILE 1657763953204869 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_unknown_epithelial_DE.rds 1 1073741824
+1657763953219986 207 1 7225819 213 3 0 0 0 216
+# FILE 1657763953220108 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Treg_DE.rds 1 1073741824
+1657763953235107 204 1 7225820 212 4 0 0 0 216
+# FILE 1657763953235218 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Treg_DE.rds 1 1073741824
+1657763953250304 201 1 7225821 211 5 0 0 0 216
+# FILE 1657763953250411 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Treg_DE.rds 1 1073741824
+1657763953266080 198 1 7225822 210 6 0 0 0 216
+# FILE 1657763953266178 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Squamous_DE.rds 1 1073741824
+1657763953281736 195 1 7225823 209 7 0 0 0 216
+# FILE 1657763953281851 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Squamous_DE.rds 1 1073741824
+1657763953297768 192 1 7225824 208 8 0 0 0 216
+# FILE 1657763953297884 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Squamous_DE.rds 1 1073741824
+1657763953313388 189 1 7225825 207 9 0 0 0 216
+# FILE 1657763953313498 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory-diff_DE.rds 1 1073741824
+1657763953328253 186 1 7225826 206 10 0 0 0 216
+# FILE 1657763953328363 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory-diff_DE.rds 1 1073741824
+1657763953344149 183 1 7225827 205 11 0 0 0 216
+# FILE 1657763953344235 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory-diff_DE.rds 1 1073741824
+1657763953359562 180 1 7225828 204 12 0 0 0 216
+# FILE 1657763953359639 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory_DE.rds 1 1073741824
+1657763953374857 177 1 7225829 203 13 0 0 0 216
+# FILE 1657763953374931 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory_DE.rds 1 1073741824
+1657763953389866 174 1 7225830 202 14 0 0 0 216
+# FILE 1657763953389934 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory_DE.rds 1 1073741824
+1657763953405263 171 1 7225831 201 15 0 0 0 216
+# FILE 1657763953405334 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_rMa_DE.rds 1 1073741824
+1657763953420426 168 1 7225832 200 16 0 0 0 216
+# FILE 1657763953420557 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_rMa_DE.rds 1 1073741824
+1657763953435514 165 1 7225833 199 17 0 0 0 216
+# FILE 1657763953435579 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_rMa_DE.rds 1 1073741824
+1657763953450045 162 1 7225834 198 18 0 0 0 216
+# FILE 1657763953450163 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_pDC_DE.rds 1 1073741824
+1657763953464740 159 1 7225835 197 19 0 0 0 216
+# FILE 1657763953464809 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_pDC_DE.rds 1 1073741824
+1657763953479305 156 1 7225836 196 20 0 0 0 216
+# FILE 1657763953479436 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_pDC_DE.rds 1 1073741824
+1657763953494481 153 1 7225837 195 21 0 0 0 216
+# FILE 1657763953494552 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_outliers_epithelial_DE.rds 1 1073741824
+1657763953509131 150 1 7225838 194 22 0 0 0 216
+# FILE 1657763953509202 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_outliers_epithelial_DE.rds 1 1073741824
+1657763953524205 147 1 7225839 193 23 0 0 0 216
+# FILE 1657763953524271 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_outliers_epithelial_DE.rds 1 1073741824
+1657763953538400 144 1 7225840 192 24 0 0 0 216
+# FILE 1657763953538468 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_nrMa_DE.rds 1 1073741824
+1657763953552692 141 1 7225841 191 25 0 0 0 216
+# FILE 1657763953552759 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_nrMa_DE.rds 1 1073741824
+1657763953567080 138 1 7225842 190 26 0 0 0 216
+# FILE 1657763953567172 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_nrMa_DE.rds 1 1073741824
+1657763953581790 135 1 7225843 189 27 0 0 0 216
+# FILE 1657763953581862 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT-p_DE.rds 1 1073741824
+1657763953596590 132 1 7225844 188 28 0 0 0 216
+# FILE 1657763953596661 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT-p_DE.rds 1 1073741824
+1657763953611419 129 1 7225845 187 29 0 0 0 216
+# FILE 1657763953611491 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT-p_DE.rds 1 1073741824
+1657763953625610 126 1 7225846 186 30 0 0 0 216
+# FILE 1657763953625677 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT_DE.rds 1 1073741824
+1657763953639895 123 1 7225847 185 31 0 0 0 216
+# FILE 1657763953639960 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT_DE.rds 1 1073741824
+1657763953655841 120 1 7225848 184 32 0 0 0 216
+# FILE 1657763953655966 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT_DE.rds 1 1073741824
+1657763953670739 117 1 7225849 183 33 0 0 0 216
+# FILE 1657763953670864 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NK_DE.rds 1 1073741824
+1657763953685529 114 1 7225850 182 34 0 0 0 216
+# FILE 1657763953685596 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NK_DE.rds 1 1073741824
+1657763953700095 111 1 7225851 181 35 0 0 0 216
+# FILE 1657763953700224 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657763953715066 108 1 7225852 180 36 0 0 0 216
+# FILE 1657763953715140 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Neu_DE.rds 1 1073741824
+1657763953730046 105 1 7225853 179 37 0 0 0 216
+# FILE 1657763953730173 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Neu_DE.rds 1 1073741824
+1657763953745561 102 1 7225854 178 38 0 0 0 216
+# FILE 1657763953745687 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Neu_DE.rds 1 1073741824
+1657763953760689 99 1 7225855 177 39 0 0 0 216
+# FILE 1657763953760825 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_moDC_DE.rds 1 1073741824
+1657763953775990 96 1 7225856 176 40 0 0 0 216
+# FILE 1657763953776178 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_moDC_DE.rds 1 1073741824
+1657763953791289 93 1 7225857 175 41 0 0 0 216
+# FILE 1657763953791360 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_moDC_DE.rds 1 1073741824
+1657763953806253 90 1 7225858 174 42 0 0 0 216
+# FILE 1657763953806320 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MoD-Ma_DE.rds 1 1073741824
+1657763953820935 87 1 7225859 173 43 0 0 0 216
+# FILE 1657763953820996 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MoD-Ma_DE.rds 1 1073741824
+1657763953835651 84 1 7225860 172 44 0 0 0 216
+# FILE 1657763953835788 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MoD-Ma_DE.rds 1 1073741824
+1657763953850596 81 1 7225861 171 45 0 0 0 216
+# FILE 1657763953850664 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MC_DE.rds 1 1073741824
+1657763953865775 78 1 7225862 170 46 0 0 0 216
+# FILE 1657763953865842 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MC_DE.rds 1 1073741824
+1657763953881235 75 1 7225863 169 47 0 0 0 216
+# FILE 1657763953881302 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MC_DE.rds 1 1073741824
+1657763953895935 72 1 7225864 168 48 0 0 0 216
+# FILE 1657763953896025 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_IRC_DE.rds 1 1073741824
+1657763953910870 69 1 7225865 167 49 0 0 0 216
+# FILE 1657763953910933 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_IRC_DE.rds 1 1073741824
+1657763953925696 66 1 7225866 166 50 0 0 0 216
+# FILE 1657763953925818 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_IRC_DE.rds 1 1073741824
+1657763953940778 63 1 7225867 165 51 0 0 0 216
+# FILE 1657763953940840 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ionocyte_DE.rds 1 1073741824
+1657763953955817 60 1 7225868 164 52 0 0 0 216
+# FILE 1657763953955881 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ionocyte_DE.rds 1 1073741824
+1657763953970758 57 1 7225869 163 53 0 0 0 216
+# FILE 1657763953970827 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ionocyte_DE.rds 1 1073741824
+1657763953985499 54 1 7225870 162 54 0 0 0 216
+# FILE 1657763953985566 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_FOXN4_DE.rds 1 1073741824
+1657763954000991 51 1 7225871 161 55 0 0 0 216
+# FILE 1657763954001172 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_FOXN4_DE.rds 1 1073741824
+1657763954016154 48 1 7225872 160 56 0 0 0 216
+# FILE 1657763954016221 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_FOXN4_DE.rds 1 1073741824
+1657763954032151 45 1 7225873 159 57 0 0 0 216
+# FILE 1657763954032218 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_CTL_DE.rds 1 1073741824
+1657763954047056 42 1 7225874 158 58 0 0 0 216
+# FILE 1657763954047122 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_CTL_DE.rds 1 1073741824
+1657763954062117 39 1 7225875 157 59 0 0 0 216
+# FILE 1657763954062249 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_CTL_DE.rds 1 1073741824
+1657763954076909 36 1 7225876 156 60 0 0 0 216
+# FILE 1657763954076981 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated-diff_DE.rds 1 1073741824
+1657763954091764 33 1 7225877 155 61 0 0 0 216
+# FILE 1657763954091894 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated-diff_DE.rds 1 1073741824
+1657763954106589 30 1 7225878 154 62 0 0 0 216
+# FILE 1657763954106662 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated-diff_DE.rds 1 1073741824
+1657763954122659 27 1 7225879 153 63 0 0 0 216
+# FILE 1657763954122734 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated_DE.rds 1 1073741824
+1657763954137510 24 1 7225880 152 64 0 0 0 216
+# FILE 1657763954137621 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated_DE.rds 1 1073741824
+1657763954152340 21 1 7225881 151 65 0 0 0 216
+# FILE 1657763954152426 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated_DE.rds 1 1073741824
+1657763954166785 18 1 7225882 150 66 0 0 0 216
+# FILE 1657763954166862 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Basal_DE.rds 1 1073741824
+1657763954181529 15 1 7225883 149 67 0 0 0 216
+# FILE 1657763954181601 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Basal_DE.rds 1 1073741824
+1657763954195916 12 1 7225884 148 68 0 0 0 216
+# FILE 1657763954195997 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Basal_DE.rds 1 1073741824
+1657763954211043 9 1 7225885 147 69 0 0 0 216
+# FILE 1657763954211182 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_B_cell_DE.rds 1 1073741824
+1657763954226325 6 1 7225886 146 70 0 0 0 216
+# FILE 1657763954226388 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_B_cell_DE.rds 1 1073741824
+1657763954240845 3 1 7225887 145 71 0 0 0 216
+# FILE 1657763954240906 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_B_cell_DE.rds 1 1073741824
+1657763954255138 0 1 7225888 144 72 0 0 0 216
+# FILE 1657763972754842 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_unknown_epithelial_DE.rds 2 162105
+1657763972755126 210 2 7225818 144 71 1 0 0 216
+# FILE 1657763972755252 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_unknown_epithelial_ppcseq.rds 1 1073741824
+1657763972775611 211 1 7225892 143 72 1 0 0 216
+# FILE 1657763973783749 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_unknown_epithelial_DE.rds 2 163456
+1657763973783784 213 2 7225817 143 71 2 0 0 216
+# FILE 1657763973783863 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_unknown_epithelial_ppcseq.rds 1 1073741824
+1657763973802458 214 1 7225893 142 72 2 0 0 216
+# FILE 1657763974811072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_pDC_DE.rds 2 647168
+1657763974811108 156 2 7225836 142 71 3 0 0 216
+# FILE 1657763974811370 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_pDC_ppcseq.rds 1 1073741824
+1657763974830973 157 1 7225894 141 72 3 0 0 216
+# FILE 1657763975840265 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_outliers_epithelial_DE.rds 2 1191261
+1657763975840497 147 2 7225839 141 71 4 0 0 216
+# FILE 1657763975840846 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_outliers_epithelial_ppcseq.rds 1 1073741824
+1657763975860847 148 1 7225895 140 72 4 0 0 216
+# FILE 1657763976872141 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory-diff_DE.rds 2 2728406
+1657763976872178 183 2 7225827 140 71 5 0 0 216
+# FILE 1657763976872394 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory-diff_ppcseq.rds 1 1073741824
+1657763976891276 184 1 7225896 139 72 5 0 0 216
+# FILE 1657763977913776 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Treg_DE.rds 2 5272302
+1657763977913809 201 2 7225821 139 71 6 0 0 216
+# FILE 1657763977913930 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Treg_ppcseq.rds 1 1073741824
+1657763977932102 202 1 7225897 138 72 6 0 0 216
+# FILE 1657763977937026 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NK_DE.rds 2 31763
+1657763977937051 114 2 7225850 138 71 7 0 0 216
+# FILE 1657763977937274 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NK_ppcseq.rds 1 1073741824
+1657763977952539 115 1 7225898 137 72 7 0 0 216
+# FILE 1657763977956729 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NK_DE.rds 2 31691
+1657763977956753 111 2 7225851 137 71 8 0 0 216
+# FILE 1657763977957078 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NK_ppcseq.rds 1 1073741824
+1657763977971631 112 1 7225899 136 72 8 0 0 216
+# FILE 1657763978980442 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MoD-Ma_DE.rds 2 186402
+1657763978980702 84 2 7225860 136 71 9 0 0 216
+# FILE 1657763978981312 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MoD-Ma_ppcseq.rds 1 1073741824
+1657763979000397 85 1 7225900 135 72 9 0 0 216
+# FILE 1657763979005671 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MC_DE.rds 2 297205
+1657763979005696 75 2 7225863 135 71 10 0 0 216
+# FILE 1657763979006191 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MC_ppcseq.rds 1 1073741824
+1657763979021057 76 1 7225901 134 72 10 0 0 216
+# FILE 1657763979025482 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MoD-Ma_DE.rds 2 187666
+1657763979025505 87 2 7225859 134 71 11 0 0 216
+# FILE 1657763979025888 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MoD-Ma_ppcseq.rds 1 1073741824
+1657763979042968 88 1 7225902 133 72 11 0 0 216
+# FILE 1657763980052991 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_rMa_DE.rds 2 2991932
+1657763980053035 165 2 7225833 133 71 12 0 0 216
+# FILE 1657763980053337 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_rMa_ppcseq.rds 1 1073741824
+1657763980076319 166 1 7225903 132 72 12 0 0 216
+# FILE 1657763980081348 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_pDC_DE.rds 2 237568
+1657763980081375 159 2 7225835 132 71 13 0 0 216
+# FILE 1657763980081584 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_pDC_ppcseq.rds 1 1073741824
+1657763980098303 160 1 7225904 131 72 13 0 0 216
+# FILE 1657763980101111 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_outliers_epithelial_DE.rds 2 237568
+1657763980101135 150 2 7225838 131 71 14 0 0 216
+# FILE 1657763980101343 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_outliers_epithelial_ppcseq.rds 1 1073741824
+1657763980117227 151 1 7225905 130 72 14 0 0 216
+# FILE 1657763980122701 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT_DE.rds 2 437811
+1657763980122724 120 2 7225848 130 71 15 0 0 216
+# FILE 1657763980122994 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT_ppcseq.rds 1 1073741824
+1657763980138187 121 1 7225906 129 72 15 0 0 216
+# FILE 1657763980141065 makeflow.failed.108 4 0
+# FILE 1657763980141410 makeflow.failed.108 3 0
+1657763980146503 108 3 7225852 129 71 15 1 0 216
+# FILE 1657763980146782 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+1657763980146874 108 0 7225852 130 71 15 0 0 216
+# FILE 1657763980147210 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657763980162211 108 1 7225907 129 72 15 0 0 216
+# FILE 1657763980167707 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_moDC_DE.rds 2 1117818
+1657763980167733 93 2 7225857 129 71 16 0 0 216
+# FILE 1657763980168094 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_moDC_ppcseq.rds 1 1073741824
+1657763980184181 94 1 7225908 128 72 16 0 0 216
+# FILE 1657763980187336 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MC_DE.rds 2 299921
+1657763980187359 78 2 7225862 128 71 17 0 0 216
+# FILE 1657763980187774 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MC_ppcseq.rds 1 1073741824
+1657763980203310 79 1 7225909 127 72 17 0 0 216
+# FILE 1657763980208466 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_IRC_DE.rds 2 521508
+1657763980208489 66 2 7225866 127 71 18 0 0 216
+# FILE 1657763980208913 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_IRC_ppcseq.rds 1 1073741824
+1657763980223828 67 1 7225910 126 72 18 0 0 216
+# FILE 1657763981246885 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT_DE.rds 2 444165
+1657763981246932 123 2 7225847 126 71 19 0 0 216
+# FILE 1657763981247480 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT_ppcseq.rds 1 1073741824
+1657763981420898 124 1 7225911 125 72 19 0 0 216
+# FILE 1657763981429061 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Neu_DE.rds 2 3107044
+1657763981429084 102 2 7225854 125 71 20 0 0 216
+# FILE 1657763981429576 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Neu_ppcseq.rds 1 1073741824
+1657763981445644 103 1 7225912 124 72 20 0 0 216
+# FILE 1657763981451645 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Basal_DE.rds 2 568096
+1657763981451665 12 2 7225884 124 71 21 0 0 216
+# FILE 1657763981452168 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Basal_ppcseq.rds 1 1073741824
+1657763981467899 13 1 7225913 123 72 21 0 0 216
+# FILE 1657763981473487 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_unknown_epithelial_ppcseq.rds 2 195
+1657763981473510 211 2 7225892 123 71 22 0 0 216
+# FILE 1657763981473570 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_unknown_epithelial_table.rds 1 1073741824
+1657763981488903 212 1 7225914 122 72 22 0 0 216
+# FILE 1657763982505687 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_IRC_DE.rds 2 530013
+1657763982505904 69 2 7225865 122 71 23 0 0 216
+# FILE 1657763982506543 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_IRC_ppcseq.rds 1 1073741824
+1657763982526365 70 1 7225915 121 72 23 0 0 216
+# FILE 1657763983585248 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_unknown_epithelial_DE.rds 2 283069
+1657763983585320 207 2 7225819 121 71 24 0 0 216
+# FILE 1657763983585533 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_unknown_epithelial_ppcseq.rds 1 1073741824
+1657763983604779 208 1 7225916 120 72 24 0 0 216
+# FILE 1657763983611318 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_pDC_DE.rds 2 1925781
+1657763983611341 153 2 7225837 120 71 25 0 0 216
+# FILE 1657763983611495 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_pDC_ppcseq.rds 1 1073741824
+1657763983627138 154 1 7225917 119 72 25 0 0 216
+# FILE 1657763983632554 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_moDC_DE.rds 2 1138991
+1657763983632577 96 2 7225856 119 71 26 0 0 216
+# FILE 1657763983632871 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_moDC_ppcseq.rds 1 1073741824
+1657763983648072 97 1 7225918 118 72 26 0 0 216
+# FILE 1657763983654630 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ionocyte_DE.rds 2 2218288
+1657763983654653 57 2 7225869 118 71 27 0 0 216
+# FILE 1657763983655073 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ionocyte_ppcseq.rds 1 1073741824
+1657763983670416 58 1 7225919 117 72 27 0 0 216
+# FILE 1657763983676318 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Basal_DE.rds 2 578658
+1657763983676354 15 2 7225883 117 71 28 0 0 216
+# FILE 1657763983676939 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Basal_ppcseq.rds 1 1073741824
+1657763983692742 16 1 7225920 116 72 28 0 0 216
+# FILE 1657763983700274 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_B_cell_DE.rds 2 2444187
+1657763983700298 3 2 7225887 116 71 29 0 0 216
+# FILE 1657763983700866 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_B_cell_ppcseq.rds 1 1073741824
+1657763983716292 4 1 7225921 115 72 29 0 0 216
+# FILE 1657763984725172 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Squamous_DE.rds 2 16908288
+1657763984725207 192 2 7225824 115 71 30 0 0 216
+# FILE 1657763984725381 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Squamous_ppcseq.rds 1 1073741824
+1657763984744747 193 1 7225922 114 72 30 0 0 216
+# FILE 1657763984749289 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_FOXN4_DE.rds 2 10246820
+1657763984749314 48 2 7225872 114 71 31 0 0 216
+# FILE 1657763984749666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_FOXN4_ppcseq.rds 1 1073741824
+1657763984764872 49 1 7225923 113 72 31 0 0 216
+# FILE 1657763984769976 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_unknown_epithelial_ppcseq.rds 2 195
+1657763984770000 214 2 7225893 113 71 32 0 0 216
+# FILE 1657763984770078 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_unknown_epithelial_table.rds 1 1073741824
+1657763984785598 215 1 7225924 112 72 32 0 0 216
+# FILE 1657763985798061 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory-diff_DE.rds 2 335872
+1657763985798307 180 2 7225828 112 71 33 0 0 216
+# FILE 1657763985798497 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory-diff_ppcseq.rds 1 1073741824
+1657763985817193 181 1 7225925 111 72 33 0 0 216
+# FILE 1657763985824239 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_rMa_DE.rds 2 598016
+1657763985824261 168 2 7225832 111 71 34 0 0 216
+# FILE 1657763985824414 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_rMa_ppcseq.rds 1 1073741824
+1657763985840544 169 1 7225926 110 72 34 0 0 216
+# FILE 1657763985844574 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_outliers_epithelial_DE.rds 2 598016
+1657763985844594 144 2 7225840 110 71 35 0 0 216
+# FILE 1657763985844791 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_outliers_epithelial_ppcseq.rds 1 1073741824
+1657763985860052 145 1 7225927 109 72 35 0 0 216
+# FILE 1657763985868633 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory-diff_DE.rds 2 2792635
+1657763985868658 186 2 7225826 109 71 36 0 0 216
+# FILE 1657763985868774 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory-diff_ppcseq.rds 1 1073741824
+1657763985883963 187 1 7225928 108 72 36 0 0 216
+# FILE 1657763985888694 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT-p_DE.rds 2 6737387
+1657763985888715 129 2 7225845 108 71 37 0 0 216
+# FILE 1657763985888924 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT-p_ppcseq.rds 1 1073741824
+1657763985903757 130 1 7225929 107 72 37 0 0 216
+# FILE 1657763985909395 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated-diff_DE.rds 2 2842624
+1657763985909415 30 2 7225878 107 71 38 0 0 216
+# FILE 1657763985909837 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated-diff_ppcseq.rds 1 1073741824
+1657763985925332 31 1 7225930 106 72 38 0 0 216
+# FILE 1657763986958980 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Treg_DE.rds 2 8506706
+1657763986959035 198 2 7225822 106 71 39 0 0 216
+# FILE 1657763986959173 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Treg_ppcseq.rds 1 1073741824
+1657763986979579 199 1 7225931 105 72 39 0 0 216
+# FILE 1657763986986902 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT_DE.rds 2 712560
+1657763986986928 117 2 7225849 105 71 40 0 0 216
+# FILE 1657763986987193 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT_ppcseq.rds 1 1073741824
+1657763987002592 118 1 7225932 104 72 40 0 0 216
+# FILE 1657763987009235 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MoD-Ma_DE.rds 2 339808
+1657763987009283 81 2 7225861 104 71 41 0 0 216
+# FILE 1657763987009702 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MoD-Ma_ppcseq.rds 1 1073741824
+1657763987026494 82 1 7225933 103 72 41 0 0 216
+# FILE 1657763987033178 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MC_DE.rds 2 523399
+1657763987033201 72 2 7225864 103 71 42 0 0 216
+# FILE 1657763987033577 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MC_ppcseq.rds 1 1073741824
+1657763987048965 73 1 7225934 102 72 42 0 0 216
+# FILE 1657763987058476 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ionocyte_DE.rds 2 3552172
+1657763987058520 54 2 7225870 102 71 43 0 0 216
+# FILE 1657763987059064 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ionocyte_ppcseq.rds 1 1073741824
+1657763987074067 55 1 7225935 101 72 43 0 0 216
+# FILE 1657763987079269 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_CTL_DE.rds 2 10567680
+1657763987079289 39 2 7225875 101 71 44 0 0 216
+# FILE 1657763987079742 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_CTL_ppcseq.rds 1 1073741824
+1657763987095098 40 1 7225936 100 72 44 0 0 216
+# FILE 1657763988121046 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NK_ppcseq.rds 2 195
+1657763988121080 115 2 7225898 100 71 45 0 0 216
+# FILE 1657763988121553 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NK_table.rds 1 1073741824
+1657763988139708 116 1 7225937 99 72 45 0 0 216
+# FILE 1657763988146142 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NK_ppcseq.rds 2 195
+1657763988146165 112 2 7225899 99 71 46 0 0 216
+# FILE 1657763988146479 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NK_table.rds 1 1073741824
+1657763988164711 113 1 7225938 98 72 46 0 0 216
+# FILE 1657763988171226 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MoD-Ma_ppcseq.rds 2 195
+1657763988171247 85 2 7225900 98 71 47 0 0 216
+# FILE 1657763988171598 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_MoD-Ma_table.rds 1 1073741824
+1657763988187280 86 1 7225939 97 72 47 0 0 216
+# FILE 1657763988194030 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MC_ppcseq.rds 2 195
+1657763988194053 76 2 7225901 97 71 48 0 0 216
+# FILE 1657763988194429 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_MC_table.rds 1 1073741824
+1657763988209855 77 1 7225940 96 72 48 0 0 216
+# FILE 1657763989224907 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_rMa_DE.rds 2 5188202
+1657763989225161 162 2 7225834 96 71 49 0 0 216
+# FILE 1657763989225459 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_rMa_ppcseq.rds 1 1073741824
+1657763989581486 163 1 7225944 95 72 49 0 0 216
+# FILE 1657763989609102 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_B_cell_DE.rds 2 2477283
+1657763989609145 6 2 7225886 95 71 50 0 0 216
+# FILE 1657763989609730 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_B_cell_ppcseq.rds 1 1073741824
+1657763989626176 7 1 7225945 94 72 50 0 0 216
+# FILE 1657763989634123 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory-diff_ppcseq.rds 2 195
+1657763989634167 184 2 7225896 94 71 51 0 0 216
+# FILE 1657763989634415 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Secretory-diff_table.rds 1 1073741824
+1657763989649654 185 1 7225946 93 72 51 0 0 216
+# FILE 1657763989657983 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_IRC_ppcseq.rds 2 195
+1657763989658025 67 2 7225910 93 71 52 0 0 216
+# FILE 1657763989658343 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_IRC_table.rds 1 1073741824
+1657763989673940 68 1 7225947 92 72 52 0 0 216
+# FILE 1657763990685656 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Treg_DE.rds 2 2220032
+1657763990685688 204 2 7225820 92 71 53 0 0 216
+# FILE 1657763990685796 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Treg_ppcseq.rds 1 1073741824
+1657763990705537 205 1 7225948 91 72 53 0 0 216
+# FILE 1657763990710348 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_nrMa_DE.rds 2 14065664
+1657763990710370 138 2 7225842 91 71 54 0 0 216
+# FILE 1657763990710562 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_nrMa_ppcseq.rds 1 1073741824
+1657763990726679 139 1 7225949 90 72 54 0 0 216
+# FILE 1657763990735059 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Neu_DE.rds 2 1220608
+1657763990735084 105 2 7225853 90 71 55 0 0 216
+# FILE 1657763990735468 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Neu_ppcseq.rds 1 1073741824
+1657763990753044 106 1 7225950 89 72 55 0 0 216
+# FILE 1657763990757953 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Neu_DE.rds 2 1220608
+1657763990757974 99 2 7225855 89 71 56 0 0 216
+# FILE 1657763990758329 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Neu_ppcseq.rds 1 1073741824
+1657763990773433 100 1 7225951 88 72 56 0 0 216
+# FILE 1657763990778416 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ionocyte_DE.rds 2 2260684
+1657763990778439 60 2 7225868 88 71 57 0 0 216
+# FILE 1657763990778829 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ionocyte_ppcseq.rds 1 1073741824
+1657763990793848 61 1 7225952 87 72 57 0 0 216
+# FILE 1657763990801259 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Basal_DE.rds 2 1038614
+1657763990801285 9 2 7225885 87 71 58 0 0 216
+# FILE 1657763990801773 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Basal_ppcseq.rds 1 1073741824
+1657763990817753 10 1 7225953 86 72 58 0 0 216
+# FILE 1657763990823422 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_B_cell_DE.rds 2 942080
+1657763990823443 0 2 7225888 86 71 59 0 0 216
+# FILE 1657763990823990 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_B_cell_ppcseq.rds 1 1073741824
+1657763990838906 1 1 7225954 85 72 59 0 0 216
+# FILE 1657763990847460 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT_ppcseq.rds 2 195
+1657763990847493 121 2 7225906 85 71 60 0 0 216
+# FILE 1657763990847860 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NKT_table.rds 1 1073741824
+1657763990863046 122 1 7225955 84 72 60 0 0 216
+# FILE 1657763992979431 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_IRC_DE.rds 2 935529
+1657763992979684 63 2 7225867 84 71 61 0 0 216
+# FILE 1657763992980354 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_IRC_ppcseq.rds 1 1073741824
+1657763993000153 64 1 7225956 83 72 61 0 0 216
+# FILE 1657763994007414 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory_DE.rds 2 30711808
+1657763994007454 174 2 7225830 83 71 62 0 0 216
+# FILE 1657763994007729 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory_ppcseq.rds 1 1073741824
+1657763994027866 175 1 7225957 82 72 62 0 0 216
+# FILE 1657763994032622 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_FOXN4_DE.rds 2 14942208
+1657763994032645 45 2 7225873 82 71 63 0 0 216
+# FILE 1657763994033039 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_FOXN4_ppcseq.rds 1 1073741824
+1657763994048728 46 1 7225958 81 72 63 0 0 216
+# FILE 1657763994055532 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_unknown_epithelial_table.rds 2 192
+# FILE 1657763994055554 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_unknown_epithelial_DE.rds 3 162105
+# FILE 1657763994055566 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_unknown_epithelial_ppcseq.rds 3 195
+1657763994055579 212 2 7225914 81 71 64 0 0 216
+# FILE 1657763995063128 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT-p_DE.rds 2 10923690
+1657763995063163 126 2 7225846 81 70 65 0 0 216
+# FILE 1657763995063529 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT-p_ppcseq.rds 1 1073741824
+1657763995080139 127 1 7225959 80 71 65 0 0 216
+# FILE 1657763995084959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated-diff_DE.rds 2 11189212
+1657763995084982 27 2 7225879 80 70 66 0 0 216
+# FILE 1657763995085425 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated-diff_ppcseq.rds 1 1073741824
+1657763995300665 28 1 7225960 79 71 66 0 0 216
+# FILE 1657763995305890 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ionocyte_ppcseq.rds 2 195
+1657763995305920 58 2 7225919 79 70 67 0 0 216
+# FILE 1657763995306608 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ionocyte_table.rds 1 1073741824
+1657763995323621 59 1 7225961 78 71 67 0 0 216
+# FILE 1657763995327146 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_B_cell_ppcseq.rds 2 195
+1657763995327169 4 2 7225921 78 70 68 0 0 216
+# FILE 1657763995327674 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_B_cell_table.rds 1 1073741824
+1657763995342135 5 1 7225962 77 71 68 0 0 216
+# FILE 1657763996359071 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_FOXN4_ppcseq.rds 2 195
+1657763996359320 49 2 7225923 77 70 69 0 0 216
+# FILE 1657763996360083 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_FOXN4_table.rds 1 1073741824
+1657763996380315 50 1 7225963 76 71 69 0 0 216
+# FILE 1657763996384156 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Squamous_DE.rds 2 20824064
+1657763996384183 189 2 7225825 76 70 70 0 0 216
+# FILE 1657763996384301 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Squamous_ppcseq.rds 1 1073741824
+1657763996400051 190 1 7225964 75 71 70 0 0 216
+# FILE 1657763996407750 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_CTL_DE.rds 2 14876672
+1657763996407771 36 2 7225876 75 70 71 0 0 216
+# FILE 1657763996408166 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_CTL_ppcseq.rds 1 1073741824
+1657763996423328 37 1 7225965 74 71 71 0 0 216
+# FILE 1657763997433491 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_unknown_epithelial_ppcseq.rds 2 195
+1657763997433529 208 2 7225916 74 70 72 0 0 216
+# FILE 1657763997433630 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_unknown_epithelial_table.rds 1 1073741824
+1657763997451558 209 1 7225966 73 71 72 0 0 216
+# FILE 1657763998460141 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory-diff_ppcseq.rds 2 195
+1657763998460178 187 2 7225928 73 70 73 0 0 216
+# FILE 1657763998460361 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Secretory-diff_table.rds 1 1073741824
+1657763998477876 188 1 7225967 72 71 73 0 0 216
+# FILE 1657763998481871 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT-p_ppcseq.rds 2 195
+1657763998481896 130 2 7225929 72 70 74 0 0 216
+# FILE 1657763998482127 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NKT-p_table.rds 1 1073741824
+1657763998496961 131 1 7225968 71 71 74 0 0 216
+# FILE 1657763998500711 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated-diff_ppcseq.rds 2 195
+1657763998500735 31 2 7225930 71 70 75 0 0 216
+# FILE 1657763998501174 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ciliated-diff_table.rds 1 1073741824
+1657763998516095 32 1 7225969 70 71 75 0 0 216
+# FILE 1657763998541969 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_FOXN4_DE.rds 2 10573873
+1657763998541995 51 2 7225871 70 70 76 0 0 216
+# FILE 1657763998542452 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_FOXN4_ppcseq.rds 1 1073741824
+1657763998557858 52 1 7225970 69 71 76 0 0 216
+# FILE 1657763998569620 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_moDC_DE.rds 2 1943889
+1657763998569644 90 2 7225858 69 70 77 0 0 216
+# FILE 1657763998569991 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_moDC_ppcseq.rds 1 1073741824
+1657763998585571 91 1 7225971 68 71 77 0 0 216
+# FILE 1657763999596626 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_unknown_epithelial_table.rds 2 192
+# FILE 1657763999596857 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_unknown_epithelial_DE.rds 3 163456
+# FILE 1657763999596873 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_unknown_epithelial_ppcseq.rds 3 195
+1657763999596885 215 2 7225924 68 70 78 0 0 216
+# FILE 1657763999602579 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory-diff_ppcseq.rds 2 195
+1657763999602606 181 2 7225925 68 69 79 0 0 216
+# FILE 1657763999602732 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Secretory-diff_table.rds 1 1073741824
+1657763999621607 182 1 7225972 67 70 79 0 0 216
+# FILE 1657763999640346 makeflow.failed.108 4 0
+# FILE 1657763999640658 makeflow.failed.108 3 0
+1657763999646107 108 3 7225907 67 69 79 1 0 216
+# FILE 1657763999646289 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+1657763999646342 108 0 7225907 68 69 79 0 0 216
+# FILE 1657763999646615 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657763999662471 108 1 7225973 67 70 79 0 0 216
+# FILE 1657764000669571 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT_ppcseq.rds 2 195
+1657764000669608 118 2 7225932 67 69 80 0 0 216
+# FILE 1657764000670101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_NKT_table.rds 1 1073741824
+1657764000692589 119 1 7225974 66 70 80 0 0 216
+# FILE 1657764000697116 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_MoD-Ma_table.rds 2 192
+# FILE 1657764000697138 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MoD-Ma_DE.rds 3 186402
+# FILE 1657764000697149 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MoD-Ma_ppcseq.rds 3 195
+1657764000697161 86 2 7225939 66 69 81 0 0 216
+# FILE 1657764000701366 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_MC_table.rds 2 192
+# FILE 1657764000701435 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_MC_DE.rds 3 297205
+# FILE 1657764000701519 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_MC_ppcseq.rds 3 195
+1657764000701549 77 2 7225940 66 68 82 0 0 216
+# FILE 1657764000707469 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT-p_DE.rds 2 4907008
+1657764000707490 132 2 7225844 66 67 83 0 0 216
+# FILE 1657764000707683 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT-p_ppcseq.rds 1 1073741824
+1657764000724213 133 1 7225975 65 68 83 0 0 216
+# FILE 1657764001733839 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NK_table.rds 2 192
+# FILE 1657764001733865 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NK_DE.rds 3 31763
+# FILE 1657764001733877 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NK_ppcseq.rds 3 195
+1657764001733890 116 2 7225937 65 67 84 0 0 216
+# FILE 1657764001738256 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NK_table.rds 2 192
+# FILE 1657764001738276 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NK_DE.rds 3 31691
+# FILE 1657764001738288 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NK_ppcseq.rds 3 195
+1657764001738300 113 2 7225938 65 66 85 0 0 216
+# FILE 1657764001795500 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated-diff_DE.rds 2 2859008
+1657764001795540 33 2 7225877 65 65 86 0 0 216
+# FILE 1657764001795966 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated-diff_ppcseq.rds 1 1073741824
+1657764001819191 34 1 7225976 64 66 86 0 0 216
+# FILE 1657764001823425 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated_DE.rds 2 34701312
+1657764001823467 21 2 7225881 64 65 87 0 0 216
+# FILE 1657764001824131 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated_ppcseq.rds 1 1073741824
+1657764001839855 22 1 7225977 63 66 87 0 0 216
+# FILE 1657764002847162 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_nrMa_DE.rds 2 19750912
+1657764002847433 135 2 7225843 63 65 88 0 0 216
+# FILE 1657764002847813 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_nrMa_ppcseq.rds 1 1073741824
+1657764002866855 136 1 7225978 62 66 88 0 0 216
+# FILE 1657764003876282 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_IRC_table.rds 2 192
+# FILE 1657764003876312 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_IRC_DE.rds 3 521508
+# FILE 1657764003876327 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_IRC_ppcseq.rds 3 195
+1657764003876338 68 2 7225947 62 65 89 0 0 216
+# FILE 1657764003882826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_B_cell_ppcseq.rds 2 195
+1657764003882849 1 2 7225954 62 64 90 0 0 216
+# FILE 1657764003883309 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_B_cell_table.rds 1 1073741824
+1657764003902871 2 1 7225979 61 65 90 0 0 216
+# FILE 1657764003907351 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NKT_table.rds 2 192
+# FILE 1657764003907372 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT_DE.rds 3 437811
+# FILE 1657764003907385 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT_ppcseq.rds 3 195
+1657764003907396 122 2 7225955 61 64 91 0 0 216
+# FILE 1657764004918896 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Secretory-diff_table.rds 2 192
+# FILE 1657764004918950 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory-diff_DE.rds 3 2728406
+# FILE 1657764004918974 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory-diff_ppcseq.rds 3 195
+1657764004918998 185 2 7225946 61 63 92 0 0 216
+# FILE 1657764006938263 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_CTL_DE.rds 2 10715136
+1657764006938489 42 2 7225874 61 62 93 0 0 216
+# FILE 1657764006939088 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_CTL_ppcseq.rds 1 1073741824
+1657764006959458 43 1 7225980 60 63 93 0 0 216
+# FILE 1657764008973023 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory_DE.rds 2 54706176
+1657764008973056 171 2 7225831 60 62 94 0 0 216
+# FILE 1657764008973302 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory_ppcseq.rds 1 1073741824
+1657764008991635 172 1 7225982 59 63 94 0 0 216
+# FILE 1657764008997237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT-p_ppcseq.rds 2 195
+1657764008997265 127 2 7225959 59 62 95 0 0 216
+# FILE 1657764008997480 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_NKT-p_table.rds 1 1073741824
+1657764009014344 128 1 7225983 58 63 95 0 0 216
+# FILE 1657764010020538 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Squamous_DE.rds 2 20688979
+1657764010020791 195 2 7225823 58 62 96 0 0 216
+# FILE 1657764010020941 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Squamous_ppcseq.rds 1 1073741824
+1657764010053648 196 1 7225984 57 63 96 0 0 216
+# FILE 1657764010064219 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_B_cell_table.rds 2 192
+# FILE 1657764010064242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_B_cell_DE.rds 3 2444187
+# FILE 1657764010064254 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_B_cell_ppcseq.rds 3 195
+1657764010064267 5 2 7225962 57 62 97 0 0 216
+# FILE 1657764011075503 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated-diff_ppcseq.rds 2 195
+1657764011075538 28 2 7225960 57 61 98 0 0 216
+# FILE 1657764011076195 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ciliated-diff_table.rds 1 1073741824
+1657764011095944 29 1 7225985 56 62 98 0 0 216
+# FILE 1657764011100456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ionocyte_table.rds 2 192
+# FILE 1657764011100477 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ionocyte_DE.rds 3 2218288
+# FILE 1657764011100488 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ionocyte_ppcseq.rds 3 195
+1657764011100500 59 2 7225961 56 61 99 0 0 216
+# FILE 1657764012115144 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_FOXN4_table.rds 2 192
+# FILE 1657764012115194 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_FOXN4_DE.rds 3 10246820
+# FILE 1657764012115207 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_FOXN4_ppcseq.rds 3 195
+1657764012115221 50 2 7225963 56 60 100 0 0 216
+# FILE 1657764012119731 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_unknown_epithelial_table.rds 2 192
+# FILE 1657764012119771 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_unknown_epithelial_DE.rds 3 283069
+# FILE 1657764012119795 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_unknown_epithelial_ppcseq.rds 3 195
+1657764012119818 209 2 7225966 56 59 101 0 0 216
+# FILE 1657764013172033 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MoD-Ma_ppcseq.rds 2 1305
+1657764013172286 88 2 7225902 56 58 102 0 0 216
+# FILE 1657764013172764 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_MoD-Ma_table.rds 1 1073741824
+1657764013191710 89 1 7225986 55 59 102 0 0 216
+# FILE 1657764014202422 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Secretory-diff_table.rds 2 192
+# FILE 1657764014204096 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory-diff_DE.rds 3 2792635
+# FILE 1657764014204131 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory-diff_ppcseq.rds 3 195
+1657764014204155 188 2 7225967 55 58 103 0 0 216
+# FILE 1657764014209240 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_NKT_table.rds 2 192
+# FILE 1657764014209262 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT_DE.rds 3 712560
+# FILE 1657764014209275 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT_ppcseq.rds 3 195
+1657764014209286 119 2 7225974 55 57 104 0 0 216
+# FILE 1657764015217960 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_NKT-p_table.rds 2 192
+# FILE 1657764015218021 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_NKT-p_DE.rds 3 6737387
+# FILE 1657764015218036 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_NKT-p_ppcseq.rds 3 195
+1657764015218050 131 2 7225968 55 56 105 0 0 216
+# FILE 1657764015222869 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ciliated-diff_table.rds 2 192
+# FILE 1657764015222909 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated-diff_DE.rds 3 2842624
+# FILE 1657764015222932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated-diff_ppcseq.rds 3 195
+1657764015222968 32 2 7225969 55 55 106 0 0 216
+# FILE 1657764016233669 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated_DE.rds 2 56008704
+1657764016234870 18 2 7225882 55 54 107 0 0 216
+# FILE 1657764016235697 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated_ppcseq.rds 1 1073741824
+1657764016255526 19 1 7225987 54 55 107 0 0 216
+# FILE 1657764017264981 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_nrMa_DE.rds 2 16285696
+1657764017265025 141 2 7225841 54 54 108 0 0 216
+# FILE 1657764017265372 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_nrMa_ppcseq.rds 1 1073741824
+1657764017282758 142 1 7225988 53 55 108 0 0 216
+# FILE 1657764018307422 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_B_cell_table.rds 2 192
+# FILE 1657764018307449 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_B_cell_DE.rds 3 942080
+# FILE 1657764018307460 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_B_cell_ppcseq.rds 3 195
+1657764018307473 2 2 7225979 53 54 109 0 0 216
+# FILE 1657764019327385 makeflow.failed.108 4 0
+# FILE 1657764019328057 makeflow.failed.108 3 0
+1657764019333957 108 3 7225973 53 53 109 1 0 216
+# FILE 1657764019334195 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+1657764019334245 108 0 7225973 54 53 109 0 0 216
+# FILE 1657764019334607 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657764019353726 108 1 7225989 53 54 109 0 0 216
+# FILE 1657764023399411 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Secretory-diff_table.rds 2 192
+# FILE 1657764023399661 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory-diff_DE.rds 3 335872
+# FILE 1657764023399677 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory-diff_ppcseq.rds 3 195
+1657764023399691 182 2 7225972 53 53 110 0 0 216
+# FILE 1657764026416328 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_NKT-p_table.rds 2 192
+# FILE 1657764026416610 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NKT-p_DE.rds 3 10923690
+# FILE 1657764026416626 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_NKT-p_ppcseq.rds 3 195
+1657764026416638 128 2 7225983 53 52 111 0 0 216
+# FILE 1657764027424472 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ciliated-diff_table.rds 2 192
+# FILE 1657764027424500 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated-diff_DE.rds 3 11189212
+# FILE 1657764027424515 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated-diff_ppcseq.rds 3 195
+1657764027424528 29 2 7225985 53 51 112 0 0 216
+# FILE 1657764028431601 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MoD-Ma_ppcseq.rds 2 3648
+1657764028431634 82 2 7225933 53 50 113 0 0 216
+# FILE 1657764028432112 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_MoD-Ma_table.rds 1 1073741824
+1657764028451708 83 1 7225990 52 51 113 0 0 216
+# FILE 1657764028457055 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_MoD-Ma_table.rds 2 238
+# FILE 1657764028457076 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MoD-Ma_DE.rds 3 187666
+# FILE 1657764028457089 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MoD-Ma_ppcseq.rds 3 1305
+1657764028457100 89 2 7225986 52 50 114 0 0 216
+# FILE 1657764030469515 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MC_ppcseq.rds 2 1496
+1657764030469773 79 2 7225909 52 49 115 0 0 216
+# FILE 1657764030470289 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_MC_table.rds 1 1073741824
+1657764030489210 80 1 7225991 51 50 115 0 0 216
+# FILE 1657764038527834 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory_DE.rds 2 31023104
+1657764038528103 177 2 7225829 51 49 116 0 0 216
+# FILE 1657764038528291 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory_ppcseq.rds 1 1073741824
+1657764038547809 178 1 7225992 50 50 116 0 0 216
+# FILE 1657764041564487 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MC_ppcseq.rds 2 1259
+1657764041564734 73 2 7225934 50 49 117 0 0 216
+# FILE 1657764041565437 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_MC_table.rds 1 1073741824
+1657764041584914 74 1 7225993 49 50 117 0 0 216
+# FILE 1657764041600950 makeflow.failed.108 4 0
+# FILE 1657764041601320 makeflow.failed.108 3 0
+1657764041606684 108 3 7225989 49 49 117 1 0 216
+# FILE 1657764041606923 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+1657764041606996 108 0 7225989 50 49 117 0 0 216
+# FILE 1657764041607512 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657764041624446 108 1 7225994 49 50 117 0 0 216
+# FILE 1657764043644955 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_MC_table.rds 2 235
+# FILE 1657764043644989 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_MC_DE.rds 3 299921
+# FILE 1657764043645003 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_MC_ppcseq.rds 3 1496
+1657764043645028 80 2 7225991 49 49 118 0 0 216
+# FILE 1657764045661259 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_MoD-Ma_table.rds 2 219
+# FILE 1657764045661557 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MoD-Ma_DE.rds 3 339808
+# FILE 1657764045661571 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MoD-Ma_ppcseq.rds 3 3648
+1657764045661584 83 2 7225990 49 48 119 0 0 216
+# FILE 1657764049688077 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT_ppcseq.rds 2 1842
+1657764049688364 124 2 7225911 49 47 120 0 0 216
+# FILE 1657764049688749 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NKT_table.rds 1 1073741824
+1657764049708969 125 1 7225995 48 48 120 0 0 216
+# FILE 1657764050715430 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated_DE.rds 2 32489472
+1657764050715463 24 2 7225880 48 47 121 0 0 216
+# FILE 1657764050716179 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated_ppcseq.rds 1 1073741824
+1657764050735712 25 1 7225996 47 48 121 0 0 216
+# FILE 1657764056771645 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_FOXN4_ppcseq.rds 2 3874
+1657764056771929 46 2 7225958 47 47 122 0 0 216
+# FILE 1657764056772561 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_FOXN4_table.rds 1 1073741824
+1657764056791956 47 1 7225997 46 48 122 0 0 216
+# FILE 1657764057798445 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_MC_table.rds 2 216
+# FILE 1657764057798472 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_MC_DE.rds 3 523399
+# FILE 1657764057798483 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_MC_ppcseq.rds 3 1259
+1657764057798504 74 2 7225993 46 47 123 0 0 216
+# FILE 1657764060815036 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_IRC_ppcseq.rds 2 2568
+1657764060815283 70 2 7225915 46 46 124 0 0 216
+# FILE 1657764060815781 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_IRC_table.rds 1 1073741824
+1657764060839802 71 1 7225999 45 47 124 0 0 216
+# FILE 1657764061861712 makeflow.failed.108 4 0
+# FILE 1657764061862150 makeflow.failed.108 3 0
+1657764061867309 108 3 7225994 45 46 124 1 0 216
+# FILE 1657764061867346 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+1657764061867390 108 0 7225994 46 46 124 0 0 216
+# FILE 1657764061867805 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 1 1073741824
+1657764061887196 108 1 7226000 45 47 124 0 0 216
+# FILE 1657764063899579 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NKT_table.rds 2 236
+# FILE 1657764063899866 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT_DE.rds 3 444165
+# FILE 1657764063899880 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT_ppcseq.rds 3 1842
+1657764063899894 125 2 7225995 45 46 125 0 0 216
+# FILE 1657764073982456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_IRC_table.rds 2 236
+# FILE 1657764073982752 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_IRC_DE.rds 3 530013
+# FILE 1657764073982767 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_IRC_ppcseq.rds 3 2568
+1657764073982780 71 2 7225999 45 45 126 0 0 216
+# FILE 1657764074990089 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_IRC_ppcseq.rds 2 2264
+1657764074990140 64 2 7225956 45 44 127 0 0 216
+# FILE 1657764074990678 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_IRC_table.rds 1 1073741824
+1657764075012184 65 1 7226001 44 45 127 0 0 216
+# FILE 1657764076021196 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_FOXN4_table.rds 2 218
+# FILE 1657764076021244 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_FOXN4_DE.rds 3 14942208
+# FILE 1657764076021264 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_FOXN4_ppcseq.rds 3 3874
+1657764076021288 47 2 7225997 44 44 128 0 0 216
+# FILE 1657764081060666 makeflow.failed.108 4 0
+# FILE 1657764081061545 makeflow.failed.108 3 0
+1657764081066527 108 3 7226000 44 43 128 1 0 216
+# FILE 1657764081066565 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_NK_DE.rds 4 1073741824
+# FILE 1657764091145616 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Basal_ppcseq.rds 2 10480
+1657764091145896 10 2 7225953 44 42 129 1 0 216
+# FILE 1657764091146657 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Basal_table.rds 1 1073741824
+1657764091166623 11 1 7226003 43 43 129 1 0 216
+# FILE 1657764091171552 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_outliers_epithelial_ppcseq.rds 2 2243
+1657764091171581 148 2 7225895 43 42 130 1 0 216
+# FILE 1657764091171873 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_outliers_epithelial_table.rds 1 1073741824
+1657764091254548 149 1 7226004 42 43 130 1 0 216
+# FILE 1657764092265885 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_IRC_table.rds 2 218
+# FILE 1657764092265920 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_IRC_DE.rds 3 935529
+# FILE 1657764092265932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_IRC_ppcseq.rds 3 2264
+1657764092265946 65 2 7226001 42 42 131 1 0 216
+# FILE 1657764096298091 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Basal_ppcseq.rds 2 3152
+1657764096298335 13 2 7225913 42 41 132 1 0 216
+# FILE 1657764096299090 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Basal_table.rds 1 1073741824
+1657764096318590 14 1 7226005 41 42 132 1 0 216
+# FILE 1657764104354850 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Basal_ppcseq.rds 2 6103
+1657764104355095 16 2 7225920 41 41 133 1 0 216
+# FILE 1657764104355826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Basal_table.rds 1 1073741824
+1657764104376717 17 1 7226006 40 42 133 1 0 216
+# FILE 1657764105384219 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Basal_table.rds 2 218
+# FILE 1657764105384252 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Basal_DE.rds 3 1038614
+# FILE 1657764105384267 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Basal_ppcseq.rds 3 10480
+1657764105384279 11 2 7226003 40 41 134 1 0 216
+# FILE 1657764106390319 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_outliers_epithelial_table.rds 2 238
+# FILE 1657764106390352 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_outliers_epithelial_DE.rds 3 1191261
+# FILE 1657764106390366 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_outliers_epithelial_ppcseq.rds 3 2243
+1657764106390379 149 2 7226004 40 40 135 1 0 216
+# FILE 1657764109411983 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Basal_table.rds 2 231
+# FILE 1657764109412243 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Basal_DE.rds 3 568096
+# FILE 1657764109412260 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Basal_ppcseq.rds 3 3152
+1657764109412273 14 2 7226005 40 39 136 1 0 216
+# FILE 1657764115442450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_outliers_epithelial_ppcseq.rds 2 9123
+1657764115442763 151 2 7225905 40 38 137 1 0 216
+# FILE 1657764115443071 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_outliers_epithelial_table.rds 1 1073741824
+1657764115464474 152 1 7226007 39 39 137 1 0 216
+# FILE 1657764116471101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_outliers_epithelial_ppcseq.rds 2 6644
+1657764116471140 145 2 7225927 39 38 138 1 0 216
+# FILE 1657764116471487 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_outliers_epithelial_table.rds 1 1073741824
+1657764116490299 146 1 7226008 38 39 138 1 0 216
+# FILE 1657764118506799 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Basal_table.rds 2 236
+# FILE 1657764118507039 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Basal_DE.rds 3 578658
+# FILE 1657764118507054 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Basal_ppcseq.rds 3 6103
+1657764118507069 17 2 7226006 38 38 139 1 0 216
+# FILE 1657764126538050 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_pDC_ppcseq.rds 2 19328
+1657764126538299 160 2 7225904 38 37 140 1 0 216
+# FILE 1657764126538559 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_pDC_table.rds 1 1073741824
+1657764126557804 161 1 7226010 37 38 140 1 0 216
+# FILE 1657764128570289 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ionocyte_ppcseq.rds 2 5913
+1657764128570331 55 2 7225935 37 37 141 1 0 216
+# FILE 1657764128570959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ionocyte_table.rds 1 1073741824
+1657764128588758 56 1 7226011 36 38 141 1 0 216
+# FILE 1657764128593929 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_pDC_ppcseq.rds 2 7449
+1657764128593957 157 2 7225894 36 37 142 1 0 216
+# FILE 1657764128594158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_pDC_table.rds 1 1073741824
+1657764128610066 158 1 7226012 35 38 142 1 0 216
+# FILE 1657764129616565 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_B_cell_ppcseq.rds 2 7295
+1657764129616802 7 2 7225945 35 37 143 1 0 216
+# FILE 1657764129617574 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_B_cell_table.rds 1 1073741824
+1657764129638050 8 1 7226014 34 38 143 1 0 216
+# FILE 1657764129642691 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_outliers_epithelial_table.rds 2 244
+# FILE 1657764129642714 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_outliers_epithelial_DE.rds 3 237568
+# FILE 1657764129642728 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_outliers_epithelial_ppcseq.rds 3 9123
+1657764129642740 152 2 7226007 34 37 144 1 0 216
+# FILE 1657764131660707 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_outliers_epithelial_table.rds 2 229
+# FILE 1657764131660740 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_outliers_epithelial_DE.rds 3 598016
+# FILE 1657764131660752 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_outliers_epithelial_ppcseq.rds 3 6644
+1657764131660764 146 2 7226008 34 36 145 1 0 216
+# FILE 1657764133672237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_moDC_ppcseq.rds 2 6050
+1657764133672477 91 2 7225971 34 35 146 1 0 216
+# FILE 1657764133672955 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_moDC_table.rds 1 1073741824
+1657764133691955 92 1 7226015 33 36 146 1 0 216
+# FILE 1657764134699733 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_moDC_ppcseq.rds 2 15330
+1657764134699768 97 2 7225918 33 35 147 1 0 216
+# FILE 1657764134700304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_moDC_table.rds 1 1073741824
+1657764134720209 98 1 7226016 32 36 147 1 0 216
+# FILE 1657764138739343 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ionocyte_ppcseq.rds 2 11293
+1657764138741090 61 2 7225952 32 35 148 1 0 216
+# FILE 1657764138741719 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ionocyte_table.rds 1 1073741824
+1657764138762056 62 1 7226017 31 36 148 1 0 216
+# FILE 1657764138767309 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_pDC_ppcseq.rds 2 7992
+1657764138767338 154 2 7225917 31 35 149 1 0 216
+# FILE 1657764138767619 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_pDC_table.rds 1 1073741824
+1657764138783614 155 1 7226018 30 36 149 1 0 216
+# FILE 1657764139795633 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_pDC_table.rds 2 237
+# FILE 1657764139795666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_pDC_DE.rds 3 237568
+# FILE 1657764139795680 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_pDC_ppcseq.rds 3 19328
+1657764139795694 161 2 7226010 30 35 150 1 0 216
+# FILE 1657764139804727 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_rMa_ppcseq.rds 2 11020
+1657764139804756 166 2 7225903 30 34 151 1 0 216
+# FILE 1657764139804911 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_rMa_table.rds 1 1073741824
+1657764139823796 167 1 7226019 29 35 151 1 0 216
+# FILE 1657764141834522 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_pDC_table.rds 2 234
+# FILE 1657764141834845 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_pDC_DE.rds 3 647168
+# FILE 1657764141834861 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_pDC_ppcseq.rds 3 7449
+1657764141834876 158 2 7226012 29 34 152 1 0 216
+# FILE 1657764143853192 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_B_cell_table.rds 2 238
+# FILE 1657764143853224 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_B_cell_DE.rds 3 2477283
+# FILE 1657764143853237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_B_cell_ppcseq.rds 3 7295
+1657764143853250 8 2 7226014 29 33 153 1 0 216
+# FILE 1657764145863037 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated-diff_ppcseq.rds 2 2372
+1657764145863311 34 2 7225976 29 32 154 1 0 216
+# FILE 1657764145864043 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ciliated-diff_table.rds 1 1073741824
+1657764145884365 35 1 7226020 28 33 154 1 0 216
+# FILE 1657764145889361 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ionocyte_table.rds 2 221
+# FILE 1657764145889384 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ionocyte_DE.rds 3 3552172
+# FILE 1657764145889397 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ionocyte_ppcseq.rds 3 5913
+1657764145889410 56 2 7226011 28 32 155 1 0 216
+# FILE 1657764146896329 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_rMa_ppcseq.rds 2 8772
+1657764146896367 163 2 7225944 28 31 156 1 0 216
+# FILE 1657764146896610 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_rMa_table.rds 1 1073741824
+1657764146916539 164 1 7226021 27 32 156 1 0 216
+# FILE 1657764147924190 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_moDC_table.rds 2 237
+# FILE 1657764147924222 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_moDC_DE.rds 3 1138991
+# FILE 1657764147924234 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_moDC_ppcseq.rds 3 15330
+1657764147924249 98 2 7226016 27 31 157 1 0 216
+# FILE 1657764148932299 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_CTL_ppcseq.rds 2 14637
+1657764148932617 40 2 7225936 27 30 158 1 0 216
+# FILE 1657764148934785 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_CTL_table.rds 1 1073741824
+1657764148954916 41 1 7226022 26 31 158 1 0 216
+# FILE 1657764150970043 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_moDC_table.rds 2 217
+# FILE 1657764150970096 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_moDC_DE.rds 3 1943889
+# FILE 1657764150970129 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_moDC_ppcseq.rds 3 6050
+1657764150970145 92 2 7226015 26 30 159 1 0 216
+# FILE 1657764151980085 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ionocyte_table.rds 2 240
+# FILE 1657764151980358 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ionocyte_DE.rds 3 2260684
+# FILE 1657764151980376 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ionocyte_ppcseq.rds 3 11293
+1657764151980389 62 2 7226017 26 29 160 1 0 216
+# FILE 1657764153990057 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_FOXN4_ppcseq.rds 2 6031
+1657764153990108 52 2 7225970 26 28 161 1 0 216
+# FILE 1657764153990553 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_FOXN4_table.rds 1 1073741824
+1657764154015529 53 1 7226023 25 29 161 1 0 216
+# FILE 1657764154020485 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_pDC_table.rds 2 216
+# FILE 1657764154020520 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_pDC_DE.rds 3 1925781
+# FILE 1657764154020536 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_pDC_ppcseq.rds 3 7992
+1657764154020548 155 2 7226018 25 28 162 1 0 216
+# FILE 1657764155029323 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_rMa_table.rds 2 233
+# FILE 1657764155029557 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_rMa_DE.rds 3 2991932
+# FILE 1657764155029573 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_rMa_ppcseq.rds 3 11020
+1657764155029593 167 2 7226019 25 27 163 1 0 216
+# FILE 1657764158040234 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Neu_ppcseq.rds 2 26568
+1657764158040545 100 2 7225951 25 26 164 1 0 216
+# FILE 1657764158040890 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Neu_table.rds 1 1073741824
+1657764158060035 101 1 7226024 24 27 164 1 0 216
+# FILE 1657764159067789 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_nrMa_ppcseq.rds 2 15261
+1657764159067851 139 2 7225949 24 26 165 1 0 216
+# FILE 1657764159068157 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_nrMa_table.rds 1 1073741824
+1657764159085904 140 1 7226026 23 27 165 1 0 216
+# FILE 1657764162104972 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ciliated-diff_table.rds 2 241
+# FILE 1657764162105284 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated-diff_DE.rds 3 2859008
+# FILE 1657764162105297 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated-diff_ppcseq.rds 3 2372
+1657764162105310 35 2 7226020 23 26 166 1 0 216
+# FILE 1657764162110657 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_moDC_ppcseq.rds 2 4730
+1657764162110684 94 2 7225908 23 25 167 1 0 216
+# FILE 1657764162110968 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_moDC_table.rds 1 1073741824
+1657764162131318 95 1 7226027 22 26 167 1 0 216
+# FILE 1657764164141099 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_rMa_table.rds 2 218
+# FILE 1657764164141143 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_rMa_DE.rds 3 5188202
+# FILE 1657764164141158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_rMa_ppcseq.rds 3 8772
+1657764164141172 164 2 7226021 22 25 168 1 0 216
+# FILE 1657764166152052 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT-p_ppcseq.rds 2 10962
+1657764166152356 133 2 7225975 22 24 169 1 0 216
+# FILE 1657764166152627 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NKT-p_table.rds 1 1073741824
+1657764166171653 134 1 7226028 21 25 169 1 0 216
+# FILE 1657764166176454 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_CTL_table.rds 2 235
+# FILE 1657764166176476 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_CTL_DE.rds 3 10567680
+# FILE 1657764166176486 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_CTL_ppcseq.rds 3 14637
+1657764166176497 41 2 7226022 21 24 170 1 0 216
+# FILE 1657764167188937 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Neu_ppcseq.rds 2 16600
+1657764167188969 103 2 7225912 21 23 171 1 0 216
+# FILE 1657764167189369 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Neu_table.rds 1 1073741824
+1657764167209391 104 1 7226029 20 24 171 1 0 216
+# FILE 1657764168214238 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_FOXN4_table.rds 2 238
+# FILE 1657764168214272 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_FOXN4_DE.rds 3 10573873
+# FILE 1657764168214283 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_FOXN4_ppcseq.rds 3 6031
+1657764168214297 53 2 7226023 20 23 172 1 0 216
+# FILE 1657764175238529 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Neu_table.rds 2 218
+# FILE 1657764175238811 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Neu_DE.rds 3 1220608
+# FILE 1657764175238826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Neu_ppcseq.rds 3 26568
+1657764175238838 101 2 7226024 20 22 173 1 0 216
+# FILE 1657764175243466 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_moDC_table.rds 2 233
+# FILE 1657764175243491 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_moDC_DE.rds 3 1117818
+# FILE 1657764175243504 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_moDC_ppcseq.rds 3 4730
+1657764175243517 95 2 7226027 20 21 174 1 0 216
+# FILE 1657764176250486 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_nrMa_table.rds 2 234
+# FILE 1657764176250514 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_nrMa_DE.rds 3 14065664
+# FILE 1657764176250527 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_nrMa_ppcseq.rds 3 15261
+1657764176250538 140 2 7226026 20 20 175 1 0 216
+# FILE 1657764180262341 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_NKT-p_table.rds 2 239
+# FILE 1657764180262592 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_NKT-p_DE.rds 3 4907008
+# FILE 1657764180262606 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_NKT-p_ppcseq.rds 3 10962
+1657764180262617 134 2 7226028 20 19 176 1 0 216
+# FILE 1657764181268432 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Treg_ppcseq.rds 2 7702
+1657764181268484 199 2 7225931 20 18 177 1 0 216
+# FILE 1657764181268805 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Treg_table.rds 1 1073741824
+1657764181288769 200 1 7226031 19 19 177 1 0 216
+# FILE 1657764181293680 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_nrMa_ppcseq.rds 2 18220
+1657764181293718 136 2 7225978 19 18 178 1 0 216
+# FILE 1657764181293924 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_nrMa_table.rds 1 1073741824
+1657764181310191 137 1 7226032 18 19 178 1 0 216
+# FILE 1657764182319456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Neu_table.rds 2 233
+# FILE 1657764182319490 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Neu_DE.rds 3 3107044
+# FILE 1657764182319503 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Neu_ppcseq.rds 3 16600
+1657764182319515 104 2 7226029 18 18 179 1 0 216
+# FILE 1657764189339199 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_CTL_ppcseq.rds 2 8490
+1657764189339458 37 2 7225965 18 17 180 1 0 216
+# FILE 1657764189339920 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_CTL_table.rds 1 1073741824
+1657764189364473 38 1 7226033 17 18 180 1 0 216
+# FILE 1657764197386948 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Treg_table.rds 2 218
+# FILE 1657764197387183 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Treg_DE.rds 3 8506706
+# FILE 1657764197387196 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Treg_ppcseq.rds 3 7702
+1657764197387209 200 2 7226031 17 17 181 1 0 216
+# FILE 1657764199394668 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Treg_ppcseq.rds 2 19004
+1657764199396230 202 2 7225897 17 16 182 1 0 216
+# FILE 1657764199396330 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Treg_table.rds 1 1073741824
+1657764199415722 203 1 7226034 16 17 182 1 0 216
+# FILE 1657764200422201 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_nrMa_table.rds 2 219
+# FILE 1657764200422453 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_nrMa_DE.rds 3 19750912
+# FILE 1657764200422467 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_nrMa_ppcseq.rds 3 18220
+1657764200422481 137 2 7226032 16 16 183 1 0 216
+# FILE 1657764204435547 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_rMa_ppcseq.rds 2 32924
+1657764204435822 169 2 7225926 16 15 184 1 0 216
+# FILE 1657764204436001 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_rMa_table.rds 1 1073741824
+1657764204455540 170 1 7226035 15 16 184 1 0 216
+# FILE 1657764209469951 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_CTL_table.rds 2 219
+# FILE 1657764209470168 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_CTL_DE.rds 3 14876672
+# FILE 1657764209470182 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_CTL_ppcseq.rds 3 8490
+1657764209470215 38 2 7226033 15 15 185 1 0 216
+# FILE 1657764213552510 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Treg_table.rds 2 234
+# FILE 1657764213552753 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Treg_DE.rds 3 5272302
+# FILE 1657764213552768 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Treg_ppcseq.rds 3 19004
+1657764213552782 203 2 7226034 15 14 186 1 0 216
+# FILE 1657764220611569 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_rMa_table.rds 2 237
+# FILE 1657764220611839 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_rMa_DE.rds 3 598016
+# FILE 1657764220611851 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_rMa_ppcseq.rds 3 32924
+1657764220611863 170 2 7226035 15 13 187 1 0 216
+# FILE 1657764251661783 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Treg_ppcseq.rds 2 60271
+1657764251662016 205 2 7225948 15 12 188 1 0 216
+# FILE 1657764251662101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Treg_table.rds 1 1073741824
+1657764251684184 206 1 7226039 14 13 188 1 0 216
+# FILE 1657764266711735 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Treg_table.rds 2 238
+# FILE 1657764266714769 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Treg_DE.rds 3 2220032
+# FILE 1657764266714791 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Treg_ppcseq.rds 3 60271
+1657764266714803 206 2 7226039 14 12 189 1 0 216
+# FILE 1657764274727124 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory_ppcseq.rds 2 80452
+1657764274727417 175 2 7225957 14 11 190 1 0 216
+# FILE 1657764274727593 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Secretory_table.rds 1 1073741824
+1657764274747793 176 1 7226041 13 12 190 1 0 216
+# FILE 1657764294786095 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Secretory_table.rds 2 240
+# FILE 1657764294786379 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory_DE.rds 3 30711808
+# FILE 1657764294786402 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory_ppcseq.rds 3 80452
+1657764294786434 176 2 7226041 13 11 191 1 0 216
+# FILE 1657764356926445 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Neu_ppcseq.rds 2 86122
+1657764356928318 106 2 7225950 13 10 192 1 0 216
+# FILE 1657764356928723 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Neu_table.rds 1 1073741824
+1657764356950737 107 1 7226046 12 11 192 1 0 216
+# FILE 1657764370974169 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Neu_table.rds 2 238
+# FILE 1657764370974490 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Neu_DE.rds 3 1220608
+# FILE 1657764370974506 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Neu_ppcseq.rds 3 86122
+1657764370974517 107 2 7226046 12 10 193 1 0 216
+# FILE 1657764439067647 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_CTL_ppcseq.rds 2 71473
+1657764439069441 43 2 7225980 12 9 194 1 0 216
+# FILE 1657764439070209 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_CTL_table.rds 1 1073741824
+1657764439087729 44 1 7226056 11 10 194 1 0 216
+# FILE 1657764457115185 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_CTL_table.rds 2 240
+# FILE 1657764457115462 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_CTL_DE.rds 3 10715136
+# FILE 1657764457115486 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_CTL_ppcseq.rds 3 71473
+1657764457115506 44 2 7226056 11 9 195 1 0 216
+# FILE 1657764523197089 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory_ppcseq.rds 2 182216
+1657764523198774 172 2 7225982 11 8 196 1 0 216
+# FILE 1657764523199051 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Secretory_table.rds 1 1073741824
+1657764523220026 173 1 7226059 10 9 196 1 0 216
+# FILE 1657764524225410 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_nrMa_ppcseq.rds 2 154159
+1657764524225459 142 2 7225988 10 8 197 1 0 216
+# FILE 1657764524225703 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_nrMa_table.rds 1 1073741824
+1657764524245319 143 1 7226060 9 9 197 1 0 216
+# FILE 1657764544279682 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_nrMa_table.rds 2 239
+# FILE 1657764544279910 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_nrMa_DE.rds 3 16285696
+# FILE 1657764544279925 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_nrMa_ppcseq.rds 3 154159
+1657764544279936 143 2 7226060 9 8 198 1 0 216
+# FILE 1657764548287867 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Secretory_table.rds 2 228
+# FILE 1657764548288117 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Secretory_DE.rds 3 54706176
+# FILE 1657764548288131 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Secretory_ppcseq.rds 3 182216
+1657764548288145 173 2 7226059 9 7 199 1 0 216
+# FILE 1657764560303835 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated_ppcseq.rds 2 160903
+1657764560304093 19 2 7225987 9 6 200 1 0 216
+# FILE 1657764560304594 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ciliated_table.rds 1 1073741824
+1657764560325715 20 1 7226066 8 7 200 1 0 216
+# FILE 1657764585353840 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Ciliated_table.rds 2 224
+# FILE 1657764585356432 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Ciliated_DE.rds 3 56008704
+# FILE 1657764585356450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Ciliated_ppcseq.rds 3 160903
+1657764585356462 20 2 7226066 8 6 201 1 0 216
+# FILE 1657764585361400 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated_ppcseq.rds 2 226072
+1657764585361426 22 2 7225977 8 5 202 1 0 216
+# FILE 1657764585361803 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ciliated_table.rds 1 1073741824
+1657764585381867 23 1 7226069 7 6 202 1 0 216
+# FILE 1657764607403596 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Ciliated_table.rds 2 240
+# FILE 1657764607404027 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Ciliated_DE.rds 3 34701312
+# FILE 1657764607404041 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Ciliated_ppcseq.rds 3 226072
+1657764607404053 23 2 7226069 7 5 203 1 0 216
+# FILE 1657764769539889 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory_ppcseq.rds 2 302550
+1657764769541880 178 2 7225992 7 4 204 1 0 216
+# FILE 1657764769542196 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Secretory_table.rds 1 1073741824
+1657764769562723 179 1 7226092 6 5 204 1 0 216
+# FILE 1657764793587919 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Secretory_table.rds 2 242
+# FILE 1657764793588222 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Secretory_DE.rds 3 31023104
+# FILE 1657764793588236 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Secretory_ppcseq.rds 3 302550
+1657764793588248 179 2 7226092 6 4 205 1 0 216
+# FILE 1657764988737659 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Squamous_ppcseq.rds 2 352733
+1657764988740731 193 2 7225922 6 3 206 1 0 216
+# FILE 1657764988740869 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Squamous_table.rds 1 1073741824
+1657764988760557 194 1 7226110 5 4 206 1 0 216
+# FILE 1657765006780294 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edgeR_quasi_likelihood_Squamous_table.rds 2 238
+# FILE 1657765006780581 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Squamous_DE.rds 3 16908288
+# FILE 1657765006780596 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Squamous_ppcseq.rds 3 352733
+1657765006780608 194 2 7226110 5 3 207 1 0 216
+# FILE 1657765153881593 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Squamous_ppcseq.rds 2 413757
+1657765153883621 190 2 7225964 5 2 208 1 0 216
+# FILE 1657765153883878 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Squamous_table.rds 1 1073741824
+1657765153903703 191 1 7226124 4 3 208 1 0 216
+# FILE 1657765175927893 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/deseq2_Squamous_table.rds 2 226
+# FILE 1657765175928145 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/deseq2_Squamous_DE.rds 3 20824064
+# FILE 1657765175928161 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/deseq2_Squamous_ppcseq.rds 3 413757
+1657765175928173 191 2 7226124 4 2 209 1 0 216
+# FILE 1657765413133556 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Squamous_ppcseq.rds 2 519378
+1657765413135433 196 2 7225984 4 1 210 1 0 216
+# FILE 1657765413135665 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Squamous_table.rds 1 1073741824
+1657765413156107 197 1 7226162 3 2 210 1 0 216
+# FILE 1657765434177359 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Squamous_table.rds 2 242
+# FILE 1657765434177607 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Squamous_DE.rds 3 20688979
+# FILE 1657765434177620 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Squamous_ppcseq.rds 3 519378
+1657765434177632 197 2 7226162 3 1 211 1 0 216
+# FILE 1657765643274649 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated_ppcseq.rds 2 612632
+1657765643276594 25 2 7225996 3 0 212 1 0 216
+# FILE 1657765643277296 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ciliated_table.rds 1 1073741824
+1657765643297940 26 1 7226177 2 1 212 1 0 216
+# FILE 1657765665313091 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/summary_table/edger_robust_likelihood_ratio_Ciliated_table.rds 2 244
+# FILE 1657765665313340 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edger_robust_likelihood_ratio_Ciliated_DE.rds 3 32489472
+# FILE 1657765665313356 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edger_robust_likelihood_ratio_Ciliated_ppcseq.rds 3 612632
+1657765665313367 26 2 7226177 2 0 213 1 0 216
+# ABORTED 1657805728696385

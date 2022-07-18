@@ -1,0 +1,52 @@
+---
+title: "pseudobulk_scRNA_DE_analysis"
+output: html_document
+date: '2022-06-23'
+---
+
+```{r include = FALSE}
+library(tidyverse)
+library(glue)
+```
+# Description for this workflow
+This workflows is describing the parallarization of ...
+
+## Input dataset
+
+```{r}
+readRDS(here("dev/counts.rds"))
+readRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/tidy_data/B_cells_tidy.rds")
+```
+
+## Create input and infer
+
+In this test run, we are using dataset (GSE120575) for only 1 cell types, which is B cell. 
+```{bash, eval=FALSE}
+
+Rscript dev/modeling_code/create_input.R dev/counts.rds dev/tree_kamran.yaml dev/modeling_results
+
+Rscript /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/GSE120575_melanoma/filter_low_abundance_samples.R /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/tidy_data/B_cells_tidy.rds /stornext/HPCScratch/home/ma.m/single_cell_database/GSE120575_melanoma/data/filtered_data/B_cells_filtered.rds
+```
+
+## Makeflow installation and loading
+
+Source https://cctools.readthedocs.io/en/latest/install/
+
+```{bash, eval=FALSE}
+module load miniconda3
+conda create -n cctools-env -y -c conda-forge --strict-channel-priority python ndcctools
+conda activate cctools-env
+
+# When done
+conda deactivate
+
+```
+
+```{bash, eval=FALSE}
+# Run
+makeflow -T slurm -J 200  /stornext/HPCScratch/home/ma.m/mengyao_data_scripts/GSE120575_melanoma/GSE120575.makeflow
+
+# Monitor
+makeflow_monitor dev/modeling_results/run_model.makeflow.makeflowlog
+```
+

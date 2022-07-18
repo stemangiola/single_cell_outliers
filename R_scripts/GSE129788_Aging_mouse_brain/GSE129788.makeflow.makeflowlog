@@ -1,0 +1,1431 @@
+# FILE 1657762276105284 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/GSE129788_Aging_mouse_brain/GSE129788.makeflow.batchlog 1 0
+# STARTED 1657762276107866
+# FILE 1657762276109831 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_DE.rds 1 1073741824
+1657762276603858 222 1 7225237 224 1 0 0 0 225
+# FILE 1657762276604065 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_DE.rds 1 1073741824
+1657762276621949 219 1 7225238 223 2 0 0 0 225
+# FILE 1657762276622154 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_smooth_muscle_cells_DE.rds 1 1073741824
+1657762276639587 216 1 7225239 222 3 0 0 0 225
+# FILE 1657762276639746 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_DE.rds 1 1073741824
+1657762277003587 213 1 7225240 221 4 0 0 0 225
+# FILE 1657762277003767 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_DE.rds 1 1073741824
+1657762277304800 210 1 7225241 220 5 0 0 0 225
+# FILE 1657762277305082 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_and_leptomeningeal_cells_DE.rds 1 1073741824
+1657762277604093 207 1 7225242 219 6 0 0 0 225
+# FILE 1657762277604346 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762277904397 204 1 7225243 218 7 0 0 0 225
+# FILE 1657762277904634 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762278204309 201 1 7225244 217 8 0 0 0 225
+# FILE 1657762278204569 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762278504099 198 1 7225245 216 9 0 0 0 225
+# FILE 1657762278504287 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Pericytes_DE.rds 1 1073741824
+1657762278805002 195 1 7225246 215 10 0 0 0 225
+# FILE 1657762278805162 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Pericytes_DE.rds 1 1073741824
+1657762279104177 192 1 7225247 214 11 0 0 0 225
+# FILE 1657762279104309 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Pericytes_DE.rds 1 1073741824
+1657762279504479 189 1 7225248 213 12 0 0 0 225
+# FILE 1657762279505080 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocytes_DE.rds 1 1073741824
+1657762279903235 186 1 7225249 212 13 0 0 0 225
+# FILE 1657762279903349 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocytes_DE.rds 1 1073741824
+1657762280606964 183 1 7225250 211 14 0 0 0 225
+# FILE 1657762280607173 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocytes_DE.rds 1 1073741824
+1657762281004784 180 1 7225251 210 15 0 0 0 225
+# FILE 1657762281004908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_DE.rds 1 1073741824
+1657762281404716 177 1 7225252 209 16 0 0 0 225
+# FILE 1657762281404829 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_DE.rds 1 1073741824
+1657762281704093 174 1 7225253 208 17 0 0 0 225
+# FILE 1657762281704216 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocyte_precursor_cells_DE.rds 1 1073741824
+1657762282004277 171 1 7225254 207 18 0 0 0 225
+# FILE 1657762282004403 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_DE.rds 1 1073741824
+1657762282209767 168 1 7225255 206 19 0 0 0 225
+# FILE 1657762282209892 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_DE.rds 1 1073741824
+1657762282603571 165 1 7225256 205 20 0 0 0 225
+# FILE 1657762282605184 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Olfactory_ensheathing_glia_DE.rds 1 1073741824
+1657762283003523 162 1 7225257 204 21 0 0 0 225
+# FILE 1657762283003647 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762283504683 159 1 7225258 203 22 0 0 0 225
+# FILE 1657762283504810 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762283804199 156 1 7225259 202 23 0 0 0 225
+# FILE 1657762283804281 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762284104481 153 1 7225260 201 24 0 0 0 225
+# FILE 1657762284104566 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_DE.rds 1 1073741824
+1657762284505307 150 1 7225261 200 25 0 0 0 225
+# FILE 1657762284505470 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_DE.rds 1 1073741824
+1657762284808967 147 1 7225262 199 26 0 0 0 225
+# FILE 1657762284809128 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuronal_restricted_precursors_DE.rds 1 1073741824
+1657762285104217 144 1 7225263 198 27 0 0 0 225
+# FILE 1657762285104324 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_DE.rds 1 1073741824
+1657762285311112 141 1 7225264 197 28 0 0 0 225
+# FILE 1657762285311229 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuroendocrine_cells_DE.rds 1 1073741824
+1657762285603417 138 1 7225265 196 29 0 0 0 225
+# FILE 1657762285603551 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuroendocrine_cells_DE.rds 1 1073741824
+1657762285804078 135 1 7225266 195 30 0 0 0 225
+# FILE 1657762285804494 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neural_stem_cells_DE.rds 1 1073741824
+1657762286010716 132 1 7225267 194 31 0 0 0 225
+# FILE 1657762286010825 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neural_stem_cells_DE.rds 1 1073741824
+1657762286604149 129 1 7225268 193 32 0 0 0 225
+# FILE 1657762286604348 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neural_stem_cells_DE.rds 1 1073741824
+1657762286904578 126 1 7225269 192 33 0 0 0 225
+# FILE 1657762286904758 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_mature_DE.rds 1 1073741824
+1657762287110478 123 1 7225270 191 34 0 0 0 225
+# FILE 1657762287110588 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_mature_DE.rds 1 1073741824
+1657762287127841 120 1 7225271 190 35 0 0 0 225
+# FILE 1657762287127919 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_mature_DE.rds 1 1073741824
+1657762287504268 117 1 7225272 189 36 0 0 0 225
+# FILE 1657762287504425 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_immature_DE.rds 1 1073741824
+1657762287804245 114 1 7225273 188 37 0 0 0 225
+# FILE 1657762287804360 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_immature_DE.rds 1 1073741824
+1657762288104314 111 1 7225274 187 38 0 0 0 225
+# FILE 1657762288104435 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_immature_DE.rds 1 1073741824
+1657762289004153 108 1 7225275 186 39 0 0 0 225
+# FILE 1657762289004801 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Monocytes_DE.rds 1 1073741824
+1657762289304649 105 1 7225276 185 40 0 0 0 225
+# FILE 1657762289304770 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Monocytes_DE.rds 1 1073741824
+1657762289604401 102 1 7225277 184 41 0 0 0 225
+# FILE 1657762289604520 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Monocytes_DE.rds 1 1073741824
+1657762289905291 99 1 7225278 183 42 0 0 0 225
+# FILE 1657762289905407 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Microglia_DE.rds 1 1073741824
+1657762290308960 96 1 7225279 182 43 0 0 0 225
+# FILE 1657762290309107 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Microglia_DE.rds 1 1073741824
+1657762290418764 93 1 7225281 181 44 0 0 0 225
+# FILE 1657762290418845 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Microglia_DE.rds 1 1073741824
+1657762290434213 90 1 7225282 180 45 0 0 0 225
+# FILE 1657762290434331 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Macrophages_DE.rds 1 1073741824
+1657762290708870 87 1 7225283 179 46 0 0 0 225
+# FILE 1657762290708949 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Macrophages_DE.rds 1 1073741824
+1657762291003550 84 1 7225284 178 47 0 0 0 225
+# FILE 1657762291003691 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Macrophages_DE.rds 1 1073741824
+1657762291204294 81 1 7225285 177 48 0 0 0 225
+# FILE 1657762291204391 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762291503819 78 1 7225286 176 49 0 0 0 225
+# FILE 1657762291503950 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762291803890 75 1 7225287 175 50 0 0 0 225
+# FILE 1657762291804045 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762292009269 72 1 7225288 174 51 0 0 0 225
+# FILE 1657762292009640 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762292704136 69 1 7225289 173 52 0 0 0 225
+# FILE 1657762292704242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762292904208 66 1 7225290 172 53 0 0 0 225
+# FILE 1657762292904300 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762293304484 63 1 7225291 171 54 0 0 0 225
+# FILE 1657762293304599 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Ependymocytes_DE.rds 1 1073741824
+1657762293604500 60 1 7225292 170 55 0 0 0 225
+# FILE 1657762293604611 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Ependymocytes_DE.rds 1 1073741824
+1657762293811234 57 1 7225293 169 56 0 0 0 225
+# FILE 1657762293811338 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Ependymocytes_DE.rds 1 1073741824
+1657762294104282 54 1 7225294 168 57 0 0 0 225
+# FILE 1657762294104399 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Endothelial_cells_DE.rds 1 1073741824
+1657762294303824 51 1 7225295 167 58 0 0 0 225
+# FILE 1657762294303914 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Endothelial_cells_DE.rds 1 1073741824
+1657762294604152 48 1 7225296 166 59 0 0 0 225
+# FILE 1657762294604278 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Endothelial_cells_DE.rds 1 1073741824
+1657762294903886 45 1 7225297 165 60 0 0 0 225
+# FILE 1657762294904001 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762295604214 42 1 7225298 164 61 0 0 0 225
+# FILE 1657762295605638 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762295903364 39 1 7225299 163 62 0 0 0 225
+# FILE 1657762295903484 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762296203742 36 1 7225300 162 63 0 0 0 225
+# FILE 1657762296203869 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762296504332 33 1 7225301 161 64 0 0 0 225
+# FILE 1657762296504456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762296739764 30 1 7225302 160 65 0 0 0 225
+# FILE 1657762296739886 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762297003728 27 1 7225303 159 66 0 0 0 225
+# FILE 1657762297003828 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocytes_DE.rds 1 1073741824
+1657762297116158 24 1 7225304 158 67 0 0 0 225
+# FILE 1657762297116242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocytes_DE.rds 1 1073741824
+1657762297133388 21 1 7225305 157 68 0 0 0 225
+# FILE 1657762297133480 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocytes_DE.rds 1 1073741824
+1657762297403548 18 1 7225306 156 69 0 0 0 225
+# FILE 1657762297403649 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_DE.rds 1 1073741824
+1657762297611832 15 1 7225307 155 70 0 0 0 225
+# FILE 1657762297611959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_DE.rds 1 1073741824
+1657762297628452 12 1 7225308 154 71 0 0 0 225
+# FILE 1657762297628564 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocyte_restricted_precursors_DE.rds 1 1073741824
+1657762297709138 9 1 7225309 153 72 0 0 0 225
+# FILE 1657762297709250 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_DE.rds 1 1073741824
+1657762297903799 6 1 7225310 152 73 0 0 0 225
+# FILE 1657762297903908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_DE.rds 1 1073741824
+1657762298103331 3 1 7225311 151 74 0 0 0 225
+# FILE 1657762298103450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Arachnoid_barrier_cells_DE.rds 1 1073741824
+1657762298804311 0 1 7225312 150 75 0 0 0 225
+# FILE 1657762299804097 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_DE.rds 2 768739
+1657762299804146 222 2 7225237 150 74 1 0 0 225
+# FILE 1657762299804225 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_ppcseq.rds 1 1073741824
+1657762300104496 223 1 7225314 149 75 1 0 0 225
+# FILE 1657762300109274 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_DE.rds 2 764334
+1657762300109307 219 2 7225238 149 74 2 0 0 225
+# FILE 1657762300109376 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_ppcseq.rds 1 1073741824
+1657762300408390 220 1 7225316 148 75 2 0 0 225
+# FILE 1657762300607387 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_smooth_muscle_cells_DE.rds 2 1141103
+1657762300607423 216 2 7225239 148 74 3 0 0 225
+# FILE 1657762300607515 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_smooth_muscle_cells_ppcseq.rds 1 1073741824
+1657762301003301 217 1 7225317 147 75 3 0 0 225
+# FILE 1657762301013277 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_DE.rds 2 213656
+1657762301013326 213 2 7225240 147 74 4 0 0 225
+# FILE 1657762301013481 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_ppcseq.rds 1 1073741824
+1657762301503256 214 1 7225318 146 75 4 0 0 225
+# FILE 1657762301607179 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_DE.rds 2 213477
+1657762301607216 210 2 7225241 146 74 5 0 0 225
+# FILE 1657762301607337 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_ppcseq.rds 1 1073741824
+1657762302004738 211 1 7225319 145 75 5 0 0 225
+# FILE 1657762302109637 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_and_leptomeningeal_cells_DE.rds 2 339782
+1657762302109674 207 2 7225242 145 74 6 0 0 225
+# FILE 1657762302109798 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_and_leptomeningeal_cells_ppcseq.rds 1 1073741824
+1657762302404556 208 1 7225320 144 75 6 0 0 225
+# FILE 1657762302411539 makeflow.failed.204 4 0
+# FILE 1657762302411870 makeflow.failed.204 3 0
+1657762302511663 204 3 7225243 144 74 6 1 0 225
+# FILE 1657762302511916 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+1657762302603721 204 0 7225243 145 74 6 0 0 225
+# FILE 1657762302603848 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762303004317 204 1 7225321 144 75 6 0 0 225
+# FILE 1657762303103973 makeflow.failed.201 4 0
+# FILE 1657762303104351 makeflow.failed.201 3 0
+1657762303303245 201 3 7225244 144 74 6 1 0 225
+# FILE 1657762303304449 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+1657762303304541 201 0 7225244 145 74 6 0 0 225
+# FILE 1657762303304750 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762303705336 201 1 7225322 144 75 6 0 0 225
+# FILE 1657762303904997 makeflow.failed.198 4 0
+# FILE 1657762303905568 makeflow.failed.198 3 0
+1657762304007701 198 3 7225245 144 74 6 1 0 225
+# FILE 1657762304007970 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+1657762304008045 198 0 7225245 145 74 6 0 0 225
+# FILE 1657762304008223 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762304404393 198 1 7225323 144 75 6 0 0 225
+# FILE 1657762304409749 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Pericytes_DE.rds 2 4283298
+1657762304409792 192 2 7225247 144 74 7 0 0 225
+# FILE 1657762304410019 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Pericytes_ppcseq.rds 1 1073741824
+1657762304707913 193 1 7225324 143 75 7 0 0 225
+# FILE 1657762304903588 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Pericytes_DE.rds 2 6277418
+1657762304903633 189 2 7225248 143 74 8 0 0 225
+# FILE 1657762304903805 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Pericytes_ppcseq.rds 1 1073741824
+1657762305110916 190 1 7225325 142 75 8 0 0 225
+# FILE 1657762305204063 makeflow.failed.78 4 0
+# FILE 1657762305204464 makeflow.failed.78 3 0
+1657762305357782 78 3 7225286 142 74 8 1 0 225
+# FILE 1657762305358158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+1657762305358222 78 0 7225286 143 74 8 0 0 225
+# FILE 1657762305358775 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762305609396 78 1 7225326 142 75 8 0 0 225
+# FILE 1657762305704675 makeflow.failed.75 4 0
+# FILE 1657762305705018 makeflow.failed.75 3 0
+1657762305805997 75 3 7225287 142 74 8 1 0 225
+# FILE 1657762305806402 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+1657762305806457 75 0 7225287 143 74 8 0 0 225
+# FILE 1657762305807206 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762306103784 75 1 7225327 142 75 8 0 0 225
+# FILE 1657762306106231 makeflow.failed.72 4 0
+# FILE 1657762306106589 makeflow.failed.72 3 0
+1657762306206845 72 3 7225288 142 74 8 1 0 225
+# FILE 1657762306207171 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+1657762306207236 72 0 7225288 143 74 8 0 0 225
+# FILE 1657762306207940 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762306603402 72 1 7225328 142 75 8 0 0 225
+# FILE 1657762306809847 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocytes_DE.rds 2 17506874
+1657762306809884 183 2 7225250 142 74 9 0 0 225
+# FILE 1657762306810134 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocytes_ppcseq.rds 1 1073741824
+1657762306827031 184 1 7225329 141 75 9 0 0 225
+# FILE 1657762306836386 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_DE.rds 2 13145657
+1657762306836408 174 2 7225253 141 74 10 0 0 225
+# FILE 1657762306836650 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_ppcseq.rds 1 1073741824
+1657762306911793 175 1 7225330 140 75 10 0 0 225
+# FILE 1657762307009520 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_DE.rds 2 3655174
+1657762307009549 165 2 7225256 140 74 11 0 0 225
+# FILE 1657762307009855 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_ppcseq.rds 1 1073741824
+1657762307406131 166 1 7225331 139 75 11 0 0 225
+# FILE 1657762307409182 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Macrophages_DE.rds 2 1045071
+1657762307409210 84 2 7225284 139 74 12 0 0 225
+# FILE 1657762307409713 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Macrophages_ppcseq.rds 1 1073741824
+1657762307804207 85 1 7225332 138 75 12 0 0 225
+# FILE 1657762307809829 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Olfactory_ensheathing_glia_DE.rds 2 5385178
+1657762307809862 162 2 7225257 138 74 13 0 0 225
+# FILE 1657762307810227 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Olfactory_ensheathing_glia_ppcseq.rds 1 1073741824
+1657762308204412 163 1 7225333 137 75 13 0 0 225
+# FILE 1657762308305315 makeflow.failed.159 4 0
+# FILE 1657762308305606 makeflow.failed.159 3 0
+1657762308406229 159 3 7225258 137 74 13 1 0 225
+# FILE 1657762308406473 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+1657762308406534 159 0 7225258 138 74 13 0 0 225
+# FILE 1657762308406871 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762308703803 159 1 7225334 137 75 13 0 0 225
+# FILE 1657762308805558 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Pericytes_DE.rds 2 630784
+1657762308805595 195 2 7225246 137 74 14 0 0 225
+# FILE 1657762308805784 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Pericytes_ppcseq.rds 1 1073741824
+1657762309104409 196 1 7225335 136 75 14 0 0 225
+# FILE 1657762309204969 makeflow.failed.156 4 0
+# FILE 1657762309205282 makeflow.failed.156 3 0
+1657762309305672 156 3 7225259 136 74 14 1 0 225
+# FILE 1657762309305898 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+1657762309305955 156 0 7225259 137 74 14 0 0 225
+# FILE 1657762309306274 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762309703576 156 1 7225336 136 75 14 0 0 225
+# FILE 1657762309803510 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_DE.rds 2 43912
+1657762309803549 69 2 7225289 136 74 15 0 0 225
+# FILE 1657762309804235 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_ppcseq.rds 1 1073741824
+1657762310204724 70 1 7225337 135 75 15 0 0 225
+# FILE 1657762310303314 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_DE.rds 2 44110
+1657762310303351 66 2 7225290 135 74 16 0 0 225
+# FILE 1657762310304148 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_ppcseq.rds 1 1073741824
+1657762310511432 67 1 7225338 134 75 16 0 0 225
+# FILE 1657762310516291 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Ependymocytes_DE.rds 2 1126641
+1657762310516318 57 2 7225293 134 74 17 0 0 225
+# FILE 1657762310517097 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Ependymocytes_ppcseq.rds 1 1073741824
+1657762310808206 58 1 7225339 133 75 17 0 0 225
+# FILE 1657762310908452 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_ppcseq.rds 2 195
+1657762310908484 223 2 7225314 133 74 18 0 0 225
+# FILE 1657762310908562 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_table.rds 1 1073741824
+1657762311304196 224 1 7225340 132 75 18 0 0 225
+# FILE 1657762311310990 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_ppcseq.rds 2 195
+1657762311311030 220 2 7225316 132 74 19 0 0 225
+# FILE 1657762311311109 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_table.rds 1 1073741824
+1657762311703248 221 1 7225341 131 75 19 0 0 225
+# FILE 1657762311707119 makeflow.failed.42 4 0
+# FILE 1657762311707990 makeflow.failed.42 3 0
+1657762311809871 42 3 7225298 131 74 19 1 0 225
+# FILE 1657762311810137 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+1657762311810199 42 0 7225298 132 74 19 0 0 225
+# FILE 1657762311810849 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762312104339 42 1 7225342 131 75 19 0 0 225
+# FILE 1657762312106906 makeflow.failed.39 4 0
+# FILE 1657762312107185 makeflow.failed.39 3 0
+1657762312112782 39 3 7225299 131 74 19 1 0 225
+# FILE 1657762312113020 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+1657762312113073 39 0 7225299 132 74 19 0 0 225
+# FILE 1657762312113903 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762312504293 39 1 7225343 131 75 19 0 0 225
+# FILE 1657762312508567 makeflow.failed.36 4 0
+# FILE 1657762312508884 makeflow.failed.36 3 0
+1657762312705402 36 3 7225300 131 74 19 1 0 225
+# FILE 1657762312705643 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+1657762312705707 36 0 7225300 132 74 19 0 0 225
+# FILE 1657762312706592 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762313105297 36 1 7225344 131 75 19 0 0 225
+# FILE 1657762313108448 makeflow.failed.63 4 0
+# FILE 1657762313108810 makeflow.failed.63 3 0
+1657762313306861 63 3 7225291 131 74 19 1 0 225
+# FILE 1657762313307158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+1657762313307221 63 0 7225291 132 74 19 0 0 225
+# FILE 1657762313307962 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762313604565 63 1 7225345 131 75 19 0 0 225
+# FILE 1657762313609882 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_DE.rds 2 175015
+1657762313609909 30 2 7225302 131 74 20 0 0 225
+# FILE 1657762313610638 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_ppcseq.rds 1 1073741824
+1657762314003968 31 1 7225346 130 75 20 0 0 225
+# FILE 1657762314007246 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Macrophages_DE.rds 2 1579212
+1657762314007282 81 2 7225285 130 74 21 0 0 225
+# FILE 1657762314007908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Macrophages_ppcseq.rds 1 1073741824
+1657762314309520 82 1 7225347 129 75 21 0 0 225
+# FILE 1657762314313961 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_DE.rds 2 174234
+1657762314313992 33 2 7225301 129 74 22 0 0 225
+# FILE 1657762314314740 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_ppcseq.rds 1 1073741824
+1657762314603346 34 1 7225348 128 75 22 0 0 225
+# FILE 1657762314608090 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_DE.rds 2 369833
+1657762314608118 12 2 7225308 128 74 23 0 0 225
+# FILE 1657762314703261 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_ppcseq.rds 1 1073741824
+1657762314906931 13 1 7225349 127 75 23 0 0 225
+# FILE 1657762315003185 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Endothelial_cells_DE.rds 2 11847016
+1657762315003212 48 2 7225296 127 74 24 0 0 225
+# FILE 1657762315004067 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Endothelial_cells_ppcseq.rds 1 1073741824
+1657762315603407 49 1 7225350 126 75 24 0 0 225
+# FILE 1657762315605882 makeflow.failed.27 4 0
+# FILE 1657762315606179 makeflow.failed.27 3 0
+1657762315620116 27 3 7225303 126 74 24 1 0 225
+# FILE 1657762315620361 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+1657762315620411 27 0 7225303 127 74 24 0 0 225
+# FILE 1657762315621259 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762315807830 27 1 7225351 126 75 24 0 0 225
+# FILE 1657762315905158 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_DE.rds 2 371576
+1657762315905183 15 2 7225307 126 74 25 0 0 225
+# FILE 1657762315905906 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_ppcseq.rds 1 1073741824
+1657762316204437 16 1 7225352 125 75 25 0 0 225
+# FILE 1657762316207312 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_DE.rds 2 1186828
+1657762316207339 3 2 7225311 125 74 26 0 0 225
+# FILE 1657762316208304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_ppcseq.rds 1 1073741824
+1657762316415855 4 1 7225353 124 75 26 0 0 225
+# FILE 1657762316419189 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_smooth_muscle_cells_ppcseq.rds 2 195
+1657762316419213 217 2 7225317 124 74 27 0 0 225
+# FILE 1657762316419301 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Vascular_smooth_muscle_cells_table.rds 1 1073741824
+1657762316435898 218 1 7225354 123 75 27 0 0 225
+# FILE 1657762316438828 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_ppcseq.rds 2 195
+1657762316438855 214 2 7225318 123 74 28 0 0 225
+# FILE 1657762316438937 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_table.rds 1 1073741824
+1657762316507772 215 1 7225355 122 75 28 0 0 225
+# FILE 1657762316604879 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_ppcseq.rds 2 195
+1657762316604911 211 2 7225319 122 74 29 0 0 225
+# FILE 1657762316604996 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_table.rds 1 1073741824
+1657762317003271 212 1 7225356 121 75 29 0 0 225
+# FILE 1657762317006698 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Ependymocytes_DE.rds 2 1130631
+1657762317006726 60 2 7225292 121 74 30 0 0 225
+# FILE 1657762317007086 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Ependymocytes_ppcseq.rds 1 1073741824
+1657762317304359 61 1 7225357 120 75 30 0 0 225
+# FILE 1657762317307095 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Ependymocytes_DE.rds 2 286720
+1657762317307162 54 2 7225294 120 74 31 0 0 225
+# FILE 1657762317307789 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Ependymocytes_ppcseq.rds 1 1073741824
+1657762317910255 55 1 7225358 119 75 31 0 0 225
+# FILE 1657762318004151 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_and_leptomeningeal_cells_ppcseq.rds 2 195
+1657762318004182 208 2 7225320 119 74 32 0 0 225
+# FILE 1657762318004285 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Vascular_and_leptomeningeal_cells_table.rds 1 1073741824
+1657762318304271 209 1 7225359 118 75 32 0 0 225
+# FILE 1657762318505050 makeflow.failed.204 4 0
+# FILE 1657762318505420 makeflow.failed.204 3 0
+1657762318606471 204 3 7225321 118 74 32 1 0 225
+# FILE 1657762318606892 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+1657762318606948 204 0 7225321 119 74 32 0 0 225
+# FILE 1657762318607057 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762318904347 204 1 7225360 118 75 32 0 0 225
+# FILE 1657762319003516 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocyte_restricted_precursors_DE.rds 2 565605
+1657762319003587 9 2 7225309 118 74 33 0 0 225
+# FILE 1657762319004201 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocyte_restricted_precursors_ppcseq.rds 1 1073741824
+1657762319304129 10 1 7225361 117 75 33 0 0 225
+# FILE 1657762319507652 makeflow.failed.78 4 0
+# FILE 1657762319507998 makeflow.failed.78 3 0
+1657762319608019 78 3 7225326 117 74 33 1 0 225
+# FILE 1657762319608324 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+1657762319608387 78 0 7225326 118 74 33 0 0 225
+# FILE 1657762319608947 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762319905001 78 1 7225362 117 75 33 0 0 225
+# FILE 1657762319908258 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocytes_DE.rds 2 516096
+1657762319908288 21 2 7225305 117 74 34 0 0 225
+# FILE 1657762320003578 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocytes_ppcseq.rds 1 1073741824
+1657762320304582 22 1 7225363 116 75 34 0 0 225
+# FILE 1657762320407411 makeflow.failed.201 4 0
+# FILE 1657762320407782 makeflow.failed.201 3 0
+1657762320508262 201 3 7225322 116 74 34 1 0 225
+# FILE 1657762320508589 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+1657762320508676 201 0 7225322 117 74 34 0 0 225
+# FILE 1657762320508852 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762320903328 201 1 7225364 116 75 34 0 0 225
+# FILE 1657762321105695 makeflow.failed.198 4 0
+# FILE 1657762321106295 makeflow.failed.198 3 0
+1657762321206569 198 3 7225323 116 74 34 1 0 225
+# FILE 1657762321206959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+1657762321207032 198 0 7225323 117 74 34 0 0 225
+# FILE 1657762321207154 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762321603336 198 1 7225366 116 75 34 0 0 225
+# FILE 1657762321711512 makeflow.failed.75 4 0
+# FILE 1657762321803583 makeflow.failed.75 3 0
+1657762321905760 75 3 7225327 116 74 34 1 0 225
+# FILE 1657762321906113 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+1657762321906168 75 0 7225327 117 74 34 0 0 225
+# FILE 1657762321906576 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762322209584 75 1 7225367 116 75 34 0 0 225
+# FILE 1657762322407085 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_DE.rds 2 1195412
+1657762322407126 6 2 7225310 116 74 35 0 0 225
+# FILE 1657762322408098 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_ppcseq.rds 1 1073741824
+1657762322709864 7 1 7225368 115 75 35 0 0 225
+# FILE 1657762322803580 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Arachnoid_barrier_cells_DE.rds 2 1770524
+1657762322803622 0 2 7225312 115 74 36 0 0 225
+# FILE 1657762322804579 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Arachnoid_barrier_cells_ppcseq.rds 1 1073741824
+1657762323104490 1 1 7225369 114 75 36 0 0 225
+# FILE 1657762323308204 makeflow.failed.72 4 0
+# FILE 1657762323308557 makeflow.failed.72 3 0
+1657762323504254 72 3 7225328 114 74 36 1 0 225
+# FILE 1657762323504551 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+1657762323504613 72 0 7225328 115 74 36 0 0 225
+# FILE 1657762323505206 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762323703620 72 1 7225370 114 75 36 0 0 225
+# FILE 1657762323904381 makeflow.failed.159 4 0
+# FILE 1657762323904959 makeflow.failed.159 3 0
+1657762323911021 159 3 7225334 114 74 36 1 0 225
+# FILE 1657762323911330 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+1657762323911388 159 0 7225334 115 74 36 0 0 225
+# FILE 1657762323911666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762324404529 159 1 7225371 114 75 36 0 0 225
+# FILE 1657762324506133 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_ppcseq.rds 2 195
+1657762324506170 70 2 7225337 114 74 37 0 0 225
+# FILE 1657762324506692 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_table.rds 1 1073741824
+1657762324803655 71 1 7225372 113 75 37 0 0 225
+# FILE 1657762324806184 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_ppcseq.rds 2 195
+1657762324806211 67 2 7225338 113 74 38 0 0 225
+# FILE 1657762324806704 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_table.rds 1 1073741824
+1657762325103978 68 1 7225373 112 75 38 0 0 225
+# FILE 1657762325204484 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Endothelial_cells_DE.rds 2 17538324
+1657762325204512 45 2 7225297 112 74 39 0 0 225
+# FILE 1657762325205241 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Endothelial_cells_ppcseq.rds 1 1073741824
+1657762325503380 46 1 7225374 111 75 39 0 0 225
+# FILE 1657762325520196 makeflow.failed.156 4 0
+# FILE 1657762325520637 makeflow.failed.156 3 0
+1657762325525904 156 3 7225336 111 74 39 1 0 225
+# FILE 1657762325526222 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+1657762325526273 156 0 7225336 112 74 39 0 0 225
+# FILE 1657762325526587 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762325603921 156 1 7225375 111 75 39 0 0 225
+# FILE 1657762325608285 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_table.rds 2 192
+# FILE 1657762325608310 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_DE.rds 3 768739
+# FILE 1657762325608323 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_smooth_muscle_cells_ppcseq.rds 3 195
+1657762325608336 224 2 7225340 111 74 40 0 0 225
+# FILE 1657762325705788 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_table.rds 2 192
+# FILE 1657762325705810 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_DE.rds 3 764334
+# FILE 1657762325705823 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_smooth_muscle_cells_ppcseq.rds 3 195
+1657762325705835 221 2 7225341 111 73 41 0 0 225
+# FILE 1657762326007609 makeflow.failed.42 4 0
+# FILE 1657762326007934 makeflow.failed.42 3 0
+1657762326107935 42 3 7225342 111 72 41 1 0 225
+# FILE 1657762326108218 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+1657762326108283 42 0 7225342 112 72 41 0 0 225
+# FILE 1657762326108921 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762326504488 42 1 7225376 111 73 41 0 0 225
+# FILE 1657762326607059 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_ppcseq.rds 2 195
+1657762326607097 31 2 7225346 111 72 42 0 0 225
+# FILE 1657762326607860 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_table.rds 1 1073741824
+1657762327007172 32 1 7225377 110 73 42 0 0 225
+# FILE 1657762327306098 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_ppcseq.rds 2 195
+1657762327306177 34 2 7225348 110 72 43 0 0 225
+# FILE 1657762327307201 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_table.rds 1 1073741824
+1657762327904427 35 1 7225378 109 73 43 0 0 225
+# FILE 1657762327908782 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_ppcseq.rds 2 195
+1657762327908813 13 2 7225349 109 72 44 0 0 225
+# FILE 1657762327909620 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_table.rds 1 1073741824
+1657762328208451 14 1 7225379 108 73 44 0 0 225
+# FILE 1657762328212627 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_ppcseq.rds 2 195
+1657762328212654 16 2 7225352 108 72 45 0 0 225
+# FILE 1657762328213403 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_table.rds 1 1073741824
+1657762328604105 17 1 7225380 107 73 45 0 0 225
+# FILE 1657762328905682 makeflow.failed.39 4 0
+# FILE 1657762328906148 makeflow.failed.39 3 0
+1657762329009887 39 3 7225343 107 72 45 1 0 225
+# FILE 1657762329010171 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+1657762329010228 39 0 7225343 108 72 45 0 0 225
+# FILE 1657762329010882 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762329209265 39 1 7225381 107 73 45 0 0 225
+# FILE 1657762329410170 makeflow.failed.36 4 0
+# FILE 1657762329503433 makeflow.failed.36 3 0
+1657762329508573 36 3 7225344 107 72 45 1 0 225
+# FILE 1657762329508822 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+1657762329508880 36 0 7225344 108 72 45 0 0 225
+# FILE 1657762329509563 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762329804113 36 1 7225382 107 73 45 0 0 225
+# FILE 1657762330104262 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocytes_DE.rds 2 17623540
+1657762330104311 186 2 7225249 107 72 46 0 0 225
+# FILE 1657762330104509 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocytes_ppcseq.rds 1 1073741824
+1657762330452709 187 1 7225383 106 73 46 0 0 225
+# FILE 1657762330603700 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_table.rds 2 192
+# FILE 1657762330603731 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_DE.rds 3 213656
+# FILE 1657762330603744 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Vascular_and_leptomeningeal_cells_ppcseq.rds 3 195
+1657762330603757 215 2 7225355 106 72 47 0 0 225
+# FILE 1657762330703654 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_table.rds 2 192
+# FILE 1657762330703677 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_DE.rds 3 213477
+# FILE 1657762330703705 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Vascular_and_leptomeningeal_cells_ppcseq.rds 3 195
+1657762330703720 212 2 7225356 106 71 48 0 0 225
+# FILE 1657762330710302 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocytes_DE.rds 2 26017434
+1657762330710329 180 2 7225251 106 70 49 0 0 225
+# FILE 1657762330710495 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocytes_ppcseq.rds 1 1073741824
+1657762331008939 181 1 7225384 105 71 49 0 0 225
+# FILE 1657762331105386 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_DE.rds 2 13299588
+1657762331105414 177 2 7225252 105 70 50 0 0 225
+# FILE 1657762331105648 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_ppcseq.rds 1 1073741824
+1657762331405723 178 1 7225386 104 71 50 0 0 225
+# FILE 1657762331508715 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocyte_restricted_precursors_ppcseq.rds 2 195
+1657762331508754 10 2 7225361 104 70 51 0 0 225
+# FILE 1657762331604238 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Astrocyte_restricted_precursors_table.rds 1 1073741824
+1657762331905075 11 1 7225387 103 71 51 0 0 225
+# FILE 1657762331909782 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocytes_DE.rds 2 20103168
+1657762331909815 18 2 7225306 103 70 52 0 0 225
+# FILE 1657762332004409 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocytes_ppcseq.rds 1 1073741824
+1657762332303566 19 1 7225390 102 71 52 0 0 225
+# FILE 1657762332405722 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocyte_precursor_cells_DE.rds 2 18682773
+1657762332405759 171 2 7225254 102 70 53 0 0 225
+# FILE 1657762332406038 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocyte_precursor_cells_ppcseq.rds 1 1073741824
+1657762332907667 172 1 7225391 101 71 53 0 0 225
+# FILE 1657762333009666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_DE.rds 2 3673461
+1657762333009696 168 2 7225255 101 70 54 0 0 225
+# FILE 1657762333009938 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_ppcseq.rds 1 1073741824
+1657762333504487 169 1 7225392 100 71 54 0 0 225
+# FILE 1657762333521114 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Endothelial_cells_DE.rds 2 11952008
+1657762333521144 51 2 7225295 100 70 55 0 0 225
+# FILE 1657762333521754 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Endothelial_cells_ppcseq.rds 1 1073741824
+1657762333904598 52 1 7225393 99 71 55 0 0 225
+# FILE 1657762334205470 makeflow.failed.63 4 0
+# FILE 1657762334206091 makeflow.failed.63 3 0
+1657762334308472 63 3 7225345 99 70 55 1 0 225
+# FILE 1657762334308735 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+1657762334308796 63 0 7225345 100 70 55 0 0 225
+# FILE 1657762334309581 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762334464240 63 1 7225395 99 71 55 0 0 225
+# FILE 1657762334468908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Vascular_and_leptomeningeal_cells_table.rds 2 192
+# FILE 1657762334468932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_and_leptomeningeal_cells_DE.rds 3 339782
+# FILE 1657762334468945 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_and_leptomeningeal_cells_ppcseq.rds 3 195
+1657762334468958 209 2 7225359 99 70 56 0 0 225
+# FILE 1657762334506920 makeflow.failed.78 4 0
+# FILE 1657762334507213 makeflow.failed.78 3 0
+1657762334704171 78 3 7225362 99 69 56 1 0 225
+# FILE 1657762334704446 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+1657762334704535 78 0 7225362 100 69 56 0 0 225
+# FILE 1657762334704923 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762334904099 78 1 7225396 99 70 56 0 0 225
+# FILE 1657762335110290 makeflow.failed.27 4 0
+# FILE 1657762335110596 makeflow.failed.27 3 0
+1657762335205844 27 3 7225351 99 69 56 1 0 225
+# FILE 1657762335206166 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+1657762335206222 27 0 7225351 100 69 56 0 0 225
+# FILE 1657762335207063 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762335403823 27 1 7225397 99 70 56 0 0 225
+# FILE 1657762335409656 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Vascular_smooth_muscle_cells_table.rds 2 192
+# FILE 1657762335409676 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Vascular_smooth_muscle_cells_DE.rds 3 1141103
+# FILE 1657762335409688 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Vascular_smooth_muscle_cells_ppcseq.rds 3 195
+1657762335409701 218 2 7225354 99 69 57 0 0 225
+# FILE 1657762335607639 makeflow.failed.204 4 0
+# FILE 1657762335607923 makeflow.failed.204 3 0
+1657762335612779 204 3 7225360 99 68 57 1 0 225
+# FILE 1657762335613025 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+1657762335613070 204 0 7225360 100 68 57 0 0 225
+# FILE 1657762335613144 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762336003826 204 1 7225398 99 69 57 0 0 225
+# FILE 1657762336205712 makeflow.failed.201 4 0
+# FILE 1657762336206056 makeflow.failed.201 3 0
+1657762336211071 201 3 7225364 99 68 57 1 0 225
+# FILE 1657762336211335 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+1657762336211387 201 0 7225364 100 68 57 0 0 225
+# FILE 1657762336211504 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762336604464 201 1 7225399 99 69 57 0 0 225
+# FILE 1657762336908800 makeflow.failed.75 4 0
+# FILE 1657762336909151 makeflow.failed.75 3 0
+1657762337104708 75 3 7225367 99 68 57 1 0 225
+# FILE 1657762337106897 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+1657762337106960 75 0 7225367 100 68 57 0 0 225
+# FILE 1657762337107513 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762337403715 75 1 7225400 99 69 57 0 0 225
+# FILE 1657762337609880 makeflow.failed.198 4 0
+# FILE 1657762337610285 makeflow.failed.198 3 0
+1657762337710254 198 3 7225366 99 68 57 1 0 225
+# FILE 1657762337710533 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+1657762337710592 198 0 7225366 100 68 57 0 0 225
+# FILE 1657762337710761 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762338004216 198 1 7225401 99 69 57 0 0 225
+# FILE 1657762338208132 makeflow.failed.72 4 0
+# FILE 1657762338208466 makeflow.failed.72 3 0
+1657762338307318 72 3 7225370 99 68 57 1 0 225
+# FILE 1657762338307595 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+1657762338307649 72 0 7225370 100 68 57 0 0 225
+# FILE 1657762338308172 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762338511465 72 1 7225402 99 69 57 0 0 225
+# FILE 1657762338703566 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_table.rds 2 192
+# FILE 1657762338703598 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_DE.rds 3 43912
+# FILE 1657762338703610 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Hemoglobin_expressing_vascular_cells_ppcseq.rds 3 195
+1657762338703624 71 2 7225372 99 68 58 0 0 225
+# FILE 1657762338709058 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_table.rds 2 192
+# FILE 1657762338709084 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_DE.rds 3 44110
+# FILE 1657762338709096 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Hemoglobin_expressing_vascular_cells_ppcseq.rds 3 195
+1657762338709109 68 2 7225373 99 67 59 0 0 225
+# FILE 1657762338808054 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_table.rds 2 192
+# FILE 1657762338808083 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_DE.rds 3 175015
+# FILE 1657762338808095 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Choroid_plexus_epithelial_cells_ppcseq.rds 3 195
+1657762338808108 32 2 7225377 99 66 60 0 0 225
+# FILE 1657762338815614 makeflow.failed.153 4 0
+# FILE 1657762338815958 makeflow.failed.153 3 0
+1657762338820858 153 3 7225260 99 65 60 1 0 225
+# FILE 1657762338821153 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+1657762338821205 153 0 7225260 100 65 60 0 0 225
+# FILE 1657762338821397 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762338837705 153 1 7225403 99 66 60 0 0 225
+# FILE 1657762338905692 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_DE.rds 2 209609
+1657762338905727 150 2 7225261 99 65 61 0 0 225
+# FILE 1657762338906038 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_ppcseq.rds 1 1073741824
+1657762339108205 151 1 7225404 98 66 61 0 0 225
+# FILE 1657762339207912 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_DE.rds 2 209937
+1657762339207947 147 2 7225262 98 65 62 0 0 225
+# FILE 1657762339208252 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_ppcseq.rds 1 1073741824
+1657762339504634 148 1 7225405 97 66 62 0 0 225
+# FILE 1657762339704691 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuronal_restricted_precursors_DE.rds 2 336253
+1657762339704737 144 2 7225263 97 65 63 0 0 225
+# FILE 1657762339705061 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuronal_restricted_precursors_ppcseq.rds 1 1073741824
+1657762340104199 145 1 7225406 96 66 63 0 0 225
+# FILE 1657762340407784 makeflow.failed.159 4 0
+# FILE 1657762340503291 makeflow.failed.159 3 0
+1657762340508563 159 3 7225371 96 65 63 1 0 225
+# FILE 1657762340603436 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+1657762340603568 159 0 7225371 97 65 63 0 0 225
+# FILE 1657762340603843 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762340905141 159 1 7225407 96 66 63 0 0 225
+# FILE 1657762341107910 makeflow.failed.156 4 0
+# FILE 1657762341108247 makeflow.failed.156 3 0
+1657762341303572 156 3 7225375 96 65 63 1 0 225
+# FILE 1657762341304089 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+1657762341304167 156 0 7225375 97 65 63 0 0 225
+# FILE 1657762341304560 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762341607561 156 1 7225408 96 66 63 0 0 225
+# FILE 1657762341711388 makeflow.failed.42 4 0
+# FILE 1657762341711690 makeflow.failed.42 3 0
+1657762341808002 42 3 7225376 96 65 63 1 0 225
+# FILE 1657762341808513 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+1657762341808578 42 0 7225376 97 65 63 0 0 225
+# FILE 1657762341809131 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762342009223 42 1 7225409 96 66 63 0 0 225
+# FILE 1657762342014080 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_table.rds 2 192
+# FILE 1657762342014117 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_DE.rds 3 174234
+# FILE 1657762342014140 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Choroid_plexus_epithelial_cells_ppcseq.rds 3 195
+1657762342014163 35 2 7225378 96 65 64 0 0 225
+# FILE 1657762342110436 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_table.rds 2 192
+# FILE 1657762342110461 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_DE.rds 3 369833
+# FILE 1657762342110475 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocyte_restricted_precursors_ppcseq.rds 3 195
+1657762342110487 14 2 7225379 96 64 65 0 0 225
+# FILE 1657762342203544 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_table.rds 2 192
+# FILE 1657762342203570 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_DE.rds 3 371576
+# FILE 1657762342203582 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocyte_restricted_precursors_ppcseq.rds 3 195
+1657762342203594 17 2 7225380 96 63 66 0 0 225
+# FILE 1657762342207250 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocytes_DE.rds 2 10100736
+1657762342207276 24 2 7225304 96 62 67 0 0 225
+# FILE 1657762342207821 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocytes_ppcseq.rds 1 1073741824
+1657762342562338 25 1 7225410 95 63 67 0 0 225
+# FILE 1657762342707730 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_DE.rds 2 1993447
+1657762342707769 141 2 7225264 95 62 68 0 0 225
+# FILE 1657762342708201 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_ppcseq.rds 1 1073741824
+1657762343104216 142 1 7225411 94 63 68 0 0 225
+# FILE 1657762343108750 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuroendocrine_cells_DE.rds 2 1975544
+1657762343108774 138 2 7225265 94 62 69 0 0 225
+# FILE 1657762343109149 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuroendocrine_cells_ppcseq.rds 1 1073741824
+1657762343604166 139 1 7225412 93 63 69 0 0 225
+# FILE 1657762343807124 makeflow.failed.39 4 0
+# FILE 1657762343807434 makeflow.failed.39 3 0
+1657762343907945 39 3 7225381 93 62 69 1 0 225
+# FILE 1657762343908246 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+1657762343908306 39 0 7225381 94 62 69 0 0 225
+# FILE 1657762343908968 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762344403971 39 1 7225413 93 63 69 0 0 225
+# FILE 1657762344504955 makeflow.failed.36 4 0
+# FILE 1657762344505256 makeflow.failed.36 3 0
+1657762344607658 36 3 7225382 93 62 69 1 0 225
+# FILE 1657762344607870 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+1657762344607922 36 0 7225382 94 62 69 0 0 225
+# FILE 1657762344608724 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762344904233 36 1 7225414 93 63 69 0 0 225
+# FILE 1657762344908624 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuroendocrine_cells_DE.rds 2 2970955
+1657762344908660 135 2 7225266 93 62 70 0 0 225
+# FILE 1657762344909077 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuroendocrine_cells_ppcseq.rds 1 1073741824
+1657762345504811 136 1 7225415 92 63 70 0 0 225
+# FILE 1657762345606085 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neural_stem_cells_DE.rds 2 369475
+1657762345606118 132 2 7225267 92 62 71 0 0 225
+# FILE 1657762345606519 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neural_stem_cells_ppcseq.rds 1 1073741824
+1657762346003352 133 1 7225416 91 63 71 0 0 225
+# FILE 1657762346010351 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neural_stem_cells_DE.rds 2 366794
+1657762346010386 129 2 7225268 91 62 72 0 0 225
+# FILE 1657762346010808 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neural_stem_cells_ppcseq.rds 1 1073741824
+1657762346404155 130 1 7225417 90 63 72 0 0 225
+# FILE 1657762346556380 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neural_stem_cells_DE.rds 2 552188
+1657762346556413 126 2 7225269 90 62 73 0 0 225
+# FILE 1657762346556847 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neural_stem_cells_ppcseq.rds 1 1073741824
+1657762346574088 127 1 7225418 89 63 73 0 0 225
+# FILE 1657762346580350 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Astrocyte_restricted_precursors_table.rds 2 192
+# FILE 1657762346580369 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocyte_restricted_precursors_DE.rds 3 565605
+# FILE 1657762346580382 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocyte_restricted_precursors_ppcseq.rds 3 195
+1657762346580395 11 2 7225387 89 62 74 0 0 225
+# FILE 1657762346612625 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_mature_DE.rds 2 17686860
+1657762346612962 123 2 7225270 89 61 75 0 0 225
+# FILE 1657762346613332 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_mature_ppcseq.rds 1 1073741824
+1657762346912102 124 1 7225419 88 62 75 0 0 225
+# FILE 1657762347007763 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_mature_DE.rds 2 17522231
+1657762347007793 120 2 7225271 88 61 76 0 0 225
+# FILE 1657762347008243 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_mature_ppcseq.rds 1 1073741824
+1657762347304274 121 1 7225420 87 62 76 0 0 225
+# FILE 1657762347358498 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_mature_DE.rds 2 24744406
+1657762347358535 117 2 7225272 87 61 77 0 0 225
+# FILE 1657762347358972 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_mature_ppcseq.rds 1 1073741824
+1657762347603795 118 1 7225421 86 62 77 0 0 225
+# FILE 1657762347613527 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_immature_DE.rds 2 347006
+1657762347613551 114 2 7225273 86 61 78 0 0 225
+# FILE 1657762347613992 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_immature_ppcseq.rds 1 1073741824
+1657762347821053 115 1 7225422 85 62 78 0 0 225
+# FILE 1657762348006407 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_immature_DE.rds 2 343586
+1657762348006450 111 2 7225274 85 61 79 0 0 225
+# FILE 1657762348007090 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_immature_ppcseq.rds 1 1073741824
+1657762348703451 112 1 7225423 84 62 79 0 0 225
+# FILE 1657762349103937 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_immature_DE.rds 2 545984
+1657762349103974 108 2 7225275 84 61 80 0 0 225
+# FILE 1657762349104503 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_immature_ppcseq.rds 1 1073741824
+1657762349410946 109 1 7225424 83 62 80 0 0 225
+# FILE 1657762349809365 makeflow.failed.78 4 0
+# FILE 1657762349810085 makeflow.failed.78 3 0
+1657762349906614 78 3 7225396 83 61 80 1 0 225
+# FILE 1657762349906916 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+1657762349906978 78 0 7225396 84 61 80 0 0 225
+# FILE 1657762349907556 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762350209369 78 1 7225425 83 62 80 0 0 225
+# FILE 1657762350510637 makeflow.failed.204 4 0
+# FILE 1657762350510963 makeflow.failed.204 3 0
+1657762350703702 204 3 7225398 83 61 80 1 0 225
+# FILE 1657762350704321 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+1657762350704387 204 0 7225398 84 61 80 0 0 225
+# FILE 1657762350704514 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762351104285 204 1 7225426 83 62 80 0 0 225
+# FILE 1657762351307100 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Monocytes_DE.rds 2 121223
+1657762351307137 105 2 7225276 83 61 81 0 0 225
+# FILE 1657762351307594 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_ppcseq.rds 1 1073741824
+1657762351704523 106 1 7225428 82 62 81 0 0 225
+# FILE 1657762352205274 makeflow.failed.75 4 0
+# FILE 1657762352205602 makeflow.failed.75 3 0
+1657762352210485 75 3 7225400 82 61 81 1 0 225
+# FILE 1657762352210769 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+1657762352210828 75 0 7225400 83 61 81 0 0 225
+# FILE 1657762352211417 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762352604173 75 1 7225429 82 62 81 0 0 225
+# FILE 1657762352812940 makeflow.failed.201 4 0
+# FILE 1657762352903639 makeflow.failed.201 3 0
+1657762353006091 201 3 7225399 82 61 81 1 0 225
+# FILE 1657762353007049 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+1657762353007104 201 0 7225399 83 61 81 0 0 225
+# FILE 1657762353007223 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762353308875 201 1 7225430 82 62 81 0 0 225
+# FILE 1657762353326107 makeflow.failed.198 4 0
+# FILE 1657762353326407 makeflow.failed.198 3 0
+1657762353331149 198 3 7225401 82 61 81 1 0 225
+# FILE 1657762353331484 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+1657762353331526 198 0 7225401 83 61 81 0 0 225
+# FILE 1657762353331633 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762353349457 198 1 7225431 82 62 81 0 0 225
+# FILE 1657762353506491 makeflow.failed.72 4 0
+# FILE 1657762353508261 makeflow.failed.72 3 0
+1657762353606803 72 3 7225402 82 61 81 1 0 225
+# FILE 1657762353607100 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+1657762353607154 72 0 7225402 83 61 81 0 0 225
+# FILE 1657762353607625 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762353908313 72 1 7225432 82 62 81 0 0 225
+# FILE 1657762354006333 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuroendocrine_cells_ppcseq.rds 2 195
+1657762354006364 139 2 7225412 82 61 82 0 0 225
+# FILE 1657762354006693 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neuroendocrine_cells_table.rds 1 1073741824
+1657762354304210 140 1 7225433 81 62 82 0 0 225
+# FILE 1657762354506069 makeflow.failed.153 4 0
+# FILE 1657762354507065 makeflow.failed.153 3 0
+1657762354607356 153 3 7225403 81 61 82 1 0 225
+# FILE 1657762354607609 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+1657762354607663 153 0 7225403 82 61 82 0 0 225
+# FILE 1657762354607954 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762354904151 153 1 7225434 81 62 82 0 0 225
+# FILE 1657762354934595 makeflow.failed.63 4 0
+# FILE 1657762354934895 makeflow.failed.63 3 0
+1657762354939394 63 3 7225395 81 61 82 1 0 225
+# FILE 1657762354939649 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+1657762354939692 63 0 7225395 82 61 82 0 0 225
+# FILE 1657762354940123 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762355011092 63 1 7225435 81 62 82 0 0 225
+# FILE 1657762355108160 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_ppcseq.rds 2 195
+1657762355108191 151 2 7225404 81 61 83 0 0 225
+# FILE 1657762355108421 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_table.rds 1 1073741824
+1657762355404433 152 1 7225436 80 62 83 0 0 225
+# FILE 1657762355504269 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Monocytes_DE.rds 2 121902
+1657762355504303 102 2 7225277 80 61 84 0 0 225
+# FILE 1657762355504753 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_ppcseq.rds 1 1073741824
+1657762355522772 103 1 7225437 79 62 84 0 0 225
+# FILE 1657762355527581 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_ppcseq.rds 2 195
+1657762355527607 148 2 7225405 79 61 85 0 0 225
+# FILE 1657762355527878 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neuronal_restricted_precursors_table.rds 1 1073741824
+1657762355854474 149 1 7225438 78 62 85 0 0 225
+# FILE 1657762355904429 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Monocytes_DE.rds 2 199405
+1657762355904455 99 2 7225278 78 61 86 0 0 225
+# FILE 1657762355904824 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Monocytes_ppcseq.rds 1 1073741824
+1657762356204584 100 1 7225440 77 62 86 0 0 225
+# FILE 1657762356207896 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neural_stem_cells_ppcseq.rds 2 195
+1657762356207933 133 2 7225416 77 61 87 0 0 225
+# FILE 1657762356208334 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neural_stem_cells_table.rds 1 1073741824
+1657762356508840 134 1 7225441 76 62 87 0 0 225
+# FILE 1657762356511829 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neural_stem_cells_ppcseq.rds 2 195
+1657762356511857 130 2 7225417 76 61 88 0 0 225
+# FILE 1657762356512252 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neural_stem_cells_table.rds 1 1073741824
+1657762357003345 131 1 7225442 75 62 88 0 0 225
+# FILE 1657762357008418 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_immature_ppcseq.rds 2 195
+1657762357008443 115 2 7225422 75 61 89 0 0 225
+# FILE 1657762357008845 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_NEUR_immature_table.rds 1 1073741824
+1657762357404728 116 1 7225443 74 62 89 0 0 225
+# FILE 1657762357711461 makeflow.failed.27 4 0
+# FILE 1657762357711781 makeflow.failed.27 3 0
+1657762357807739 27 3 7225397 74 61 89 1 0 225
+# FILE 1657762357808104 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+1657762357808159 27 0 7225397 75 61 89 0 0 225
+# FILE 1657762357808843 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762358204421 27 1 7225444 74 62 89 0 0 225
+# FILE 1657762358507913 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuronal_restricted_precursors_ppcseq.rds 2 195
+1657762358507953 145 2 7225406 74 61 90 0 0 225
+# FILE 1657762358508339 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neuronal_restricted_precursors_table.rds 1 1073741824
+1657762358904355 146 1 7225445 73 62 90 0 0 225
+# FILE 1657762359112480 makeflow.failed.39 4 0
+# FILE 1657762359112836 makeflow.failed.39 3 0
+1657762359208691 39 3 7225413 73 61 90 1 0 225
+# FILE 1657762359208742 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+1657762359208796 39 0 7225413 74 61 90 0 0 225
+# FILE 1657762359304106 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762359603566 39 1 7225446 73 62 90 0 0 225
+# FILE 1657762359905144 makeflow.failed.36 4 0
+# FILE 1657762359905499 makeflow.failed.36 3 0
+1657762360105273 36 3 7225414 73 61 90 1 0 225
+# FILE 1657762360105393 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+1657762360105451 36 0 7225414 74 61 90 0 0 225
+# FILE 1657762360106255 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762360504469 36 1 7225447 73 62 90 0 0 225
+# FILE 1657762360603354 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuroendocrine_cells_ppcseq.rds 2 195
+1657762360603419 136 2 7225415 73 61 91 0 0 225
+# FILE 1657762360603840 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neuroendocrine_cells_table.rds 1 1073741824
+1657762360804532 137 1 7225448 72 62 91 0 0 225
+# FILE 1657762360809165 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neural_stem_cells_ppcseq.rds 2 195
+1657762360809192 127 2 7225418 72 61 92 0 0 225
+# FILE 1657762360809606 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neural_stem_cells_table.rds 1 1073741824
+1657762361204547 128 1 7225449 71 62 92 0 0 225
+# FILE 1657762361207368 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_mature_ppcseq.rds 2 195
+1657762361207402 121 2 7225420 71 61 93 0 0 225
+# FILE 1657762361207810 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_NEUR_mature_table.rds 1 1073741824
+1657762361505136 122 1 7225450 70 62 93 0 0 225
+# FILE 1657762361508583 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_immature_ppcseq.rds 2 195
+1657762361508625 112 2 7225423 70 61 94 0 0 225
+# FILE 1657762361509124 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_NEUR_immature_table.rds 1 1073741824
+1657762361809163 113 1 7225452 69 62 94 0 0 225
+# FILE 1657762362107277 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Microglia_DE.rds 2 12715522
+1657762362107598 96 2 7225279 69 61 95 0 0 225
+# FILE 1657762362108120 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Microglia_ppcseq.rds 1 1073741824
+1657762362409099 97 1 7225453 68 62 95 0 0 225
+# FILE 1657762362705855 makeflow.failed.159 4 0
+# FILE 1657762362706331 makeflow.failed.159 3 0
+1657762362711736 159 3 7225407 68 61 95 1 0 225
+# FILE 1657762362711777 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+1657762362711829 159 0 7225407 69 61 95 0 0 225
+# FILE 1657762362712130 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762363103587 159 1 7225454 68 62 95 0 0 225
+# FILE 1657762363109471 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_immature_ppcseq.rds 2 195
+1657762363109499 109 2 7225424 68 61 96 0 0 225
+# FILE 1657762363109873 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_NEUR_immature_table.rds 1 1073741824
+1657762363411919 110 1 7225455 67 62 96 0 0 225
+# FILE 1657762363420311 makeflow.failed.78 4 0
+# FILE 1657762363420588 makeflow.failed.78 3 0
+1657762363425020 78 3 7225425 67 61 96 1 0 225
+# FILE 1657762363425058 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+1657762363425108 78 0 7225425 68 61 96 0 0 225
+# FILE 1657762363425621 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 1 1073741824
+1657762363444485 78 1 7225456 67 62 96 0 0 225
+# FILE 1657762363448367 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_ppcseq.rds 2 195
+1657762363448393 106 2 7225428 67 61 97 0 0 225
+# FILE 1657762363448840 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Monocytes_table.rds 1 1073741824
+1657762364004983 107 1 7225457 66 62 97 0 0 225
+# FILE 1657762364405728 makeflow.failed.156 4 0
+# FILE 1657762364406062 makeflow.failed.156 3 0
+1657762364506533 156 3 7225408 66 61 97 1 0 225
+# FILE 1657762364506613 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+1657762364506671 156 0 7225408 67 61 97 0 0 225
+# FILE 1657762364507000 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762364805425 156 1 7225458 66 62 97 0 0 225
+# FILE 1657762364913640 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Microglia_DE.rds 2 12597710
+1657762364913677 93 2 7225281 66 61 98 0 0 225
+# FILE 1657762364914189 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Microglia_ppcseq.rds 1 1073741824
+1657762365303336 94 1 7225459 65 62 98 0 0 225
+# FILE 1657762365455049 makeflow.failed.42 4 0
+# FILE 1657762365455405 makeflow.failed.42 3 0
+1657762365505570 42 3 7225409 65 61 98 1 0 225
+# FILE 1657762365505615 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+1657762365505672 42 0 7225409 66 61 98 0 0 225
+# FILE 1657762365506338 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762365804139 42 1 7225460 65 62 98 0 0 225
+# FILE 1657762365960712 makeflow.failed.204 4 0
+# FILE 1657762365961053 makeflow.failed.204 3 0
+1657762366005369 204 3 7225426 65 61 98 1 0 225
+# FILE 1657762366005410 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+1657762366005465 204 0 7225426 66 61 98 0 0 225
+# FILE 1657762366005573 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 1 1073741824
+1657762366309778 204 1 7225461 65 62 98 0 0 225
+# FILE 1657762366508838 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Microglia_DE.rds 2 17926649
+1657762366508880 90 2 7225282 65 61 99 0 0 225
+# FILE 1657762366653656 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Microglia_ppcseq.rds 1 1073741824
+1657762366812080 91 1 7225462 64 62 99 0 0 225
+# FILE 1657762367011945 makeflow.failed.75 4 0
+# FILE 1657762367012304 makeflow.failed.75 3 0
+1657762367107658 75 3 7225429 64 61 99 1 0 225
+# FILE 1657762367107712 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+1657762367107770 75 0 7225429 65 61 99 0 0 225
+# FILE 1657762367108340 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 1 1073741824
+1657762367404077 75 1 7225463 64 62 99 0 0 225
+# FILE 1657762367418407 makeflow.failed.72 4 0
+# FILE 1657762367418753 makeflow.failed.72 3 0
+1657762367423103 72 3 7225432 64 61 99 1 0 225
+# FILE 1657762367423138 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+1657762367423188 72 0 7225432 65 61 99 0 0 225
+# FILE 1657762367423745 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 1 1073741824
+1657762367440396 72 1 7225464 64 62 99 0 0 225
+# FILE 1657762367521180 makeflow.failed.198 4 0
+# FILE 1657762367521508 makeflow.failed.198 3 0
+1657762367608434 198 3 7225431 64 61 99 1 0 225
+# FILE 1657762367608477 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+1657762367608533 198 0 7225431 65 61 99 0 0 225
+# FILE 1657762367608686 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 1 1073741824
+1657762367811825 198 1 7225465 64 62 99 0 0 225
+# FILE 1657762367913023 makeflow.failed.201 4 0
+# FILE 1657762367913331 makeflow.failed.201 3 0
+1657762367918322 201 3 7225430 64 61 99 1 0 225
+# FILE 1657762367918387 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+1657762367918440 201 0 7225430 65 61 99 0 0 225
+# FILE 1657762367918559 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 1 1073741824
+1657762367935746 201 1 7225466 64 62 99 0 0 225
+# FILE 1657762367938795 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neuroendocrine_cells_table.rds 2 192
+# FILE 1657762367938815 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuroendocrine_cells_DE.rds 3 1975544
+# FILE 1657762367938828 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuroendocrine_cells_ppcseq.rds 3 195
+1657762367938838 140 2 7225433 64 61 100 0 0 225
+# FILE 1657762367943097 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_ppcseq.rds 2 195
+1657762367943123 103 2 7225437 64 60 101 0 0 225
+# FILE 1657762367943367 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Monocytes_table.rds 1 1073741824
+1657762368016720 104 1 7225467 63 61 101 0 0 225
+# FILE 1657762368034436 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Macrophages_DE.rds 2 1054917
+1657762368034461 87 2 7225283 63 60 102 0 0 225
+# FILE 1657762368034790 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Macrophages_ppcseq.rds 1 1073741824
+1657762368052528 88 1 7225468 62 61 102 0 0 225
+# FILE 1657762369060543 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neuronal_restricted_precursors_table.rds 2 192
+# FILE 1657762369060818 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_DE.rds 3 209937
+# FILE 1657762369060834 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neuronal_restricted_precursors_ppcseq.rds 3 195
+1657762369060846 149 2 7225438 62 60 103 0 0 225
+# FILE 1657762369068959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Monocytes_ppcseq.rds 2 195
+1657762369068982 100 2 7225440 62 59 104 0 0 225
+# FILE 1657762369069265 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Monocytes_table.rds 1 1073741824
+1657762369087430 101 1 7225469 61 60 104 0 0 225
+# FILE 1657762369091184 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neural_stem_cells_table.rds 2 192
+# FILE 1657762369091204 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neural_stem_cells_DE.rds 3 369475
+# FILE 1657762369091216 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neural_stem_cells_ppcseq.rds 3 195
+1657762369091229 134 2 7225441 61 59 105 0 0 225
+# FILE 1657762369094696 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Neural_stem_cells_table.rds 2 192
+# FILE 1657762369094717 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neural_stem_cells_DE.rds 3 366794
+# FILE 1657762369094728 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Neural_stem_cells_ppcseq.rds 3 195
+1657762369094740 131 2 7225442 61 58 106 0 0 225
+# FILE 1657762369098393 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_NEUR_immature_table.rds 2 192
+# FILE 1657762369098415 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_immature_DE.rds 3 347006
+# FILE 1657762369098428 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_immature_ppcseq.rds 3 195
+1657762369098440 116 2 7225443 61 57 107 0 0 225
+# FILE 1657762370107787 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_table.rds 2 192
+# FILE 1657762370107819 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_DE.rds 3 209609
+# FILE 1657762370107834 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuronal_restricted_precursors_ppcseq.rds 3 195
+1657762370107848 152 2 7225436 61 56 108 0 0 225
+# FILE 1657762371153295 makeflow.failed.153 4 0
+# FILE 1657762371153643 makeflow.failed.153 3 0
+1657762371158482 153 3 7225434 61 55 108 1 0 225
+# FILE 1657762371158520 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+1657762371158571 153 0 7225434 62 55 108 0 0 225
+# FILE 1657762371158826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762371179222 153 1 7225470 61 56 108 0 0 225
+# FILE 1657762374196617 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neuronal_restricted_precursors_table.rds 2 192
+# FILE 1657762374196665 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuronal_restricted_precursors_DE.rds 3 336253
+# FILE 1657762374196690 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuronal_restricted_precursors_ppcseq.rds 3 195
+1657762374196715 146 2 7225445 61 55 109 0 0 225
+# FILE 1657762374212698 makeflow.failed.39 4 0
+# FILE 1657762374213054 makeflow.failed.39 3 0
+1657762374218021 39 3 7225446 61 54 109 1 0 225
+# FILE 1657762374218057 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+1657762374218107 39 0 7225446 62 54 109 0 0 225
+# FILE 1657762374218459 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 1 1073741824
+1657762374237964 39 1 7225471 61 55 109 0 0 225
+# FILE 1657762374253582 makeflow.failed.36 4 0
+# FILE 1657762374253954 makeflow.failed.36 3 0
+1657762374259368 36 3 7225447 61 54 109 1 0 225
+# FILE 1657762374259403 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+1657762374259451 36 0 7225447 62 54 109 0 0 225
+# FILE 1657762374260136 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 1 1073741824
+1657762374278605 36 1 7225472 61 55 109 0 0 225
+# FILE 1657762375298292 makeflow.failed.63 4 0
+# FILE 1657762375298627 makeflow.failed.63 3 0
+1657762375304427 63 3 7225435 61 54 109 1 0 225
+# FILE 1657762375304500 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+1657762375304557 63 0 7225435 62 54 109 0 0 225
+# FILE 1657762375305171 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762375323124 63 1 7225473 61 55 109 0 0 225
+# FILE 1657762375327306 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_NEUR_immature_table.rds 2 192
+# FILE 1657762375327328 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_immature_DE.rds 3 343586
+# FILE 1657762375327340 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_immature_ppcseq.rds 3 195
+1657762375327353 113 2 7225452 61 54 110 0 0 225
+# FILE 1657762376336162 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neural_stem_cells_table.rds 2 192
+# FILE 1657762376336190 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neural_stem_cells_DE.rds 3 552188
+# FILE 1657762376336204 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neural_stem_cells_ppcseq.rds 3 195
+1657762376336218 128 2 7225449 61 53 111 0 0 225
+# FILE 1657762377362518 makeflow.failed.27 4 0
+# FILE 1657762377363169 makeflow.failed.27 3 0
+1657762377367957 27 3 7225444 61 52 111 1 0 225
+# FILE 1657762377367995 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+1657762377368066 27 0 7225444 62 52 111 0 0 225
+# FILE 1657762377368684 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762377389045 27 1 7225474 61 53 111 0 0 225
+# FILE 1657762377393290 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Neuroendocrine_cells_table.rds 2 192
+# FILE 1657762377393331 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neuroendocrine_cells_DE.rds 3 2970955
+# FILE 1657762377393345 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Neuroendocrine_cells_ppcseq.rds 3 195
+1657762377393359 137 2 7225448 61 52 112 0 0 225
+# FILE 1657762377408167 makeflow.failed.159 4 0
+# FILE 1657762377408447 makeflow.failed.159 3 0
+1657762377413210 159 3 7225454 61 51 112 1 0 225
+# FILE 1657762377413245 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+1657762377413295 159 0 7225454 62 51 112 0 0 225
+# FILE 1657762377413446 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 1 1073741824
+1657762377430298 159 1 7225475 61 52 112 0 0 225
+# FILE 1657762377435102 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_NEUR_immature_table.rds 2 192
+# FILE 1657762377435136 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_immature_DE.rds 3 545984
+# FILE 1657762377435160 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_immature_ppcseq.rds 3 195
+1657762377435184 110 2 7225455 61 51 113 0 0 225
+# FILE 1657762377450978 makeflow.failed.78 4 0
+# FILE 1657762377451315 makeflow.failed.78 3 0
+1657762377456269 78 3 7225456 61 50 113 1 0 225
+# FILE 1657762377456304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Hypendymal_cells_DE.rds 4 1073741824
+# FILE 1657762378464546 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_NEUR_mature_table.rds 2 192
+# FILE 1657762378464577 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_NEUR_mature_DE.rds 3 17522231
+# FILE 1657762378464591 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_NEUR_mature_ppcseq.rds 3 195
+1657762378464605 122 2 7225450 61 49 114 1 0 225
+# FILE 1657762379476524 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Monocytes_table.rds 2 192
+# FILE 1657762379476553 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Monocytes_DE.rds 3 121223
+# FILE 1657762379476566 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Monocytes_ppcseq.rds 3 195
+1657762379476578 107 2 7225457 61 48 115 1 0 225
+# FILE 1657762380499511 makeflow.failed.156 4 0
+# FILE 1657762380500229 makeflow.failed.156 3 0
+1657762380505824 156 3 7225458 61 47 115 2 0 225
+# FILE 1657762380505863 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+1657762380505906 156 0 7225458 62 47 115 1 0 225
+# FILE 1657762380506176 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 1 1073741824
+1657762380527063 156 1 7225477 61 48 115 1 0 225
+# FILE 1657762380539754 makeflow.failed.204 4 0
+# FILE 1657762380540057 makeflow.failed.204 3 0
+1657762380545095 204 3 7225461 61 47 115 2 0 225
+# FILE 1657762380545133 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Tanycytes_DE.rds 4 1073741824
+# FILE 1657762380559580 makeflow.failed.42 4 0
+# FILE 1657762380559906 makeflow.failed.42 3 0
+1657762380564972 42 3 7225460 61 46 115 3 0 225
+# FILE 1657762380565025 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+1657762380565074 42 0 7225460 62 46 115 2 0 225
+# FILE 1657762380565648 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 1 1073741824
+1657762380582562 42 1 7225478 61 47 115 2 0 225
+# FILE 1657762381601247 makeflow.failed.75 4 0
+# FILE 1657762381601622 makeflow.failed.75 3 0
+1657762381607448 75 3 7225463 61 46 115 3 0 225
+# FILE 1657762381607492 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Hypendymal_cells_DE.rds 4 1073741824
+# FILE 1657762381622865 makeflow.failed.72 4 0
+# FILE 1657762381623187 makeflow.failed.72 3 0
+1657762381627753 72 3 7225464 61 45 115 4 0 225
+# FILE 1657762381627790 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hypendymal_cells_DE.rds 4 1073741824
+# FILE 1657762382636349 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Monocytes_table.rds 2 192
+# FILE 1657762382636382 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Monocytes_DE.rds 3 199405
+# FILE 1657762382636394 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Monocytes_ppcseq.rds 3 195
+1657762382636408 101 2 7225469 61 44 116 4 0 225
+# FILE 1657762383658989 makeflow.failed.198 4 0
+# FILE 1657762383659623 makeflow.failed.198 3 0
+1657762383665092 198 3 7225465 61 43 116 5 0 225
+# FILE 1657762383665135 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Tanycytes_DE.rds 4 1073741824
+# FILE 1657762383678870 makeflow.failed.201 4 0
+# FILE 1657762383679215 makeflow.failed.201 3 0
+1657762383683977 201 3 7225466 61 42 116 6 0 225
+# FILE 1657762383684027 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Tanycytes_DE.rds 4 1073741824
+# FILE 1657762383688861 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Monocytes_table.rds 2 192
+# FILE 1657762383688880 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Monocytes_DE.rds 3 121902
+# FILE 1657762383688893 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Monocytes_ppcseq.rds 3 195
+1657762383688905 104 2 7225467 61 41 117 6 0 225
+# FILE 1657762387711086 makeflow.failed.153 4 0
+# FILE 1657762387711748 makeflow.failed.153 3 0
+1657762387717033 153 3 7225470 61 40 117 7 0 225
+# FILE 1657762387717074 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+1657762387717119 153 0 7225470 62 40 117 6 0 225
+# FILE 1657762387717377 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762387737204 153 1 7225479 61 41 117 6 0 225
+# FILE 1657762388750186 makeflow.failed.39 4 0
+# FILE 1657762388750509 makeflow.failed.39 3 0
+1657762388755226 39 3 7225471 61 40 117 7 0 225
+# FILE 1657762388755264 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Dendritic_cells_DE.rds 4 1073741824
+# FILE 1657762389773931 makeflow.failed.36 4 0
+# FILE 1657762389774288 makeflow.failed.36 3 0
+1657762389779546 36 3 7225472 61 39 117 8 0 225
+# FILE 1657762389779610 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Dendritic_cells_DE.rds 4 1073741824
+# FILE 1657762391799788 makeflow.failed.159 4 0
+# FILE 1657762391800430 makeflow.failed.159 3 0
+1657762391805811 159 3 7225475 61 38 117 9 0 225
+# FILE 1657762391805883 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neutrophils_DE.rds 4 1073741824
+# FILE 1657762392814478 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Pericytes_ppcseq.rds 2 3209
+1657762392814513 190 2 7225325 61 37 118 9 0 225
+# FILE 1657762392814670 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Pericytes_table.rds 1 1073741824
+1657762392835275 191 1 7225480 60 38 118 9 0 225
+# FILE 1657762392851824 makeflow.failed.63 4 0
+# FILE 1657762392852107 makeflow.failed.63 3 0
+1657762392858519 63 3 7225473 60 37 118 10 0 225
+# FILE 1657762392858557 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+1657762392858604 63 0 7225473 61 37 118 9 0 225
+# FILE 1657762392858996 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 1 1073741824
+1657762392876258 63 1 7225481 60 38 118 9 0 225
+# FILE 1657762393883385 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Pericytes_ppcseq.rds 2 3532
+1657762393883441 193 2 7225324 60 37 119 9 0 225
+# FILE 1657762393883655 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Pericytes_table.rds 1 1073741824
+1657762393902985 194 1 7225482 59 38 119 9 0 225
+# FILE 1657762394930344 makeflow.failed.156 4 0
+# FILE 1657762394930891 makeflow.failed.156 3 0
+1657762394935691 156 3 7225477 59 37 119 10 0 225
+# FILE 1657762394935729 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Neutrophils_DE.rds 4 1073741824
+# FILE 1657762395955423 makeflow.failed.27 4 0
+# FILE 1657762395955738 makeflow.failed.27 3 0
+1657762395960693 27 3 7225474 59 36 119 11 0 225
+# FILE 1657762395960767 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+1657762395960885 27 0 7225474 60 36 119 10 0 225
+# FILE 1657762395962085 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 1 1073741824
+1657762395981435 27 1 7225483 59 37 119 10 0 225
+# FILE 1657762396998230 makeflow.failed.42 4 0
+# FILE 1657762396998567 makeflow.failed.42 3 0
+1657762397003349 42 3 7225478 59 36 119 11 0 225
+# FILE 1657762397003386 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Dendritic_cells_DE.rds 4 1073741824
+# FILE 1657762399018588 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Olfactory_ensheathing_glia_ppcseq.rds 2 2814
+1657762399020610 163 2 7225333 59 35 120 11 0 225
+# FILE 1657762399020977 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Olfactory_ensheathing_glia_table.rds 1 1073741824
+1657762399040480 164 1 7225485 58 36 120 11 0 225
+# FILE 1657762399044693 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_ppcseq.rds 2 1755
+1657762399044753 4 2 7225353 58 35 121 11 0 225
+# FILE 1657762399045295 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Arachnoid_barrier_cells_table.rds 1 1073741824
+1657762399063423 5 1 7225486 57 36 121 11 0 225
+# FILE 1657762401084850 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Ependymocytes_ppcseq.rds 2 1701
+1657762401084903 61 2 7225357 57 35 122 11 0 225
+# FILE 1657762401085462 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Ependymocytes_table.rds 1 1073741824
+1657762401105564 62 1 7225487 56 36 122 11 0 225
+# FILE 1657762402111791 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_ppcseq.rds 2 3722
+1657762402112102 166 2 7225331 56 35 123 11 0 225
+# FILE 1657762402112358 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_table.rds 1 1073741824
+1657762402133249 167 1 7225488 55 36 123 11 0 225
+# FILE 1657762403141471 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Ependymocytes_ppcseq.rds 2 1047
+1657762403141550 55 2 7225358 55 35 124 11 0 225
+# FILE 1657762403142077 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Ependymocytes_table.rds 1 1073741824
+1657762403160671 56 1 7225489 54 36 124 11 0 225
+# FILE 1657762404182553 makeflow.failed.153 4 0
+# FILE 1657762404182873 makeflow.failed.153 3 0
+1657762404187845 153 3 7225479 54 35 124 12 0 225
+# FILE 1657762404187882 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+1657762404187929 153 0 7225479 55 35 124 11 0 225
+# FILE 1657762404188216 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 1 1073741824
+1657762404205459 153 1 7225490 54 36 124 11 0 225
+# FILE 1657762405213083 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Arachnoid_barrier_cells_ppcseq.rds 2 1749
+1657762405213313 1 2 7225369 54 35 125 11 0 225
+# FILE 1657762405213959 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Arachnoid_barrier_cells_table.rds 1 1073741824
+1657762405232418 2 1 7225491 53 36 125 11 0 225
+# FILE 1657762407249969 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_ppcseq.rds 2 9690
+1657762407250029 175 2 7225330 53 35 126 11 0 225
+# FILE 1657762407250268 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_table.rds 1 1073741824
+1657762407269086 176 1 7225492 52 36 126 11 0 225
+# FILE 1657762407273956 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_ppcseq.rds 2 2718
+1657762407273999 7 2 7225368 52 35 127 11 0 225
+# FILE 1657762407274480 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_table.rds 1 1073741824
+1657762407290951 8 1 7225493 51 36 127 11 0 225
+# FILE 1657762408297839 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Pericytes_table.rds 2 219
+# FILE 1657762408298065 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Pericytes_DE.rds 3 6277418
+# FILE 1657762408298081 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Pericytes_ppcseq.rds 3 3209
+1657762408298095 191 2 7225480 51 35 128 11 0 225
+# FILE 1657762409307800 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Pericytes_table.rds 2 235
+# FILE 1657762409307825 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Pericytes_DE.rds 3 4283298
+# FILE 1657762409307836 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Pericytes_ppcseq.rds 3 3532
+1657762409307849 194 2 7225482 51 34 129 11 0 225
+# FILE 1657762411325052 makeflow.failed.63 4 0
+# FILE 1657762411325789 makeflow.failed.63 3 0
+1657762411331054 63 3 7225481 51 33 129 12 0 225
+# FILE 1657762411331131 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Hemoglobin_expressing_vascular_cells_DE.rds 4 1073741824
+# FILE 1657762412337651 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Pericytes_ppcseq.rds 2 9612
+1657762412337684 196 2 7225335 51 32 130 12 0 225
+# FILE 1657762412337806 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Pericytes_table.rds 1 1073741824
+1657762412359281 197 1 7225494 50 33 130 12 0 225
+# FILE 1657762412364389 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Arachnoid_barrier_cells_table.rds 2 245
+# FILE 1657762412364412 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_DE.rds 3 1186828
+# FILE 1657762412364424 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Arachnoid_barrier_cells_ppcseq.rds 3 1755
+1657762412364436 5 2 7225486 50 32 131 12 0 225
+# FILE 1657762414383573 makeflow.failed.27 4 0
+# FILE 1657762414384149 makeflow.failed.27 3 0
+1657762414388862 27 3 7225483 50 31 131 13 0 225
+# FILE 1657762414388899 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Choroid_plexus_epithelial_cells_DE.rds 4 1073741824
+# FILE 1657762414392287 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Olfactory_ensheathing_glia_table.rds 2 237
+# FILE 1657762414392309 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Olfactory_ensheathing_glia_DE.rds 3 5385178
+# FILE 1657762414392322 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Olfactory_ensheathing_glia_ppcseq.rds 3 2814
+1657762414392334 164 2 7225485 50 30 132 13 0 225
+# FILE 1657762414396283 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Ependymocytes_table.rds 2 242
+# FILE 1657762414396301 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Ependymocytes_DE.rds 3 1130631
+# FILE 1657762414396314 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Ependymocytes_ppcseq.rds 3 1701
+1657762414396324 62 2 7225487 50 29 133 13 0 225
+# FILE 1657762415401037 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_table.rds 2 247
+# FILE 1657762415401066 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_DE.rds 3 3655174
+# FILE 1657762415401081 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Olfactory_ensheathing_glia_ppcseq.rds 3 3722
+1657762415401095 167 2 7225488 50 28 134 13 0 225
+# FILE 1657762419413381 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Ependymocytes_table.rds 2 224
+# FILE 1657762419413640 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Ependymocytes_DE.rds 3 286720
+# FILE 1657762419413656 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Ependymocytes_ppcseq.rds 3 1047
+1657762419413668 56 2 7225489 50 27 135 13 0 225
+# FILE 1657762419425665 makeflow.failed.153 4 0
+# FILE 1657762419425952 makeflow.failed.153 3 0
+1657762419430386 153 3 7225490 50 26 135 14 0 225
+# FILE 1657762419430421 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Neutrophils_DE.rds 4 1073741824
+# FILE 1657762419434473 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Arachnoid_barrier_cells_table.rds 2 232
+# FILE 1657762419434494 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Arachnoid_barrier_cells_DE.rds 3 1770524
+# FILE 1657762419434505 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Arachnoid_barrier_cells_ppcseq.rds 3 1749
+1657762419434518 2 2 7225491 50 25 136 14 0 225
+# FILE 1657762421440217 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_table.rds 2 248
+# FILE 1657762421440254 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_DE.rds 3 1195412
+# FILE 1657762421440269 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Arachnoid_barrier_cells_ppcseq.rds 3 2718
+1657762421440283 8 2 7225493 50 24 137 14 0 225
+# FILE 1657762422446328 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_table.rds 2 252
+# FILE 1657762422446552 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_DE.rds 3 13145657
+# FILE 1657762422446570 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocyte_precursor_cells_ppcseq.rds 3 9690
+1657762422446584 176 2 7225492 50 23 138 14 0 225
+# FILE 1657762425461335 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Ependymocytes_ppcseq.rds 2 1755
+1657762425461635 58 2 7225339 50 22 139 14 0 225
+# FILE 1657762425462241 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Ependymocytes_table.rds 1 1073741824
+1657762425481769 59 1 7225496 49 23 139 14 0 225
+# FILE 1657762425485674 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Macrophages_ppcseq.rds 2 1252
+1657762425485709 82 2 7225347 49 22 140 14 0 225
+# FILE 1657762425486120 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Macrophages_table.rds 1 1073741824
+1657762425501331 83 1 7225497 48 23 140 14 0 225
+# FILE 1657762428516307 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Pericytes_table.rds 2 238
+# FILE 1657762428516553 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Pericytes_DE.rds 3 630784
+# FILE 1657762428516568 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Pericytes_ppcseq.rds 3 9612
+1657762428516581 197 2 7225494 48 22 141 14 0 225
+# FILE 1657762430528146 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Endothelial_cells_ppcseq.rds 2 17489
+1657762430528182 49 2 7225350 48 21 142 14 0 225
+# FILE 1657762430528772 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Endothelial_cells_table.rds 1 1073741824
+1657762430549770 50 1 7225498 47 22 142 14 0 225
+# FILE 1657762431554695 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocytes_ppcseq.rds 2 14086
+1657762431554940 22 2 7225363 47 21 143 14 0 225
+# FILE 1657762431555772 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Astrocytes_table.rds 1 1073741824
+1657762431573083 23 1 7225499 46 22 143 14 0 225
+# FILE 1657762432583506 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_ppcseq.rds 2 7924
+1657762432583547 169 2 7225392 46 21 144 14 0 225
+# FILE 1657762432583856 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_table.rds 1 1073741824
+1657762432602815 170 1 7225500 45 22 144 14 0 225
+# FILE 1657762438621681 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Ependymocytes_table.rds 2 238
+# FILE 1657762438621979 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Ependymocytes_DE.rds 3 1126641
+# FILE 1657762438621994 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Ependymocytes_ppcseq.rds 3 1755
+1657762438622020 59 2 7225496 45 21 145 14 0 225
+# FILE 1657762440629290 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Macrophages_ppcseq.rds 2 1266
+1657762440629345 85 2 7225332 45 20 146 14 0 225
+# FILE 1657762440629896 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Macrophages_table.rds 1 1073741824
+1657762440650693 86 1 7225501 44 21 146 14 0 225
+# FILE 1657762440655213 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Macrophages_table.rds 2 227
+# FILE 1657762440655237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Macrophages_DE.rds 3 1579212
+# FILE 1657762440655249 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Macrophages_ppcseq.rds 3 1252
+1657762440655262 83 2 7225497 44 20 147 14 0 225
+# FILE 1657762443666285 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Endothelial_cells_ppcseq.rds 2 17875
+1657762443666528 46 2 7225374 44 19 148 14 0 225
+# FILE 1657762443667211 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Endothelial_cells_table.rds 1 1073741824
+1657762443689708 47 1 7225502 43 20 148 14 0 225
+# FILE 1657762445698399 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Endothelial_cells_table.rds 2 243
+# FILE 1657762445698434 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Endothelial_cells_DE.rds 3 11847016
+# FILE 1657762445698446 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Endothelial_cells_ppcseq.rds 3 17489
+1657762445698460 50 2 7225498 43 19 149 14 0 225
+# FILE 1657762446704471 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Astrocytes_table.rds 2 237
+# FILE 1657762446704696 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Astrocytes_DE.rds 3 516096
+# FILE 1657762446704710 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Astrocytes_ppcseq.rds 3 14086
+1657762446704725 23 2 7225499 43 18 150 14 0 225
+# FILE 1657762448712029 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_table.rds 2 253
+# FILE 1657762448712063 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_DE.rds 3 3673461
+# FILE 1657762448712079 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Olfactory_ensheathing_glia_ppcseq.rds 3 7924
+1657762448712094 170 2 7225500 43 17 151 14 0 225
+# FILE 1657762451719830 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocytes_ppcseq.rds 2 18636
+1657762451720105 19 2 7225390 43 16 152 14 0 225
+# FILE 1657762451720883 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Astrocytes_table.rds 1 1073741824
+1657762451741073 20 1 7225504 42 17 152 14 0 225
+# FILE 1657762452746211 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Macrophages_table.rds 2 238
+# FILE 1657762452746246 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Macrophages_DE.rds 3 1045071
+# FILE 1657762452746261 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Macrophages_ppcseq.rds 3 1266
+1657762452746275 86 2 7225501 42 16 153 14 0 225
+# FILE 1657762457762588 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_ppcseq.rds 2 1049
+1657762457762815 142 2 7225411 42 15 154 14 0 225
+# FILE 1657762457763170 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neuroendocrine_cells_table.rds 1 1073741824
+1657762457787541 143 1 7225505 41 16 154 14 0 225
+# FILE 1657762460799334 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Endothelial_cells_table.rds 2 230
+# FILE 1657762460801165 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Endothelial_cells_DE.rds 3 17538324
+# FILE 1657762460801185 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Endothelial_cells_ppcseq.rds 3 17875
+1657762460801199 47 2 7225502 41 15 155 14 0 225
+# FILE 1657762461809030 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocyte_precursor_cells_ppcseq.rds 2 8298
+1657762461809184 172 2 7225391 41 14 156 14 0 225
+# FILE 1657762461809488 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Oligodendrocyte_precursor_cells_table.rds 1 1073741824
+1657762461830294 173 1 7225506 40 15 156 14 0 225
+# FILE 1657762465839349 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_mature_ppcseq.rds 2 3429
+1657762465839664 118 2 7225421 40 14 157 14 0 225
+# FILE 1657762465840143 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_NEUR_mature_table.rds 1 1073741824
+1657762465859662 119 1 7225507 39 15 157 14 0 225
+# FILE 1657762470873456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Astrocytes_table.rds 2 220
+# FILE 1657762470873700 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Astrocytes_DE.rds 3 20103168
+# FILE 1657762470873714 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Astrocytes_ppcseq.rds 3 18636
+1657762470873729 20 2 7225504 39 14 158 14 0 225
+# FILE 1657762472880099 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Neuroendocrine_cells_table.rds 2 246
+# FILE 1657762472880132 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_DE.rds 3 1993447
+# FILE 1657762472880147 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Neuroendocrine_cells_ppcseq.rds 3 1049
+1657762472880159 143 2 7225505 39 13 159 14 0 225
+# FILE 1657762478890075 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Oligodendrocyte_precursor_cells_table.rds 2 241
+# FILE 1657762478890303 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocyte_precursor_cells_DE.rds 3 18682773
+# FILE 1657762478890318 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocyte_precursor_cells_ppcseq.rds 3 8298
+1657762478890332 173 2 7225506 39 12 160 14 0 225
+# FILE 1657762483898738 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_NEUR_mature_table.rds 2 224
+# FILE 1657762483898997 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_NEUR_mature_DE.rds 3 24744406
+# FILE 1657762483899027 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_NEUR_mature_ppcseq.rds 3 3429
+1657762483899040 119 2 7225507 39 11 161 14 0 225
+# FILE 1657762486909621 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_mature_ppcseq.rds 2 28836
+1657762486909860 124 2 7225419 39 10 162 14 0 225
+# FILE 1657762486910288 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_NEUR_mature_table.rds 1 1073741824
+1657762486931430 125 1 7225509 38 11 162 14 0 225
+# FILE 1657762489944724 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Microglia_ppcseq.rds 2 16738
+1657762489944982 91 2 7225462 38 10 163 14 0 225
+# FILE 1657762489945559 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Microglia_table.rds 1 1073741824
+1657762489964443 92 1 7225510 37 11 163 14 0 225
+# FILE 1657762500982655 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Macrophages_ppcseq.rds 2 2947
+1657762500982885 88 2 7225468 37 10 164 14 0 225
+# FILE 1657762500983441 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Macrophages_table.rds 1 1073741824
+1657762501005082 89 1 7225512 36 11 164 14 0 225
+# FILE 1657762502010149 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_NEUR_mature_table.rds 2 244
+# FILE 1657762502010185 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_NEUR_mature_DE.rds 3 17686860
+# FILE 1657762502010199 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_NEUR_mature_ppcseq.rds 3 28836
+1657762502010214 125 2 7225509 36 10 165 14 0 225
+# FILE 1657762506019682 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Microglia_table.rds 2 222
+# FILE 1657762506019954 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Microglia_DE.rds 3 17926649
+# FILE 1657762506019970 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Microglia_ppcseq.rds 3 16738
+1657762506019986 92 2 7225510 36 9 166 14 0 225
+# FILE 1657762511029292 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Microglia_ppcseq.rds 2 15322
+1657762511029354 94 2 7225459 36 8 167 14 0 225
+# FILE 1657762511029863 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Microglia_table.rds 1 1073741824
+1657762511049815 95 1 7225514 35 9 167 14 0 225
+# FILE 1657762514060371 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Macrophages_table.rds 2 241
+# FILE 1657762514060655 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Macrophages_DE.rds 3 1054917
+# FILE 1657762514060672 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Macrophages_ppcseq.rds 3 2947
+1657762514060685 89 2 7225512 35 8 168 14 0 225
+# FILE 1657762526080737 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Microglia_table.rds 2 238
+# FILE 1657762526083694 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Microglia_DE.rds 3 12597710
+# FILE 1657762526083733 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Microglia_ppcseq.rds 3 15322
+1657762526083756 95 2 7225514 35 7 169 14 0 225
+# FILE 1657762532093575 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Microglia_ppcseq.rds 2 47383
+1657762532093629 97 2 7225453 35 6 170 14 0 225
+# FILE 1657762532094151 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Microglia_table.rds 1 1073741824
+1657762532114586 98 1 7225515 34 7 170 14 0 225
+# FILE 1657762548135025 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Microglia_table.rds 2 241
+# FILE 1657762548135256 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Microglia_DE.rds 3 12715522
+# FILE 1657762548135271 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Microglia_ppcseq.rds 3 47383
+1657762548135284 98 2 7225515 34 6 171 14 0 225
+# FILE 1657762561213468 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_ppcseq.rds 2 73127
+1657762561213702 178 2 7225386 34 5 172 14 0 225
+# FILE 1657762561213878 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_table.rds 1 1073741824
+1657762561234701 179 1 7225521 33 6 172 14 0 225
+# FILE 1657762570309758 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Endothelial_cells_ppcseq.rds 2 52966
+1657762570310031 52 2 7225393 33 5 173 14 0 225
+# FILE 1657762570310495 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Endothelial_cells_table.rds 1 1073741824
+1657762570333613 53 1 7225522 32 6 173 14 0 225
+# FILE 1657762573341848 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocytes_ppcseq.rds 2 55957
+1657762573342062 25 2 7225410 32 5 174 14 0 225
+# FILE 1657762573342626 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Astrocytes_table.rds 1 1073741824
+1657762573363447 26 1 7225523 31 6 174 14 0 225
+# FILE 1657762576413319 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_table.rds 2 258
+# FILE 1657762576413563 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_DE.rds 3 13299588
+# FILE 1657762576413578 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocyte_precursor_cells_ppcseq.rds 3 73127
+1657762576413591 179 2 7225521 31 5 175 14 0 225
+# FILE 1657762577421122 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocytes_ppcseq.rds 2 103443
+1657762577421176 184 2 7225329 31 4 176 14 0 225
+# FILE 1657762577421400 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Oligodendrocytes_table.rds 1 1073741824
+1657762577442211 185 1 7225524 30 5 176 14 0 225
+# FILE 1657762585451548 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Endothelial_cells_table.rds 2 247
+# FILE 1657762585451826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Endothelial_cells_DE.rds 3 11952008
+# FILE 1657762585451841 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Endothelial_cells_ppcseq.rds 3 52966
+1657762585451855 53 2 7225522 30 4 177 14 0 225
+# FILE 1657762588457826 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Astrocytes_table.rds 2 243
+# FILE 1657762588459659 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Astrocytes_DE.rds 3 10100736
+# FILE 1657762588459694 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Astrocytes_ppcseq.rds 3 55957
+1657762588459719 26 2 7225523 30 3 178 14 0 225
+# FILE 1657762594470099 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edgeR_quasi_likelihood_Oligodendrocytes_table.rds 2 242
+# FILE 1657762594470400 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edgeR_quasi_likelihood_Oligodendrocytes_DE.rds 3 17506874
+# FILE 1657762594470428 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edgeR_quasi_likelihood_Oligodendrocytes_ppcseq.rds 3 103443
+1657762594470450 185 2 7225524 30 2 179 14 0 225
+# FILE 1657762642500253 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocytes_ppcseq.rds 2 126484
+1657762642500547 181 2 7225384 30 1 180 14 0 225
+# FILE 1657762642500730 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Oligodendrocytes_table.rds 1 1073741824
+1657762642522156 182 1 7225532 29 2 180 14 0 225
+# FILE 1657762661537105 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/deseq2_Oligodendrocytes_table.rds 2 232
+# FILE 1657762661539369 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/deseq2_Oligodendrocytes_DE.rds 3 26017434
+# FILE 1657762661539406 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/deseq2_Oligodendrocytes_ppcseq.rds 3 126484
+1657762661539428 182 2 7225532 29 1 181 14 0 225
+# FILE 1657762793600217 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocytes_ppcseq.rds 2 209290
+1657762793602212 187 2 7225383 29 0 182 14 0 225
+# FILE 1657762793602503 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Oligodendrocytes_table.rds 1 1073741824
+1657762793623659 188 1 7225545 28 1 182 14 0 225
+# FILE 1657762812637849 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/summary_table/edger_robust_likelihood_ratio_Oligodendrocytes_table.rds 2 245
+# FILE 1657762812637881 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/edger_robust_likelihood_ratio_Oligodendrocytes_DE.rds 3 17623540
+# FILE 1657762812637895 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/ppcseq_data/edger_robust_likelihood_ratio_Oligodendrocytes_ppcseq.rds 3 209290
+1657762812637907 188 2 7225545 28 0 183 14 0 225
+# ABORTED 1657770344844787
