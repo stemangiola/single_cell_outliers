@@ -4,53 +4,73 @@ library(ggplot2)
 library(tidybulk)
 library(ppcseq)
 library(plyr)
+# devtools::install_github("yanlinlin82/ggvenn")
+library(ggvenn)
 source("https://gist.githubusercontent.com/stemangiola/fc67b08101df7d550683a5100106561c/raw/7e948a2aac3f8ad5989822324395d7d93b51a949/ggplot_theme_multipanel")
 
 in_dir <- "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/"
 # method = c("deseq2", "edgeR_quasi_likelihood","edger_robust_likelihood_ratio")
-method = "edgeR_quasi_likelihood"
+# files = list.files(path = glue("{in_dir}COVID_19/data/final_sum_table/"), pattern = "_final_sum_table.rds") # get the file name
+method = "edger_robust_likelihood_ratio"
 # multipanel_theme
 # Summary Panel A 
 # Use final summary table 
-# COVID_19_summary_table <- readRDS("/stornext/HPCScratch/home/ma.m/single_cell_database/COVID_19/data/final_sum_table/final_sum_table.rds")
-COVID_19_summary_table <- readRDS(glue("{in_dir}COVID_19/data/final_sum_table/{method}_final_sum_table.rds"))
+COVID_19_summary_table <- list.files(path = glue("{in_dir}COVID_19/data/final_sum_table/"), 
+                                      pattern = "_final_sum_table.rds") %>% 
+    map(~ readRDS(file.path(glue("{in_dir}COVID_19/data/final_sum_table/"), .))) %>% 
+    dplyr::bind_rows()
 COVID_19_summary_panelA <- COVID_19_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    mutate(prop_outliers = sum(genes_with_outliers)/sum(de_genes)) %>% 
-    mutate(name = "COVID_19") %>% select(name, prop_outliers) %>% head(1)
+    dplyr::group_by(method) %>% 
+    dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
+    mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "COVID_19")
 
-GSE120575_summary_table <- readRDS(glue("{in_dir}GSE120575_melanoma/data/final_sum_table/{method}_sum_table_for_bar_plot.rds"))
+
+GSE120575_summary_table <- list.files(path = glue("{in_dir}GSE120575_melanoma/data/final_sum_table/"), 
+                                      pattern = "_sum_table_for_bar_plot.rds") %>% 
+    map(~ readRDS(file.path(glue("{in_dir}GSE120575_melanoma/data/final_sum_table/"), .))) %>% 
+    dplyr::bind_rows()
 GSE120575_summary_panelA <- GSE120575_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    mutate(prop_outliers = sum(genes_with_outliers)/sum(de_genes)) %>% 
-    mutate(name = "GSE120575") %>% select(name, prop_outliers) %>% head(1)
+    dplyr::group_by(method) %>% 
+    dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
+    mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "GSE120575")
 
-GSE129788_summary_table <- readRDS(glue("{in_dir}GSE129788_aging_mouse_brain/data/final_sum_table/{method}_sum_table_for_bar_plot.rds"))
+
+GSE129788_summary_table <- list.files(path = glue("{in_dir}GSE129788_aging_mouse_brain/data/final_sum_table/"), 
+                                      pattern = "_sum_table_for_bar_plot.rds") %>% 
+    map(~ readRDS(file.path(glue("{in_dir}GSE129788_aging_mouse_brain/data/final_sum_table/"), .))) %>% 
+    dplyr::bind_rows()
 GSE129788_summary_panelA <- GSE129788_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    mutate(prop_outliers = sum(genes_with_outliers)/sum(de_genes)) %>% 
-    mutate(name = "GSE129788") %>% select(name, prop_outliers) %>% head(1)
+    dplyr::group_by(method) %>% 
+    dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
+    mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "GSE129788")
 
-SCP1288_summary_table <- readRDS(glue("{in_dir}SCP1288_renal_cell_carcinoma/data/final_sum_table/{method}_sum_table_for_bar_plot.rds"))
+SCP1288_summary_table <- list.files(path = glue("{in_dir}SCP1288_renal_cell_carcinoma/data/final_sum_table/"), 
+                                    pattern = "_sum_table_for_bar_plot.rds") %>% 
+    map(~ readRDS(file.path(glue("{in_dir}SCP1288_renal_cell_carcinoma/data/final_sum_table/"), .))) %>% 
+    dplyr::bind_rows()
 SCP1288_summary_panelA <- SCP1288_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>%
-    mutate(prop_outliers = sum(genes_with_outliers)/sum(de_genes)) %>% 
-    mutate(name = "SCP1288") %>% select(name, prop_outliers) %>% head(1)
+    dplyr::group_by(method) %>% 
+    dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
+    mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "SCP1288")
 
 PanelA_df <- COVID_19_summary_panelA %>% rbind(GSE120575_summary_panelA, GSE129788_summary_panelA, SCP1288_summary_panelA) 
 
 
 # Barplot
 PanelA_plot <- PanelA_df %>% 
-    ggplot(aes(x=name, y=prop_outliers)) + 
-    geom_bar(stat = "identity", fill=rgb(0.1,0.4,0.5,0.7)) + 
+    ggplot(aes(x=name, y=prop_outliers, fill = method)) + 
+    geom_bar(stat = "identity", position = "dodge") + 
     ylab("Fraction of Significant transcripts including outliers") +
-    ylab(glue("Fraction of Significant transcripts including outliers with method: {method}")) +
-    xlab("Data set") +
+    ylab(glue("Fraction of Significant transcripts including outliers with method")) +
+    xlab("Dataset_ID") +
     multipanel_theme
 
 # Panel B ppcseq plot -----------------------------------------------------------------------------------------------------
@@ -61,14 +81,13 @@ PanelA_plot <- PanelA_df %>%
 COVID_19_pDC <- readRDS(glue("{in_dir}COVID_19/data/ppcseq_data/{method}_pDC_ppcseq.rds"))
 # select gene IGJ
 PanelB_1 <- COVID_19_pDC %>% plot_credible_intervals() %>% filter(transcript == "IRF2BP2") %>% pull(plot) 
-# PanelB_1 <- PanelB_1[[1]] + multipanel_theme
 PanelB_1 <- PanelB_1[[1]]
 
 # select cell_type, Lymphocytes_exhausted_cell_cycle
-GSE120575_Dendritic_cells <- 
-    readRDS(glue("{in_dir}GSE120575_melanoma/data/ppcseq_data/{method}_Dendritic_cells_ppcseq.rds"))
-PanelB_2 <- GSE120575_Dendritic_cells %>% plot_credible_intervals() %>% 
-    filter(transcript == "GPX4") %>% pull(plot)
+GSE120575_Exhausted_CD8_T_cells <- 
+    readRDS(glue("{in_dir}GSE120575_melanoma/data/ppcseq_data/{method}_Exhausted_CD8+_T_cells_ppcseq.rds"))
+PanelB_2 <- GSE120575_Exhausted_CD8_T_cells %>% plot_credible_intervals() %>% 
+    filter(transcript == "ATP1B3") %>% pull(plot)
 # PanelB_2 <- PanelB_2[[1]] + multipanel_theme
 PanelB_2 <- PanelB_2[[1]] 
 
@@ -113,7 +132,7 @@ PanelC_plot = PanelC_df %>% ggplot(aes(x = FC, color = cell_type)) +
     facet_wrap(~ dataset_ID, 
                scales = "free") +
     xlab("ratio of fold change") +
-    ggtitle(glue("Ratio of fold change after outlier elimination with method:{method}")) +
+    ggtitle(glue("Ratio of fold change after outlier elimination with method: {method}")) +
     multipanel_theme
 
 # Panel D scatter plot of average (across samples) of the  total sample RNA vs proportion of outliers in significant genes--------------------------------------------
@@ -257,9 +276,65 @@ PanelD_plot <- PanelD_df %>% ggplot(aes(x = average_RNA_proportion_of_cell_type_
     geom_point() +
     facet_wrap(~ dataset_ID, 
                scales = "free") +
-    xlab("average_RNA_proportion_of_cell_type_among_all_cell_types") +
+    xlab("average RNA proportions among all cell types") +
     ylab("outlier proportions in significant genes") +
     multipanel_theme
+
+
+# Panel E: Venn diagram that counts how many genes including outliers overlap across all three methods.
+
+COVID_19_df_for_venn <- list.files(path = glue("{in_dir}COVID_19/data/ppcseq_data/")) %>% 
+    map(~ readRDS(file.path(glue("{in_dir}COVID_19/data/ppcseq_data/"), .))) %>% 
+    dplyr::bind_rows() 
+COVID_19_df_for_venn <- COVID_19_df_for_venn %>% 
+    select(c(transcript, method, tot_deleterious_outliers)) %>% 
+    filter(tot_deleterious_outliers > 0) %>% 
+    mutate(dataset_ID = "COVID_19")
+
+GSE120575_df_for_venn <- list.files(path = glue("{in_dir}GSE120575_melanoma/data/ppcseq_data/")) %>% 
+    map(~ readRDS(file.path(glue("{in_dir}GSE120575_melanoma/data/ppcseq_data/"), .))) %>% 
+    dplyr::bind_rows() 
+    
+GSE120575_df_for_venn <- GSE120575_df_for_venn %>% 
+    select(c(transcript, method, tot_deleterious_outliers)) %>% 
+    filter(tot_deleterious_outliers > 0) %>% 
+    mutate(dataset_ID = "GSE120575")
+
+GSE129788_df_for_venn <- list.files(path = glue("{in_dir}GSE129788_aging_mouse_brain/data/ppcseq_data/")) %>% 
+    map(~ readRDS(file.path(glue("{in_dir}GSE129788_aging_mouse_brain/data/ppcseq_data/"), .))) %>% 
+    dplyr::bind_rows() 
+GSE129788_df_for_venn <- GSE129788_df_for_venn %>% 
+    select(c(transcript, method, tot_deleterious_outliers)) %>% 
+    filter(tot_deleterious_outliers > 0) %>% 
+    mutate(dataset_ID = "GSE129788")
+
+SCP1288_df_for_venn <- list.files(path = glue("{in_dir}SCP1288_renal_cell_carcinoma/data/ppcseq_data/")) %>% 
+    map(~ readRDS(file.path(glue("{in_dir}SCP1288_renal_cell_carcinoma/data/ppcseq_data/"), .))) %>% 
+    dplyr::bind_rows() 
+
+SCP1288_df_for_venn <- SCP1288_df_for_venn %>% 
+    select(c(transcript, method, tot_deleterious_outliers)) %>% 
+    filter(tot_deleterious_outliers > 0) %>% 
+    mutate(dataset_ID = "SCP1288")
+
+PanelE_df <- COVID_19_df_for_venn %>% rbind(GSE120575_df_for_venn, GSE129788_df_for_venn, SCP1288_df_for_venn)
+PanelE_df <- PanelE_df %>% 
+    unite("transcript_name", c(dataset_ID, transcript), sep = "_", remove = FALSE)
+
+deseq2_list <- PanelE_df %>% filter(method == "deseq2") %>% pull(transcript_name) 
+edgeR_quasi_likelihood_list <- PanelE_df %>% filter(method == "edgeR_quasi_likelihood") %>% pull(transcript_name) 
+edger_robust_likelihood_ratio_list <- PanelE_df %>% filter(method == "edger_robust_likelihood_ratio") %>% pull(transcript_name)
+
+venn_diagram_list <- list(deseq2 = deseq2_list, 
+                          edgeR = edgeR_quasi_likelihood_list, 
+                          edgeR_robust = edger_robust_likelihood_ratio_list)
+PanelE_plot <- ggvenn(
+    venn_diagram_list, 
+    fill_color = c("#0073C2FF", "#EFC000FF", "#CD534CFF"),
+    stroke_size = 0.4, set_name_size = 3,
+    text_size = 3
+)
+
 
 # Generate the main figure 
 library(patchwork) 
@@ -267,7 +342,8 @@ library(patchwork)
 p = (
     (PanelA_plot - (PanelB_1 + PanelB_2 + PanelB_3 + PanelB_4 + plot_layout(heights = c(1, 1, 1, 1), nrow = 2)) +
          plot_layout(widths = c(0.8,2), guides = 'keep')) /
-        (PanelC_plot + plot_spacer() + PanelD_plot + plot_layout(widths = c(2, 0.2,1.5)))
+        (PanelC_plot + 
+             (PanelD_plot + plot_spacer() + PanelE_plot + plot_layout(widths = c(2, 0.2,1.5)))) 
 ) + plot_layout(heights = c(2.5,1.2),nrow = 2) + 
     plot_annotation(tag_levels = c('A')) &
     theme(
