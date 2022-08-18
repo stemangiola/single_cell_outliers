@@ -60,14 +60,7 @@ library(ggrepel)
 library(GGally)
 library(tidybulk)
 library(tidySummarizedExperiment) # we'll load this below to show what it can do
-# 
-# BiocManager::install("enrichplot")
-# BiocManager::install("ggtree")
-# remotes::install_github("YuLab-SMU/ggtree") 
-# 
-# library(enrichplot)
 library(patchwork)
-# BiocManager::install("org.Hs.eg.db")
 library(org.Hs.eg.db)
 ```
 
