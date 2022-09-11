@@ -1,16 +1,247 @@
-# FILE 1660555340105486 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/Overall_summary/GSEA.makeflow.batchlog 1 0
-# STARTED 1660555340108043
-# FILE 1660555340109797 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory_GSEA.rds 1 1073741824
-# ABORTED 1660555345711484
-# FILE 1660555421442547 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/Overall_summary/GSEA.makeflow.batchlog 1 0
-# STARTED 1660555421444604
-# FILE 1660555421446199 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory_GSEA.rds 1 1073741824
-# ABORTED 1660555425330789
-# FILE 1660555436962514 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/Overall_summary/GSEA.makeflow.batchlog 1 0
-# STARTED 1660555436964252
-# FILE 1660555436965633 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory_GSEA.rds 1 1073741824
-# ABORTED 1660555440293203
-# FILE 1660555782110176 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/Overall_summary/GSEA.makeflow.batchlog 1 0
-# STARTED 1660555782112251
-# FILE 1660555782114085 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edger_robust_likelihood_ratio_unknown_epithelial_GSEA.rds 1 1073741824
-# ABORTED 1660555790221519
+# FILE 1661223294104559 ./GSEA.makeflow.batchlog 1 0
+# STARTED 1661223294106942
+# FILE 1661223294108714 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_unknown_epithelial_GSEA.rds 1 1073741824
+1661223294129287 23 1 7624006 23 1 0 0 0 24
+# FILE 1661223294129352 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Treg_GSEA.rds 1 1073741824
+1661223294144827 22 1 7624007 22 2 0 0 0 24
+# FILE 1661223294144893 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Squamous_GSEA.rds 1 1073741824
+1661223294164175 21 1 7624008 21 3 0 0 0 24
+# FILE 1661223294164237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory-diff_GSEA.rds 1 1073741824
+1661223294178754 20 1 7624009 20 4 0 0 0 24
+# FILE 1661223294178816 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory_GSEA.rds 1 1073741824
+1661223294193211 19 1 7624010 19 5 0 0 0 24
+# FILE 1661223294193273 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_rMa_GSEA.rds 1 1073741824
+1661223294208417 18 1 7624011 18 6 0 0 0 24
+# FILE 1661223294208478 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_pDC_GSEA.rds 1 1073741824
+1661223294223119 17 1 7624012 17 7 0 0 0 24
+# FILE 1661223294223178 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661223294238150 16 1 7624013 16 8 0 0 0 24
+# FILE 1661223294238212 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_nrMa_GSEA.rds 1 1073741824
+1661223294253247 15 1 7624014 15 9 0 0 0 24
+# FILE 1661223294253304 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NKT-p_GSEA.rds 1 1073741824
+1661223294268351 14 1 7624015 14 10 0 0 0 24
+# FILE 1661223294268413 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NKT_GSEA.rds 1 1073741824
+1661223294283424 13 1 7624016 13 11 0 0 0 24
+# FILE 1661223294283486 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NK_GSEA.rds 1 1073741824
+1661223294298814 12 1 7624017 12 12 0 0 0 24
+# FILE 1661223294298879 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223294313547 11 1 7624018 11 13 0 0 0 24
+# FILE 1661223294313624 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_moDC_GSEA.rds 1 1073741824
+1661223294328445 10 1 7624019 10 14 0 0 0 24
+# FILE 1661223294328507 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_MoD-Ma_GSEA.rds 1 1073741824
+1661223294342960 9 1 7624020 9 15 0 0 0 24
+# FILE 1661223294343022 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_MC_GSEA.rds 1 1073741824
+1661223294357840 8 1 7624021 8 16 0 0 0 24
+# FILE 1661223294357915 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_IRC_GSEA.rds 1 1073741824
+1661223294373003 7 1 7624022 7 17 0 0 0 24
+# FILE 1661223294373080 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ionocyte_GSEA.rds 1 1073741824
+1661223294387940 6 1 7624023 6 18 0 0 0 24
+# FILE 1661223294388004 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_FOXN4_GSEA.rds 1 1073741824
+1661223294402698 5 1 7624024 5 19 0 0 0 24
+# FILE 1661223294402765 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661223294417784 4 1 7624025 4 20 0 0 0 24
+# FILE 1661223294417851 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated-diff_GSEA.rds 1 1073741824
+1661223294432447 3 1 7624026 3 21 0 0 0 24
+# FILE 1661223294432510 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661223294446616 2 1 7624027 2 22 0 0 0 24
+# FILE 1661223294446678 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Basal_GSEA.rds 1 1073741824
+1661223294461927 1 1 7624028 1 23 0 0 0 24
+# FILE 1661223294462004 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_B_cell_GSEA.rds 1 1073741824
+1661223294477528 0 1 7624029 0 24 0 0 0 24
+# FILE 1661223306578937 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_unknown_epithelial_GSEA.rds 2 217
+1661223306579214 23 2 7624006 0 23 1 0 0 24
+# FILE 1661223306581907 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory-diff_GSEA.rds 2 214
+1661223306581927 20 2 7624009 0 22 2 0 0 24
+# FILE 1661223306584572 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NKT-p_GSEA.rds 2 209
+1661223306584592 14 2 7624015 0 21 3 0 0 24
+# FILE 1661223306588614 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NKT_GSEA.rds 2 207
+1661223306588645 13 2 7624016 0 20 4 0 0 24
+# FILE 1661223306591303 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_NK_GSEA.rds 2 208
+1661223306591325 12 2 7624017 0 19 5 0 0 24
+# FILE 1661223306593837 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_MoD-Ma_GSEA.rds 2 210
+1661223306593857 9 2 7624020 0 18 6 0 0 24
+# FILE 1661223306596438 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_MC_GSEA.rds 2 208
+1661223306596456 8 2 7624021 0 17 7 0 0 24
+# FILE 1661223306600093 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_IRC_GSEA.rds 2 207
+1661223306600114 7 2 7624022 0 16 8 0 0 24
+# FILE 1661223306602963 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_B_cell_GSEA.rds 2 208
+1661223306602981 0 2 7624029 0 15 9 0 0 24
+# FILE 1661223307609469 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ionocyte_GSEA.rds 2 210
+1661223307609503 6 2 7624023 0 14 10 0 0 24
+# FILE 1661223307614548 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_FOXN4_GSEA.rds 2 210
+1661223307614567 5 2 7624024 0 13 11 0 0 24
+# FILE 1661223307619399 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated-diff_GSEA.rds 2 214
+1661223307619419 3 2 7624026 0 12 12 0 0 24
+# FILE 1661223381747884 makeflow.failed.11 4 0
+# FILE 1661223381750794 makeflow.failed.11 3 0
+1661223381758183 11 3 7624018 0 11 12 1 0 24
+# FILE 1661223381758324 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+1661223381758603 11 0 7624018 1 11 12 0 0 24
+# FILE 1661223381758691 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223381777962 11 1 7624033 0 12 12 0 0 24
+# FILE 1661223419876165 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Basal_GSEA.rds 2 217
+1661223419876396 1 2 7624028 0 11 13 0 0 24
+# FILE 1661223433891816 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_moDC_GSEA.rds 2 219
+1661223433892107 10 2 7624019 0 10 14 0 0 24
+# FILE 1661223448933613 makeflow.failed.16 4 0
+# FILE 1661223448937111 makeflow.failed.16 3 0
+1661223448944142 16 3 7624013 0 9 14 1 0 24
+# FILE 1661223448944198 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+1661223448944259 16 0 7624013 1 9 14 0 0 24
+# FILE 1661223448944323 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661223448962352 16 1 7624049 0 10 14 0 0 24
+# FILE 1661223452976074 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_pDC_GSEA.rds 2 215
+1661223452976123 17 2 7624012 0 9 15 0 0 24
+# FILE 1661223453982229 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_rMa_GSEA.rds 2 215
+1661223453982261 18 2 7624011 0 8 16 0 0 24
+# FILE 1661223469997462 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Treg_GSEA.rds 2 210
+1661223469997731 22 2 7624007 0 7 17 0 0 24
+# FILE 1661223473016370 makeflow.failed.11 4 0
+# FILE 1661223473017027 makeflow.failed.11 3 0
+1661223473023932 11 3 7624033 0 6 17 1 0 24
+# FILE 1661223473024052 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+1661223473024199 11 0 7624033 1 6 17 0 0 24
+# FILE 1661223473024345 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223473042873 11 1 7624050 0 7 17 0 0 24
+# FILE 1661223490091700 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Squamous_GSEA.rds 2 222
+1661223490091931 21 2 7624008 0 6 18 0 0 24
+# FILE 1661223501107946 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_nrMa_GSEA.rds 2 216
+1661223501108197 15 2 7624014 0 5 19 0 0 24
+# FILE 1661223503112477 makeflow.failed.4 4 0
+# FILE 1661223503112974 makeflow.failed.4 3 0
+1661223503119264 4 3 7624025 0 4 19 1 0 24
+# FILE 1661223503119318 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+1661223503119398 4 0 7624025 1 4 19 0 0 24
+# FILE 1661223503119482 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661223503139243 4 1 7624052 0 5 19 0 0 24
+# FILE 1661223542194945 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Secretory_GSEA.rds 2 225
+1661223542199735 19 2 7624010 0 4 20 0 0 24
+# FILE 1661223558223190 makeflow.failed.11 4 0
+# FILE 1661223558223766 makeflow.failed.11 3 0
+1661223558229976 11 3 7624050 0 3 20 1 0 24
+# FILE 1661223558230043 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+1661223558230120 11 0 7624050 1 3 20 0 0 24
+# FILE 1661223558230192 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223558249198 11 1 7624053 0 4 20 0 0 24
+# FILE 1661223569263237 makeflow.failed.2 4 0
+# FILE 1661223569263790 makeflow.failed.2 3 0
+1661223569269389 2 3 7624027 0 3 20 1 0 24
+# FILE 1661223569269442 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+1661223569269499 2 0 7624027 1 3 20 0 0 24
+# FILE 1661223569269589 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661223569287651 2 1 7624054 0 4 20 0 0 24
+# FILE 1661223605333458 makeflow.failed.16 4 0
+# FILE 1661223605335571 makeflow.failed.16 3 0
+1661223605341481 16 3 7624049 0 3 20 1 0 24
+# FILE 1661223605341534 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+1661223605341599 16 0 7624049 1 3 20 0 0 24
+# FILE 1661223605341660 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661223605363838 16 1 7624055 0 4 20 0 0 24
+# FILE 1661223643410281 makeflow.failed.11 4 0
+# FILE 1661223643411111 makeflow.failed.11 3 0
+1661223643417876 11 3 7624053 0 3 20 1 0 24
+# FILE 1661223643417932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+1661223643417996 11 0 7624053 1 3 20 0 0 24
+# FILE 1661223643418088 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223643436662 11 1 7624057 0 4 20 0 0 24
+# FILE 1661223718512506 makeflow.failed.4 4 0
+# FILE 1661223718514737 makeflow.failed.4 3 0
+1661223718521737 4 3 7624052 0 3 20 1 0 24
+# FILE 1661223718521793 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+1661223718521855 4 0 7624052 1 3 20 0 0 24
+# FILE 1661223718521942 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661223718541160 4 1 7624061 0 4 20 0 0 24
+# FILE 1661223759591234 makeflow.failed.16 4 0
+# FILE 1661223759591872 makeflow.failed.16 3 0
+1661223759597369 16 3 7624055 0 3 20 1 0 24
+# FILE 1661223759597421 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+1661223759597485 16 0 7624055 1 3 20 0 0 24
+# FILE 1661223759597546 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661223759616103 16 1 7624064 0 4 20 0 0 24
+# FILE 1661223798664255 makeflow.failed.2 4 0
+# FILE 1661223798666317 makeflow.failed.2 3 0
+1661223798672106 2 3 7624054 0 3 20 1 0 24
+# FILE 1661223798672141 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+1661223798672187 2 0 7624054 1 3 20 0 0 24
+# FILE 1661223798672293 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661223798691996 2 1 7624065 0 4 20 0 0 24
+# FILE 1661223827733704 makeflow.failed.11 4 0
+# FILE 1661223827735093 makeflow.failed.11 3 0
+1661223827741574 11 3 7624057 0 3 20 1 0 24
+# FILE 1661223827741628 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+1661223827741695 11 0 7624057 1 3 20 0 0 24
+# FILE 1661223827741774 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 1 1073741824
+1661223827760578 11 1 7624066 0 4 20 0 0 24
+# FILE 1661223916861557 makeflow.failed.11 4 0
+# FILE 1661223916879749 makeflow.failed.11 3 0
+1661223916886179 11 3 7624066 0 3 20 1 0 24
+# FILE 1661223916886234 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Neu_GSEA.rds 4 1073741824
+# FILE 1661223919907201 makeflow.failed.4 4 0
+# FILE 1661223919907822 makeflow.failed.4 3 0
+1661223919913596 4 3 7624061 0 2 20 2 0 24
+# FILE 1661223919913655 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+1661223919913718 4 0 7624061 1 2 20 1 0 24
+# FILE 1661223919913819 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661223919932610 4 1 7624068 0 3 20 1 0 24
+# FILE 1661223923958389 makeflow.failed.16 4 0
+# FILE 1661223923958869 makeflow.failed.16 3 0
+1661223923965630 16 3 7624064 0 2 20 2 0 24
+# FILE 1661223923965732 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+1661223923965840 16 0 7624064 1 2 20 1 0 24
+# FILE 1661223923965952 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661223923984547 16 1 7624069 0 3 20 1 0 24
+# FILE 1661224019085851 makeflow.failed.2 4 0
+# FILE 1661224019088131 makeflow.failed.2 3 0
+1661224019094581 2 3 7624065 0 2 20 2 0 24
+# FILE 1661224019094634 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+1661224019094703 2 0 7624065 1 2 20 1 0 24
+# FILE 1661224019094808 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661224019115238 2 1 7624071 0 3 20 1 0 24
+# FILE 1661224089179961 makeflow.failed.16 4 0
+# FILE 1661224089182549 makeflow.failed.16 3 0
+1661224089187832 16 3 7624069 0 2 20 2 0 24
+# FILE 1661224089187887 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+1661224089187954 16 0 7624069 1 2 20 1 0 24
+# FILE 1661224089188021 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 1 1073741824
+1661224089206789 16 1 7624073 0 3 20 1 0 24
+# FILE 1661224126250624 makeflow.failed.4 4 0
+# FILE 1661224126251350 makeflow.failed.4 3 0
+1661224126257760 4 3 7624068 0 2 20 2 0 24
+# FILE 1661224126257816 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+1661224126257884 4 0 7624068 1 2 20 1 0 24
+# FILE 1661224126257985 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661224126277132 4 1 7624075 0 3 20 1 0 24
+# FILE 1661224236586284 makeflow.failed.2 4 0
+# FILE 1661224236588596 makeflow.failed.2 3 0
+1661224236595159 2 3 7624071 0 2 20 2 0 24
+# FILE 1661224236595211 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+1661224236595278 2 0 7624071 1 2 20 1 0 24
+# FILE 1661224236595384 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661224236613966 2 1 7624077 0 3 20 1 0 24
+# FILE 1661224239632496 makeflow.failed.16 4 0
+# FILE 1661224239632907 makeflow.failed.16 3 0
+1661224239639339 16 3 7624073 0 2 20 2 0 24
+# FILE 1661224239639406 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_outliers_epithelial_GSEA.rds 4 1073741824
+# FILE 1661224330711315 makeflow.failed.4 4 0
+# FILE 1661224330714170 makeflow.failed.4 3 0
+1661224330720423 4 3 7624075 0 1 20 3 0 24
+# FILE 1661224330720472 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+1661224330720529 4 0 7624075 1 1 20 2 0 24
+# FILE 1661224330720629 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 1 1073741824
+1661224330741126 4 1 7624078 0 2 20 2 0 24
+# FILE 1661224459828391 makeflow.failed.2 4 0
+# FILE 1661224459831081 makeflow.failed.2 3 0
+1661224459837191 2 3 7624077 0 1 20 3 0 24
+# FILE 1661224459837244 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+1661224459837312 2 0 7624077 1 1 20 2 0 24
+# FILE 1661224459837428 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 1 1073741824
+1661224459856936 2 1 7624079 0 2 20 2 0 24
+# FILE 1661224542182820 makeflow.failed.4 4 0
+# FILE 1661224542186041 makeflow.failed.4 3 0
+1661224542193012 4 3 7624078 0 1 20 3 0 24
+# FILE 1661224542193095 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_CTL_GSEA.rds 4 1073741824
+# FILE 1661224678260107 makeflow.failed.2 4 0
+# FILE 1661224678263014 makeflow.failed.2 3 0
+1661224678269943 2 3 7624079 0 0 20 4 0 24
+# FILE 1661224678270037 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/GSEA_data/edgeR_quasi_likelihood_Ciliated_GSEA.rds 4 1073741824
+# COMPLETED 1661224678270256

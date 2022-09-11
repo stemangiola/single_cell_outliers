@@ -1,0 +1,647 @@
+# FILE 1662688860010187 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1662688860012851
+# FILE 1662688860014484 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Treg_DE.rds 1 1073741824
+1662688860038552 90 1 7898598 92 1 0 0 0 93
+# FILE 1662688860038685 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Platelet_DE.rds 1 1073741824
+1662688860059396 87 1 7898599 91 2 0 0 0 93
+# FILE 1662688860059499 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Plasmablast_DE.rds 1 1073741824
+1662688860075721 84 1 7898600 90 3 0 0 0 93
+# FILE 1662688860075838 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/pDC_DE.rds 1 1073741824
+1662688860091856 81 1 7898601 89 4 0 0 0 93
+# FILE 1662688860091933 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_DE.rds 1 1073741824
+1662688860106836 78 1 7898602 88 5 0 0 0 93
+# FILE 1662688860106909 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_Proliferating_DE.rds 1 1073741824
+1662688860121786 75 1 7898603 87 6 0 0 0 93
+# FILE 1662688860121858 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_CD56bright_DE.rds 1 1073741824
+1662688860136633 72 1 7898604 86 7 0 0 0 93
+# FILE 1662688860136704 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/MAIT_DE.rds 1 1073741824
+1662688860153437 69 1 7898605 85 8 0 0 0 93
+# FILE 1662688860153508 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ILC_DE.rds 1 1073741824
+1662688860168390 66 1 7898606 84 9 0 0 0 93
+# FILE 1662688860168462 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/HSPC_DE.rds 1 1073741824
+1662688860183450 63 1 7898607 83 10 0 0 0 93
+# FILE 1662688860183523 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/gdT_DE.rds 1 1073741824
+1662688860199395 60 1 7898608 82 11 0 0 0 93
+# FILE 1662688860199461 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Eryth_DE.rds 1 1073741824
+1662688860213975 57 1 7898609 81 12 0 0 0 93
+# FILE 1662688860214044 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Doublet_DE.rds 1 1073741824
+1662688860229237 54 1 7898610 80 13 0 0 0 93
+# FILE 1662688860229307 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/dnT_DE.rds 1 1073741824
+1662688860244676 51 1 7898611 79 14 0 0 0 93
+# FILE 1662688860244748 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC2_DE.rds 1 1073741824
+1662688860259267 48 1 7898612 78 15 0 0 0 93
+# FILE 1662688860259337 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC1_DE.rds 1 1073741824
+1662688860274873 45 1 7898613 77 16 0 0 0 93
+# FILE 1662688860274941 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TEM_DE.rds 1 1073741824
+1662688860290093 42 1 7898614 76 17 0 0 0 93
+# FILE 1662688860290174 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TCM_DE.rds 1 1073741824
+1662688860305937 39 1 7898615 75 18 0 0 0 93
+# FILE 1662688860306101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Proliferating_DE.rds 1 1073741824
+1662688860321092 36 1 7898616 74 19 0 0 0 93
+# FILE 1662688860321160 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Naive_DE.rds 1 1073741824
+1662688860337090 33 1 7898617 73 20 0 0 0 93
+# FILE 1662688860337160 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TEM_DE.rds 1 1073741824
+1662688860353121 30 1 7898618 72 21 0 0 0 93
+# FILE 1662688860353192 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TCM_DE.rds 1 1073741824
+1662688860368285 27 1 7898619 71 22 0 0 0 93
+# FILE 1662688860368355 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Proliferating_DE.rds 1 1073741824
+1662688860383967 24 1 7898620 70 23 0 0 0 93
+# FILE 1662688860384034 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Naive_DE.rds 1 1073741824
+1662688860399933 21 1 7898621 69 24 0 0 0 93
+# FILE 1662688860400003 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_CTL_DE.rds 1 1073741824
+1662688860414977 18 1 7898622 68 25 0 0 0 93
+# FILE 1662688860415046 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD16_Mono_DE.rds 1 1073741824
+1662688860430931 15 1 7898623 67 26 0 0 0 93
+# FILE 1662688860431045 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD14_Mono_DE.rds 1 1073741824
+1662688860446596 12 1 7898624 66 27 0 0 0 93
+# FILE 1662688860446666 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_naive_DE.rds 1 1073741824
+1662688860462614 9 1 7898625 65 28 0 0 0 93
+# FILE 1662688860462684 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_memory_DE.rds 1 1073741824
+1662688860478086 6 1 7898626 64 29 0 0 0 93
+# FILE 1662688860478221 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_intermediate_DE.rds 1 1073741824
+1662688860493727 3 1 7898627 63 30 0 0 0 93
+# FILE 1662688860493799 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ASDC_DE.rds 1 1073741824
+1662688860508980 0 1 7898628 62 31 0 0 0 93
+# FILE 1662688893690941 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Doublet_DE.rds 2 762410
+1662688893691400 54 2 7898610 62 30 1 0 0 93
+# FILE 1662688893691607 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Doublet_ppcseq.rds 1 1073741824
+1662688893713400 55 1 7898629 61 31 1 0 0 93
+# FILE 1662688897727990 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC1_DE.rds 2 1378182
+1662688897728031 45 2 7898613 61 30 2 0 0 93
+# FILE 1662688897728391 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC1_ppcseq.rds 1 1073741824
+1662688897749884 46 1 7898630 60 31 2 0 0 93
+# FILE 1662688914833444 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_CD56bright_DE.rds 2 5334256
+1662688914833661 72 2 7898604 60 30 3 0 0 93
+# FILE 1662688914833821 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_CD56bright_ppcseq.rds 1 1073741824
+1662688914857019 73 1 7898631 59 31 3 0 0 93
+# FILE 1662688914860365 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/MAIT_DE.rds 2 3891200
+1662688914860384 69 2 7898605 59 30 4 0 0 93
+# FILE 1662688914860495 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/MAIT_ppcseq.rds 1 1073741824
+1662688914877426 70 1 7898632 58 31 4 0 0 93
+# FILE 1662688914888143 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ILC_DE.rds 2 3863715
+1662688914888166 66 2 7898606 58 30 5 0 0 93
+# FILE 1662688914888285 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ILC_ppcseq.rds 1 1073741824
+1662688914903559 67 1 7898633 57 31 5 0 0 93
+# FILE 1662688914906810 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/dnT_DE.rds 2 3386125
+1662688914906838 51 2 7898611 57 30 6 0 0 93
+# FILE 1662688914906986 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/dnT_ppcseq.rds 1 1073741824
+1662688914922403 52 1 7898634 56 31 6 0 0 93
+# FILE 1662688924962450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Eryth_DE.rds 2 2580480
+1662688924964884 57 2 7898609 56 30 7 0 0 93
+# FILE 1662688924965108 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Eryth_ppcseq.rds 1 1073741824
+1662688924992672 58 1 7898636 55 31 7 0 0 93
+# FILE 1662688930011207 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_CTL_DE.rds 2 3276800
+1662688930011253 18 2 7898622 55 30 8 0 0 93
+# FILE 1662688930011743 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_CTL_ppcseq.rds 1 1073741824
+1662688930045204 19 1 7898637 54 31 8 0 0 93
+# FILE 1662688933079901 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/pDC_DE.rds 2 22588330
+1662688933079948 81 2 7898601 54 30 9 0 0 93
+# FILE 1662688933080141 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/pDC_ppcseq.rds 1 1073741824
+1662688933589739 82 1 7898638 53 31 9 0 0 93
+# FILE 1662688933599220 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/gdT_DE.rds 2 8317088
+1662688933599260 60 2 7898608 53 30 10 0 0 93
+# FILE 1662688933599499 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/gdT_ppcseq.rds 1 1073741824
+1662688933616805 61 1 7898639 52 31 10 0 0 93
+# FILE 1662688933624101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TCM_DE.rds 2 7550124
+1662688933624125 39 2 7898615 52 30 11 0 0 93
+# FILE 1662688933624337 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TCM_ppcseq.rds 1 1073741824
+1662688933640572 40 1 7898640 51 31 11 0 0 93
+# FILE 1662688933661629 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ASDC_DE.rds 2 12747950
+1662688933661658 0 2 7898628 51 30 12 0 0 93
+# FILE 1662688933661980 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ASDC_ppcseq.rds 1 1073741824
+1662688933683238 1 1 7898641 50 31 12 0 0 93
+# FILE 1662688936693286 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Proliferating_DE.rds 2 9482450
+1662688936693511 36 2 7898616 50 30 13 0 0 93
+# FILE 1662688936693829 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Proliferating_ppcseq.rds 1 1073741824
+1662688936718135 37 1 7898642 49 31 13 0 0 93
+# FILE 1662688939727029 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_Proliferating_DE.rds 2 11837440
+1662688939727099 75 2 7898603 49 30 14 0 0 93
+# FILE 1662688939727258 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_Proliferating_ppcseq.rds 1 1073741824
+1662688939748664 76 1 7898643 48 31 14 0 0 93
+# FILE 1662688954816319 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/HSPC_DE.rds 2 27193046
+1662688954816566 63 2 7898607 48 30 15 0 0 93
+# FILE 1662688954816757 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/HSPC_ppcseq.rds 1 1073741824
+1662688954843167 64 1 7898644 47 31 15 0 0 93
+# FILE 1662688954846881 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC2_DE.rds 2 14486116
+1662688954846933 48 2 7898612 47 30 16 0 0 93
+# FILE 1662688954847103 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC2_ppcseq.rds 1 1073741824
+1662688954866418 49 1 7898645 46 31 16 0 0 93
+# FILE 1662688963899478 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ASDC_ppcseq.rds 2 187
+1662688963899675 1 2 7898641 46 30 17 0 0 93
+# FILE 1662688963899941 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/ASDC_table.rds 1 1073741824
+1662688963921246 2 1 7898646 45 31 17 0 0 93
+# FILE 1662688966938322 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TEM_DE.rds 2 16809984
+1662688966938567 30 2 7898618 45 30 18 0 0 93
+# FILE 1662688966938876 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TEM_ppcseq.rds 1 1073741824
+1662688966958485 31 1 7898647 44 31 18 0 0 93
+# FILE 1662688971971785 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Naive_DE.rds 2 8634368
+1662688971972015 33 2 7898617 44 30 19 0 0 93
+# FILE 1662688971972297 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Naive_ppcseq.rds 1 1073741824
+1662688971994534 34 1 7898648 43 31 19 0 0 93
+# FILE 1662688993074181 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Plasmablast_DE.rds 2 49463296
+1662688993075853 84 2 7898600 43 30 20 0 0 93
+# FILE 1662688993075952 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 1 1073741824
+1662688993098078 85 1 7898649 42 31 20 0 0 93
+# FILE 1662689000126490 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Platelet_DE.rds 2 49496064
+1662689000126695 87 2 7898599 42 30 21 0 0 93
+# FILE 1662689000126782 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662689000147742 88 1 7898650 41 31 21 0 0 93
+# FILE 1662689004166775 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/ASDC_table.rds 2 214
+# FILE 1662689004166800 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ASDC_DE.rds 3 12747950
+# FILE 1662689004166811 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ASDC_ppcseq.rds 3 187
+1662689004166823 2 2 7898646 41 30 22 0 0 93
+# FILE 1662689005172430 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Proliferating_DE.rds 2 11100160
+1662689005172459 24 2 7898620 41 29 23 0 0 93
+# FILE 1662689005172679 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Proliferating_ppcseq.rds 1 1073741824
+1662689005197445 25 1 7898651 40 30 23 0 0 93
+# FILE 1662689011241396 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Naive_DE.rds 2 54554741
+1662689011241433 21 2 7898621 40 29 24 0 0 93
+# FILE 1662689011241726 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 1 1073741824
+1662689011272874 22 1 7898652 39 30 24 0 0 93
+# FILE 1662689024333563 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_intermediate_DE.rds 2 185024512
+1662689024333842 3 2 7898627 39 29 25 0 0 93
+# FILE 1662689024334113 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_intermediate_ppcseq.rds 1 1073741824
+1662689024355579 4 1 7898653 38 30 25 0 0 93
+# FILE 1662689047431173 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD16_Mono_DE.rds 2 223358605
+1662689047431365 15 2 7898623 38 29 26 0 0 93
+# FILE 1662689047431592 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD16_Mono_ppcseq.rds 1 1073741824
+1662689047459956 16 1 7898654 37 30 26 0 0 93
+# FILE 1662689061511400 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Doublet_ppcseq.rds 2 12230
+1662689061513031 55 2 7898629 37 29 27 0 0 93
+# FILE 1662689061513253 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Doublet_table.rds 1 1073741824
+1662689061535588 56 1 7898655 36 30 27 0 0 93
+# FILE 1662689068567747 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_memory_DE.rds 2 252909660
+1662689068567974 6 2 7898626 36 29 28 0 0 93
+# FILE 1662689068568247 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_memory_ppcseq.rds 1 1073741824
+1662689068589631 7 1 7898656 35 30 28 0 0 93
+# FILE 1662689080638111 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Treg_DE.rds 2 12574720
+1662689080638328 90 2 7898598 35 29 29 0 0 93
+# FILE 1662689080638393 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Treg_ppcseq.rds 1 1073741824
+1662689080660317 91 1 7898657 34 30 29 0 0 93
+# FILE 1662689081667767 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_intermediate_ppcseq.rds 2 187
+1662689081667800 4 2 7898653 34 29 30 0 0 93
+# FILE 1662689081668072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_intermediate_table.rds 1 1073741824
+1662689081698884 5 1 7898658 33 30 30 0 0 93
+# FILE 1662689090741137 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_naive_DE.rds 2 273801872
+1662689090741392 9 2 7898625 33 29 31 0 0 93
+# FILE 1662689090741749 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_naive_ppcseq.rds 1 1073741824
+1662689090776889 10 1 7898659 32 30 31 0 0 93
+# FILE 1662689094791806 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Doublet_table.rds 2 217
+# FILE 1662689094791837 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Doublet_DE.rds 3 762410
+# FILE 1662689094791848 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Doublet_ppcseq.rds 3 12230
+1662689094791862 56 2 7898655 32 29 32 0 0 93
+# FILE 1662689117895242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_intermediate_table.rds 2 222
+# FILE 1662689117895498 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_intermediate_DE.rds 3 185024512
+# FILE 1662689117895513 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_intermediate_ppcseq.rds 3 187
+1662689117895525 5 2 7898658 32 28 33 0 0 93
+# FILE 1662689129934465 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_DE.rds 2 396020676
+1662689129936228 78 2 7898602 32 27 34 0 0 93
+# FILE 1662689129936347 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 1 1073741824
+1662689129959033 79 1 7898660 31 28 34 0 0 93
+# FILE 1662689150047797 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TEM_DE.rds 2 417677312
+1662689150048082 42 2 7898614 31 27 35 0 0 93
+# FILE 1662689150048422 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 1 1073741824
+1662689150072200 43 1 7898661 30 28 35 0 0 93
+# FILE 1662689161128119 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC1_ppcseq.rds 2 7006
+1662689161128394 46 2 7898630 30 27 36 0 0 93
+# FILE 1662689161128563 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/cDC1_table.rds 1 1073741824
+1662689161151141 47 1 7898662 29 28 36 0 0 93
+# FILE 1662689184241860 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/cDC1_table.rds 2 214
+# FILE 1662689184242141 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC1_DE.rds 3 1378182
+# FILE 1662689184242194 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC1_ppcseq.rds 3 7006
+1662689184242207 47 2 7898662 29 27 37 0 0 93
+# FILE 1662689194283733 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TCM_DE.rds 2 499639834
+1662689194285985 27 2 7898619 29 26 38 0 0 93
+# FILE 1662689194286271 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662689194307450 28 1 7898663 28 27 38 0 0 93
+# FILE 1662689209365110 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD14_Mono_DE.rds 2 422625280
+1662689209365362 12 2 7898624 28 26 39 0 0 93
+# FILE 1662689209365741 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 1 1073741824
+1662689209391791 13 1 7898664 27 27 39 0 0 93
+# FILE 1662689508479586 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/pDC_ppcseq.rds 2 6271
+1662689508482156 82 2 7898638 27 26 40 0 0 93
+# FILE 1662689508482370 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/pDC_table.rds 1 1073741824
+1662689508731955 83 1 7899167 26 27 40 0 0 93
+# FILE 1662689532841108 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_CD56bright_ppcseq.rds 2 44487
+1662689532841470 73 2 7898631 26 26 41 0 0 93
+# FILE 1662689532841588 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_CD56bright_table.rds 1 1073741824
+1662689533071622 74 1 7899168 25 27 41 0 0 93
+# FILE 1662689555142396 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/pDC_table.rds 2 213
+# FILE 1662689555142658 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/pDC_DE.rds 3 22588330
+# FILE 1662689555142674 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/pDC_ppcseq.rds 3 6271
+1662689555142689 83 2 7899167 25 26 42 0 0 93
+# FILE 1662689555147104 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_CD56bright_table.rds 2 224
+# FILE 1662689555147127 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_CD56bright_DE.rds 3 5334256
+# FILE 1662689555147139 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_CD56bright_ppcseq.rds 3 44487
+1662689555147149 74 2 7899168 25 25 43 0 0 93
+# FILE 1662689632405706 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Proliferating_ppcseq.rds 2 32461
+1662689632407423 37 2 7898642 25 24 44 0 0 93
+# FILE 1662689632407733 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_Proliferating_table.rds 1 1073741824
+1662689632429027 38 1 7899172 24 25 44 0 0 93
+# FILE 1662689658559122 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/dnT_ppcseq.rds 2 162760
+1662689658559431 52 2 7898634 24 24 45 0 0 93
+# FILE 1662689658559589 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/dnT_table.rds 1 1073741824
+1662689658580713 53 1 7899173 23 25 45 0 0 93
+# FILE 1662689660587398 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/HSPC_ppcseq.rds 2 13190
+1662689660587430 64 2 7898644 23 24 46 0 0 93
+# FILE 1662689660587584 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/HSPC_table.rds 1 1073741824
+1662689660609425 65 1 7899174 22 25 46 0 0 93
+# FILE 1662689662619025 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_Proliferating_table.rds 2 225
+# FILE 1662689662619326 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Proliferating_DE.rds 3 9482450
+# FILE 1662689662619340 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Proliferating_ppcseq.rds 3 32461
+1662689662619354 38 2 7899172 22 24 47 0 0 93
+# FILE 1662689688733628 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/dnT_table.rds 2 215
+# FILE 1662689688734132 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/dnT_DE.rds 3 3386125
+# FILE 1662689688734150 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/dnT_ppcseq.rds 3 162760
+1662689688734162 53 2 7899173 22 23 48 0 0 93
+# FILE 1662689698762657 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/HSPC_table.rds 2 214
+# FILE 1662689698766033 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/HSPC_DE.rds 3 27193046
+# FILE 1662689698766072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/HSPC_ppcseq.rds 3 13190
+1662689698766086 65 2 7899174 22 22 49 0 0 93
+# FILE 1662689924473351 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_naive_ppcseq.rds 2 33459
+1662689924476432 10 2 7898659 22 21 50 0 0 93
+# FILE 1662689924476777 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_naive_table.rds 1 1073741824
+1662689924505680 11 1 7899175 21 22 50 0 0 93
+# FILE 1662689973645171 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ILC_ppcseq.rds 2 214812
+1662689973645409 67 2 7898633 21 21 51 0 0 93
+# FILE 1662689973645667 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/ILC_table.rds 1 1073741824
+1662689973666359 68 1 7899180 20 22 51 0 0 93
+# FILE 1662689976679250 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_naive_table.rds 2 219
+# FILE 1662689976679279 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_naive_DE.rds 3 273801872
+# FILE 1662689976679293 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_naive_ppcseq.rds 3 33459
+1662689976679304 11 2 7899175 20 21 52 0 0 93
+# FILE 1662689989726088 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/ILC_table.rds 2 218
+# FILE 1662689989729896 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/ILC_DE.rds 3 3863715
+# FILE 1662689989729918 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/ILC_ppcseq.rds 3 214812
+1662689989729932 68 2 7899180 20 20 53 0 0 93
+# FILE 1662690003768982 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_memory_ppcseq.rds 2 50253
+1662690003769233 7 2 7898656 20 19 54 0 0 93
+# FILE 1662690003769567 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_memory_table.rds 1 1073741824
+1662690003790349 8 1 7899181 19 20 54 0 0 93
+# FILE 1662690051928643 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/gdT_ppcseq.rds 2 266956
+1662690051937742 61 2 7898639 19 19 55 0 0 93
+# FILE 1662690051937976 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/gdT_table.rds 1 1073741824
+1662690051960324 62 1 7899655 18 20 55 0 0 93
+# FILE 1662690052970364 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/B_memory_table.rds 2 218
+# FILE 1662690052970395 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/B_memory_DE.rds 3 252909660
+# FILE 1662690052970407 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/B_memory_ppcseq.rds 3 50253
+1662690052970420 8 2 7899181 18 19 56 0 0 93
+# FILE 1662690068019725 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/MAIT_ppcseq.rds 2 693972
+1662690068019977 70 2 7898632 18 18 57 0 0 93
+# FILE 1662690068020139 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/MAIT_table.rds 1 1073741824
+1662690068039192 71 1 7899683 17 19 57 0 0 93
+# FILE 1662690070053750 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/gdT_table.rds 2 214
+# FILE 1662690070053783 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/gdT_DE.rds 3 8317088
+# FILE 1662690070053795 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/gdT_ppcseq.rds 3 266956
+1662690070053808 62 2 7899655 17 18 58 0 0 93
+# FILE 1662690083087775 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/MAIT_table.rds 2 219
+# FILE 1662690083088072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/MAIT_DE.rds 3 3891200
+# FILE 1662690083088088 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/MAIT_ppcseq.rds 3 693972
+1662690083088100 71 2 7899683 17 17 59 0 0 93
+# FILE 1662690085101456 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_Proliferating_ppcseq.rds 2 315490
+1662690085101493 76 2 7898643 17 16 60 0 0 93
+# FILE 1662690085101633 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_Proliferating_table.rds 1 1073741824
+1662690087027376 77 1 7899685 16 17 60 0 0 93
+# FILE 1662690109091620 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_Proliferating_table.rds 2 226
+# FILE 1662690109091851 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_Proliferating_DE.rds 3 11837440
+# FILE 1662690109091866 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_Proliferating_ppcseq.rds 3 315490
+1662690109091879 77 2 7899685 16 16 61 0 0 93
+# FILE 1662690111097116 makeflow.failed.88 4 0
+# FILE 1662690111097545 makeflow.failed.88 3 0
+1662690111104108 88 3 7898650 16 15 61 1 0 93
+# FILE 1662690111104162 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662690111104284 88 0 7898650 17 15 61 0 0 93
+# FILE 1662690111104342 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662690111240849 88 1 7899687 16 16 61 0 0 93
+# FILE 1662690467052773 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_CTL_ppcseq.rds 2 593124
+1662690467055407 19 2 7898637 16 15 62 0 0 93
+# FILE 1662690467055854 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_CTL_table.rds 1 1073741824
+1662690468297217 20 1 7900645 15 16 62 0 0 93
+# FILE 1662690499375414 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Proliferating_ppcseq.rds 2 628359
+1662690499375691 25 2 7898651 15 15 63 0 0 93
+# FILE 1662690499375933 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_Proliferating_table.rds 1 1073741824
+1662690500301116 26 1 7900646 14 16 63 0 0 93
+# FILE 1662690511334629 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_CTL_table.rds 2 223
+# FILE 1662690511334884 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_CTL_DE.rds 3 3276800
+# FILE 1662690511334909 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_CTL_ppcseq.rds 3 593124
+1662690511334934 20 2 7900645 14 15 64 0 0 93
+# FILE 1662690555430338 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_Proliferating_table.rds 2 229
+# FILE 1662690555432222 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Proliferating_DE.rds 3 11100160
+# FILE 1662690555432242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Proliferating_ppcseq.rds 3 628359
+1662690555432255 26 2 7900646 14 14 65 0 0 93
+# FILE 1662690874074325 makeflow.failed.43 4 0
+# FILE 1662690874078968 makeflow.failed.43 3 0
+1662690874086626 43 3 7898661 14 13 65 1 0 93
+# FILE 1662690874086664 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 4 1073741824
+1662690874086714 43 0 7898661 15 13 65 0 0 93
+# FILE 1662690874086895 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 1 1073741824
+1662690874108476 43 1 7900670 14 14 65 0 0 93
+# FILE 1662691021476752 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC2_ppcseq.rds 2 1591631
+1662691021482238 49 2 7898645 14 13 66 0 0 93
+# FILE 1662691021482450 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/cDC2_table.rds 1 1073741824
+1662691021527470 50 1 7900675 13 14 66 0 0 93
+# FILE 1662691055609525 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/cDC2_table.rds 2 218
+# FILE 1662691055609966 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/cDC2_DE.rds 3 14486116
+# FILE 1662691055609984 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/cDC2_ppcseq.rds 3 1591631
+1662691055609996 50 2 7900675 13 13 67 0 0 93
+# FILE 1662691111718579 makeflow.failed.79 4 0
+# FILE 1662691111720777 makeflow.failed.79 3 0
+1662691111727193 79 3 7898660 13 12 67 1 0 93
+# FILE 1662691111727250 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 4 1073741824
+1662691111727315 79 0 7898660 14 12 67 0 0 93
+# FILE 1662691111727397 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 1 1073741824
+1662691111747599 79 1 7900676 13 13 67 0 0 93
+# FILE 1662691174857205 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Eryth_ppcseq.rds 2 2017167
+1662691174858833 58 2 7898636 13 12 68 0 0 93
+# FILE 1662691174859004 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Eryth_table.rds 1 1073741824
+1662691174879153 59 1 7900682 12 13 68 0 0 93
+# FILE 1662691214955777 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Eryth_table.rds 2 217
+# FILE 1662691214956815 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Eryth_DE.rds 3 2580480
+# FILE 1662691214956833 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Eryth_ppcseq.rds 3 2017167
+1662691214956846 59 2 7900682 12 12 69 0 0 93
+# FILE 1662691281081936 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TCM_ppcseq.rds 2 1421308
+1662691281085099 40 2 7898640 12 11 70 0 0 93
+# FILE 1662691281085309 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_TCM_table.rds 1 1073741824
+1662691281104979 41 1 7900685 11 12 70 0 0 93
+# FILE 1662691307169341 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_TCM_table.rds 2 223
+# FILE 1662691307170440 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TCM_DE.rds 3 7550124
+# FILE 1662691307170457 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TCM_ppcseq.rds 3 1421308
+1662691307170468 41 2 7900685 11 11 71 0 0 93
+# FILE 1662691712836259 makeflow.failed.22 4 0
+# FILE 1662691712839087 makeflow.failed.22 3 0
+1662691712844865 22 3 7898652 11 10 71 1 0 93
+# FILE 1662691712844918 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 4 1073741824
+1662691712844991 22 0 7898652 12 10 71 0 0 93
+# FILE 1662691712845237 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 1 1073741824
+1662691712871708 22 1 7900693 11 11 71 0 0 93
+# FILE 1662691919206069 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD16_Mono_ppcseq.rds 2 2466845
+1662691919207743 16 2 7898654 11 10 72 0 0 93
+# FILE 1662691919207971 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD16_Mono_table.rds 1 1073741824
+1662691919226690 17 1 7900694 10 11 72 0 0 93
+# FILE 1662691936272908 makeflow.failed.88 4 0
+# FILE 1662691936273437 makeflow.failed.88 3 0
+1662691936279592 88 3 7899687 10 10 72 1 0 93
+# FILE 1662691936279649 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662691936279713 88 0 7899687 11 10 72 0 0 93
+# FILE 1662691936279766 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662691936299405 88 1 7900695 10 11 72 0 0 93
+# FILE 1662691960349242 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD16_Mono_table.rds 2 223
+# FILE 1662691960349491 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD16_Mono_DE.rds 3 223358605
+# FILE 1662691960349505 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD16_Mono_ppcseq.rds 3 2466845
+1662691960349517 17 2 7900694 10 10 73 0 0 93
+# FILE 1662692721455086 makeflow.failed.13 4 0
+# FILE 1662692721458634 makeflow.failed.13 3 0
+1662692721465652 13 3 7898664 10 9 73 1 0 93
+# FILE 1662692721465707 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 4 1073741824
+1662692721465771 13 0 7898664 11 9 73 0 0 93
+# FILE 1662692721465982 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 1 1073741824
+1662692721487452 13 1 7901210 10 10 73 0 0 93
+# FILE 1662693239272707 makeflow.failed.85 4 0
+# FILE 1662693239275048 makeflow.failed.85 3 0
+1662693239281051 85 3 7898649 10 9 73 1 0 93
+# FILE 1662693239281117 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 4 1073741824
+1662693239281176 85 0 7898649 11 9 73 0 0 93
+# FILE 1662693239281238 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 1 1073741824
+1662693239317544 85 1 7901224 10 10 73 0 0 93
+# FILE 1662693773161935 makeflow.failed.88 4 0
+# FILE 1662693773164468 makeflow.failed.88 3 0
+1662693773171041 88 3 7900695 10 9 73 1 0 93
+# FILE 1662693773171186 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662693773171291 88 0 7900695 11 9 73 0 0 93
+# FILE 1662693773171391 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662693773193848 88 1 7901727 10 10 73 0 0 93
+# FILE 1662693787231269 makeflow.failed.43 4 0
+# FILE 1662693787231948 makeflow.failed.43 3 0
+1662693787238703 43 3 7900670 10 9 73 1 0 93
+# FILE 1662693787238755 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 4 1073741824
+1662693787238818 43 0 7900670 11 9 73 0 0 93
+# FILE 1662693787239014 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 1 1073741824
+1662693787282402 43 1 7901728 10 10 73 0 0 93
+# FILE 1662693911495873 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Naive_ppcseq.rds 2 4341511
+1662693911499071 34 2 7898648 10 9 74 0 0 93
+# FILE 1662693911499365 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_Naive_table.rds 1 1073741824
+1662693911521776 35 1 7901729 9 10 74 0 0 93
+# FILE 1662693940602207 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_Naive_table.rds 2 224
+# FILE 1662693940602463 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_Naive_DE.rds 3 8634368
+# FILE 1662693940602478 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_Naive_ppcseq.rds 3 4341511
+1662693940602490 35 2 7901729 9 9 75 0 0 93
+# FILE 1662694078470685 makeflow.failed.28 4 0
+# FILE 1662694079026488 makeflow.failed.28 3 0
+1662694079032922 28 3 7898663 9 8 75 1 0 93
+# FILE 1662694079032960 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662694079033027 28 0 7898663 10 8 75 0 0 93
+# FILE 1662694079033274 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662694079054611 28 1 7901733 9 9 75 0 0 93
+# FILE 1662694425107766 makeflow.failed.79 4 0
+# FILE 1662694425623837 makeflow.failed.79 3 0
+1662694425631641 79 3 7900676 9 8 75 1 0 93
+# FILE 1662694425631705 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 4 1073741824
+1662694425631785 79 0 7900676 10 8 75 0 0 93
+# FILE 1662694425631875 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 1 1073741824
+1662694425653621 79 1 7902461 9 9 75 0 0 93
+# FILE 1662694540012205 makeflow.failed.22 4 0
+# FILE 1662694540018399 makeflow.failed.22 3 0
+1662694540026091 22 3 7900693 9 8 75 1 0 93
+# FILE 1662694540026149 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 4 1073741824
+1662694540026209 22 0 7900693 10 8 75 0 0 93
+# FILE 1662694540026466 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 1 1073741824
+1662694540050138 22 1 7902463 9 9 75 0 0 93
+# FILE 1662694577332519 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TEM_ppcseq.rds 2 5576353
+1662694577332759 31 2 7898647 9 8 76 0 0 93
+# FILE 1662694577332973 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_TEM_table.rds 1 1073741824
+1662694577354406 32 1 7902464 8 9 76 0 0 93
+# FILE 1662694635057980 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_TEM_table.rds 2 224
+# FILE 1662694635386833 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TEM_DE.rds 3 16809984
+# FILE 1662694635386876 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TEM_ppcseq.rds 3 5576353
+1662694635386899 32 2 7902464 8 8 77 0 0 93
+# FILE 1662694971480456 makeflow.failed.88 4 0
+# FILE 1662694971483453 makeflow.failed.88 3 0
+1662694971491408 88 3 7901727 8 7 77 1 0 93
+# FILE 1662694971491508 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662694971491579 88 0 7901727 9 7 77 0 0 93
+# FILE 1662694971491635 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662694971513956 88 1 7902471 8 8 77 0 0 93
+# FILE 1662695087795560 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Treg_ppcseq.rds 2 5093051
+1662695088387009 91 2 7898657 8 7 78 0 0 93
+# FILE 1662695088387144 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Treg_table.rds 1 1073741824
+1662695088407656 92 1 7902472 7 8 78 0 0 93
+# FILE 1662695129278932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Treg_table.rds 2 219
+# FILE 1662695129279180 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Treg_DE.rds 3 12574720
+# FILE 1662695129279195 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Treg_ppcseq.rds 3 5093051
+1662695129279207 92 2 7902472 7 7 79 0 0 93
+1662695307695481 79 4 7902461 7 6 79 0 1 93
+# FILE 1662695308337861 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 4 1073741824
+1662695308350183 22 4 7902463 7 5 79 0 2 93
+# FILE 1662695308350726 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 4 1073741824
+1662695308361665 88 4 7902471 7 4 79 0 3 93
+# FILE 1662695308362216 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662695308373897 13 4 7901210 7 3 79 0 4 93
+# FILE 1662695308374416 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 4 1073741824
+1662695308385601 43 4 7901728 7 2 79 0 5 93
+# FILE 1662695308386177 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 4 1073741824
+1662695308397630 85 4 7901224 7 1 79 0 6 93
+# FILE 1662695308398146 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 4 1073741824
+1662695308409165 28 4 7901733 7 0 79 0 7 93
+# FILE 1662695308409553 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+# ABORTED 1662695308409614
+# FILE 1662695324308802 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 4 1073741824
+1662695325331744 88 0 7902471 8 0 79 0 6 93
+# FILE 1662695325332074 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 4 1073741824
+1662695325332093 85 0 7901224 9 0 79 0 5 93
+# FILE 1662695325332174 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 4 1073741824
+1662695325332186 79 0 7902461 10 0 79 0 4 93
+# FILE 1662695325332253 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 4 1073741824
+1662695325332264 43 0 7901728 11 0 79 0 3 93
+# FILE 1662695325332317 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662695325332328 28 0 7901733 12 0 79 0 2 93
+# FILE 1662695325332377 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 4 1073741824
+1662695325332387 22 0 7902463 13 0 79 0 1 93
+# FILE 1662695325332436 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 4 1073741824
+1662695325332446 13 0 7901210 14 0 79 0 0 93
+# FILE 1662695325334824 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1662695325334874
+# FILE 1662695325340286 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 1 1073741824
+1662695325363101 88 1 7902974 13 1 79 0 0 93
+# FILE 1662695325363200 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 1 1073741824
+1662695325382093 85 1 7902975 12 2 79 0 0 93
+# FILE 1662695325382178 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 1 1073741824
+1662695325397521 79 1 7902976 11 3 79 0 0 93
+# FILE 1662695325397653 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 1 1073741824
+1662695325412989 43 1 7902977 10 4 79 0 0 93
+# FILE 1662695325413101 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662695325429134 28 1 7902978 9 5 79 0 0 93
+# FILE 1662695325429203 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 1 1073741824
+1662695325444846 22 1 7902979 8 6 79 0 0 93
+# FILE 1662695325444920 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 1 1073741824
+1662695325460437 13 1 7902980 7 7 79 0 0 93
+# FILE 1662700241033229 makeflow.failed.28 4 0
+# FILE 1662700241037119 makeflow.failed.28 3 0
+1662700241049964 28 3 7902978 7 6 79 1 0 93
+# FILE 1662700241050017 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662700241050160 28 0 7902978 8 6 79 0 0 93
+# FILE 1662700241050405 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662700241083555 28 1 7905530 7 7 79 0 0 93
+# FILE 1662702565554913 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 2 7297210
+# FILE 1662702565569858 makeflow.failed.22 4 0
+1662702565569879 22 2 7902979 7 6 80 0 0 93
+# FILE 1662702565570198 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_Naive_table.rds 1 1073741824
+1662702565592442 23 1 7909284 6 7 80 0 0 93
+# FILE 1662702606648932 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_Naive_table.rds 2 227
+# FILE 1662702606650353 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_Naive_DE.rds 3 0
+# FILE 1662702606650373 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_Naive_ppcseq.rds 3 7297210
+1662702606650386 23 2 7909284 6 6 81 0 0 93
+# FILE 1662704032530146 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 2 9893636
+# FILE 1662704039525572 makeflow.failed.13 4 0
+1662704039525883 13 2 7902980 6 5 82 0 0 93
+# FILE 1662704039526366 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD14_Mono_table.rds 1 1073741824
+1662704039548251 14 1 7910931 5 6 82 0 0 93
+# FILE 1662704163412805 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD14_Mono_table.rds 2 226
+# FILE 1662704163414403 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD14_Mono_DE.rds 3 0
+# FILE 1662704163414420 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD14_Mono_ppcseq.rds 3 9893636
+1662704163414433 14 2 7910931 5 5 83 0 0 93
+# FILE 1662705621061530 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 2 9618821
+# FILE 1662705622910993 makeflow.failed.85 4 0
+1662705622911019 85 2 7902975 5 4 84 0 0 93
+# FILE 1662705622911155 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Plasmablast_table.rds 1 1073741824
+1662705622933243 86 1 7912836 4 5 84 0 0 93
+# FILE 1662705693343733 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Plasmablast_table.rds 2 220
+# FILE 1662705693559949 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Plasmablast_DE.rds 3 0
+# FILE 1662705693559990 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Plasmablast_ppcseq.rds 3 9618821
+1662705693560004 86 2 7912836 4 4 85 0 0 93
+# FILE 1662706799343148 makeflow.failed.28 4 0
+# FILE 1662706799347010 makeflow.failed.28 3 0
+1662706799352625 28 3 7905530 4 3 85 1 0 93
+# FILE 1662706799352678 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662706799352770 28 0 7905530 5 3 85 0 0 93
+# FILE 1662706799352960 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662706799373763 28 1 7914272 4 4 85 0 0 93
+# FILE 1662709306733908 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 2 14478464
+# FILE 1662709306752081 makeflow.failed.88 4 0
+1662709306752121 88 2 7902974 4 3 86 0 0 93
+# FILE 1662709306752249 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Platelet_table.rds 1 1073741824
+1662709306776330 89 1 7917286 3 4 86 0 0 93
+# FILE 1662709363822812 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/Platelet_table.rds 2 218
+# FILE 1662709363823100 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/Platelet_DE.rds 3 0
+# FILE 1662709363823114 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/Platelet_ppcseq.rds 3 14478464
+1662709363823126 89 2 7917286 3 3 87 0 0 93
+# FILE 1662711290352172 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 2 17817518
+# FILE 1662711290365893 makeflow.failed.79 4 0
+1662711290366129 79 2 7902976 3 2 88 0 0 93
+# FILE 1662711290366228 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_table.rds 1 1073741824
+1662711290387732 80 1 7919599 2 3 88 0 0 93
+# FILE 1662711362452072 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/NK_table.rds 2 221
+# FILE 1662711362454090 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/NK_DE.rds 3 0
+# FILE 1662711362454111 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/NK_ppcseq.rds 3 17817518
+1662711362454123 80 2 7919599 2 2 89 0 0 93
+# FILE 1662711577591232 makeflow.failed.28 4 0
+# FILE 1662711577594558 makeflow.failed.28 3 0
+1662711577602003 28 3 7914272 2 1 89 1 0 93
+# FILE 1662711577602084 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662711577602175 28 0 7914272 3 1 89 0 0 93
+# FILE 1662711577602365 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662711577621518 28 1 7919626 2 2 89 0 0 93
+# FILE 1662715969285952 makeflow.failed.28 4 0
+# FILE 1662715969288006 makeflow.failed.28 3 0
+1662715969295122 28 3 7919626 2 1 89 1 0 93
+# FILE 1662715969295213 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662715969295323 28 0 7919626 3 1 89 0 0 93
+# FILE 1662715969295554 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662715969328253 28 1 7921968 2 2 89 0 0 93
+# FILE 1662718279422587 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 2 22571355
+# FILE 1662718279660152 makeflow.failed.43 4 0
+1662718279660187 43 2 7902977 2 1 90 0 0 93
+# FILE 1662718279660365 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_TEM_table.rds 1 1073741824
+1662718279680997 44 1 7922021 1 2 90 0 0 93
+# FILE 1662718354174509 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD8_TEM_table.rds 2 222
+# FILE 1662718354176411 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD8_TEM_DE.rds 3 0
+# FILE 1662718354176429 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD8_TEM_ppcseq.rds 3 22571355
+1662718354176441 44 2 7922021 1 1 91 0 0 93
+# FILE 1662720316437649 makeflow.failed.28 4 0
+# FILE 1662720323158231 makeflow.failed.28 3 0
+1662720323167897 28 3 7921968 1 0 91 1 0 93
+# FILE 1662720323167966 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662720323168087 28 0 7921968 2 0 91 0 0 93
+# FILE 1662720323168286 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662720323191584 28 1 7923455 1 1 91 0 0 93
+1662722243449904 28 4 7923455 1 0 91 0 1 93
+# FILE 1662722243900317 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+# ABORTED 1662722243900396
+# FILE 1662722252441288 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662722252743699 28 0 7923455 2 0 91 0 0 93
+# FILE 1662722252772444 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1662722252772493
+# FILE 1662722252774924 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662722252796424 28 1 7927026 1 1 91 0 0 93
+1662722257311378 28 4 7927026 1 0 91 0 1 93
+# FILE 1662722257311492 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+# ABORTED 1662722257311562
+# FILE 1662722265246317 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662722265248438 28 0 7927026 2 0 91 0 0 93
+# FILE 1662722265249536 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1662722265249583
+# FILE 1662722265251537 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662722265272663 28 1 7927027 1 1 91 0 0 93
+# FILE 1662736516704198 makeflow.failed.28 4 0
+# FILE 1662736516708771 makeflow.failed.28 3 0
+1662736516719806 28 3 7927027 1 0 91 1 0 93
+# FILE 1662736516719939 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662736516720171 28 0 7927027 2 0 91 0 0 93
+# FILE 1662736516720381 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662736516744156 28 1 7928245 1 1 91 0 0 93
+# FILE 1662750497875789 makeflow.failed.28 4 0
+# FILE 1662750497878600 makeflow.failed.28 3 0
+1662750497885684 28 3 7928245 1 0 91 1 0 93
+# FILE 1662750497885788 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662750497885943 28 0 7928245 2 0 91 0 0 93
+# FILE 1662750497886228 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662750497909253 28 1 7928653 1 1 91 0 0 93
+# FILE 1662764274115721 makeflow.failed.28 4 0
+# FILE 1662764274153275 makeflow.failed.28 3 0
+1662764274174477 28 3 7928653 1 0 91 1 0 93
+# FILE 1662764274174544 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1662764274174650 28 0 7928653 2 0 91 0 0 93
+# FILE 1662764274174888 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1662764274194651 28 1 7929029 1 1 91 0 0 93
+1662775405610011 28 4 7929029 1 0 91 0 1 93
+# FILE 1662775405615427 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+# ABORTED 1662775405615501

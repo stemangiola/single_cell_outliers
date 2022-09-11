@@ -1,0 +1,15 @@
+#!/bin/sh
+#$ -S /bin/sh
+[ -n "${SLURM_JOB_ID}" ] && JOB_ID=`echo ${SLURM_JOB_ID} | cut -d . -f 1`
+logfile=slurm.status.${JOB_ID}
+starttime=`date +%s`
+echo start $starttime > $logfile
+(while true; do sleep 30; echo alive $(date +%s) >> $logfile; done) &
+pid_heartbeat=$!
+eval "$BATCH_JOB_COMMAND"
+
+status=$?
+kill $pid_heartbeat
+stoptime=`date +%s`
+echo stop $status $stoptime >> $logfile
+exit 0

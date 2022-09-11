@@ -19,13 +19,9 @@ library(patchwork)
 library(org.Hs.eg.db)
 
 
-# all_de <- readRDS("/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/final_sum_table/all_de.rds")
-
-# edgeR_quasi_likelihood_Secretory_DE <- readRDS("/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/de_data/edgeR_quasi_likelihood_Secretory_DE.rds")
-
 # edgeR_quasi_likelihood_Secretory_DE_consider_outliers = edgeR_quasi_likelihood_Secretory_DE
 Secretory <- readRDS("/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/all_raw_data/Secretory_raw.rds")
-Secretory_exclude_outliers <- Secretory
+Secretory_exclude_outliers <- NK_raw
 
 ###-----------------------------------------------------------------------------------------------------------------------------------------
 Secretory_ppcseq <- readRDS("/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/COVID_19/data/ppcseq_data/edgeR_quasi_likelihood_Secretory_ppcseq.rds")
@@ -82,11 +78,14 @@ Secretory_exclude_outliers_gene_rank_list <- Secretory_exclude_outliers_gene_ran
     filter(p.adjust < 0.05)
     # filter(padj < 0.05)
 
-a <- Secretory_exclude_outliers_gene_rank_list %>% arrange(p.adjust) %>% pull(ID) %>% head(10)
-b <- Secretory_gene_rank_list %>% arrange(p.adjust) %>% pull(ID) %>% head(10)
+a <- Secretory_exclude_outliers_gene_rank_list %>% arrange(p.adjust) %>% pull(ID) 
+b <- Secretory_gene_rank_list %>% arrange(p.adjust) %>% pull(ID) 
+
+sum(length(a), length(b))
+
 
 # Generate fraction: 
-c <- tibble(overlapped_prop_in_top_10_pathways = c(sum(as.numeric(a %in% b))/10),
+c <- tibble(overlapped_prop_in_top_10_pathways = c(sum(as.numeric(a %in% b))/sum(length(a), length(b))),
             cell_type = c("Secretory"),
             method = "edgeQLT")
 c %>% 

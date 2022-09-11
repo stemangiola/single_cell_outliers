@@ -30,7 +30,8 @@ prefix = case_when(prefix == "edgeR_quasi_likelihood" ~ "edgerQLT_",
 # command to run DE analysis and save to rds
 counts = readRDS(in_file) 
 # Filtering out lowly expressed counts
-counts = counts %>% keep_abundant(
+# counts = counts %>% keep_abundant(
+counts = B_cell_raw %>% keep_abundant(
     .sample = sample,
     .transcript = transcript,
     .abundance = abundance_RNA,
