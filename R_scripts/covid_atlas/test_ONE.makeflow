@@ -1,0 +1,6 @@
+CATEGORY=covid_atlas
+MEMORY=150024
+CORES=4
+/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds:/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TCM_DE.rds
+	Rscript /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/covid_atlas/run_ppcseq.R /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TCM_DE.rds /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds
+

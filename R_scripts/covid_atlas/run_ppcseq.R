@@ -19,6 +19,7 @@ input_file <- input_file %>%
         .abundance = abundance_RNA,
         .significance = .significance,
         .do_check = is_significant,
-        percent_false_positive_genes = 5) %>% 
+        percent_false_positive_genes = 5,
+        pass_fit = TRUE) %>% 
     mutate(sample_wise_data = map(sample_wise_data, ~{attr(.x, "fit") = NULL; .x})) %>% 
     saveRDS(file = out_file)
