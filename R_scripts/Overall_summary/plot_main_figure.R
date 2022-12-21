@@ -6,12 +6,45 @@ library(ppcseq)
 library(plyr)
 # devtools::install_github("yanlinlin82/ggvenn")
 library(ggvenn)
+friendly_cols <- dittoSeq::dittoColors()
+custom_theme <-
+    list(
+        scale_fill_manual(values = friendly_cols),
+        scale_color_manual(values = friendly_cols),
+        theme_bw() +
+            theme(
+                panel.border = element_blank(),
+                axis.line = element_line(),
+                panel.grid.major = element_line(size = 0.2),
+                panel.grid.minor = element_line(size = 0.1),
+                text = element_text(size = 16),
+                legend.position = "bottom",
+                strip.background = element_blank(),
+                axis.title.x = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.title.y = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.text.x = element_text(
+                    angle = 30,
+                    hjust = 1,
+                    vjust = 1,
+                )
+            )
+    )
 source("https://gist.githubusercontent.com/stemangiola/fc67b08101df7d550683a5100106561c/raw/7e948a2aac3f8ad5989822324395d7d93b51a949/ggplot_theme_multipanel")
 
 in_dir <- "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/"
 # method = c("deseq2", "edgeR_quasi_likelihood","edger_robust_likelihood_ratio")
 # files = list.files(path = glue("{in_dir}COVID_19/data/final_sum_table/"), pattern = "_final_sum_table.rds") # get the file name
-method = "edger_robust_likelihood_ratio"
+method = "edgeR_quasi_likelihood"
 # multipanel_theme
 # Summary Panel A 
 # Use final summary table 
@@ -22,7 +55,8 @@ COVID_19_summary_table <- list.files(path = glue("{in_dir}COVID_19/data/final_su
 COVID_19_summary_panelA <- COVID_19_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    dplyr::group_by(method) %>% 
+    dplyr::group_by(method) %>%
+    # filter(method == method) %>%
     dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
     mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "COVID_19")
 
@@ -34,7 +68,8 @@ GSE120575_summary_table <- list.files(path = glue("{in_dir}GSE120575_melanoma/da
 GSE120575_summary_panelA <- GSE120575_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    dplyr::group_by(method) %>% 
+    dplyr::group_by(method) %>%
+    # filter(method == method) %>% 
     dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
     mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "GSE120575")
 
@@ -46,7 +81,8 @@ GSE129788_summary_table <- list.files(path = glue("{in_dir}GSE129788_aging_mouse
 GSE129788_summary_panelA <- GSE129788_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>% 
-    dplyr::group_by(method) %>% 
+    dplyr::group_by(method) %>%
+    # filter(method == method) %>%
     dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
     mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "GSE129788")
 
@@ -57,7 +93,8 @@ SCP1288_summary_table <- list.files(path = glue("{in_dir}SCP1288_renal_cell_carc
 SCP1288_summary_panelA <- SCP1288_summary_table %>% 
     pivot_wider(names_from = variable, values_from = Count) %>% 
     select(-c(transcript, outliers_in_top_PValue)) %>%
-    dplyr::group_by(method) %>% 
+    dplyr::group_by(method) %>%
+    # filter(method == method) %>% 
     dplyr::summarise(genes_with_outliers = sum(genes_with_outliers), de_genes = sum(de_genes)) %>% 
     mutate(prop_outliers = genes_with_outliers/de_genes) %>% mutate(name = "SCP1288")
 
@@ -66,12 +103,14 @@ PanelA_df <- COVID_19_summary_panelA %>% rbind(GSE120575_summary_panelA, GSE1297
 
 # Barplot
 PanelA_plot <- PanelA_df %>% 
+    # filter(method == "edgeR_quasi_likelihood") %>% 
     ggplot(aes(x=name, y=prop_outliers, fill = method)) + 
     geom_bar(stat = "identity", position = "dodge") + 
-    ylab("Fraction of Significant transcripts including outliers") +
-    ylab(glue("Fraction of Significant transcripts including outliers with method")) +
-    xlab("Dataset_ID") +
-    multipanel_theme
+    ylab("Fraction of significant transcripts including outliers") +
+    # ylab(glue("Fraction of Significant transcripts including outliers with method")) +
+    xlab("Data set") +
+    multipanel_theme + 
+    custom_theme
 
 # Panel B ppcseq plot -----------------------------------------------------------------------------------------------------
 # plot_credible_intervals() %>% pull(plot) %>% .[1]
@@ -128,12 +167,16 @@ PanelC_df <- COVID19_FC  %>% rbind(GSE120575_FC, GSE129788_FC, SCP1288_FC)
 # draw Fold change density plot
 PanelC_plot = PanelC_df %>% ggplot(aes(x = FC, color = cell_type)) +
     geom_density() +
+    geom_vline(xintercept = 1, linetype="dotted", 
+               color = "grey", size=1.5) +
     xlim(-10, 10) +
     facet_wrap(~ dataset_ID, 
                scales = "free") +
-    xlab("ratio of fold change") +
+    xlab("Ratio of fold change") +
+    ylab("Density") +
     ggtitle(glue("Ratio of fold change after outlier elimination with method: {method}")) +
-    multipanel_theme
+    multipanel_theme +
+    custom_theme
 
 # Panel D scatter plot of average (across samples) of the  total sample RNA vs proportion of outliers in significant genes--------------------------------------------
 # Import dataset COVID_19 DE_results
@@ -276,9 +319,9 @@ PanelD_plot <- PanelD_df %>% ggplot(aes(x = average_RNA_proportion_of_cell_type_
     geom_point() +
     facet_wrap(~ dataset_ID, 
                scales = "free") +
-    xlab("average RNA proportions among all cell types") +
-    ylab("outlier proportions in significant genes") +
-    multipanel_theme
+    xlab("Average RNA proportions among all cell types") +
+    ylab("Outlier proportions in significant genes") +
+    multipanel_theme + custom_theme
 
 
 # Panel E: Venn diagram that counts how many genes including outliers overlap across all three methods.

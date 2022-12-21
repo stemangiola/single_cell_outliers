@@ -20,29 +20,30 @@ custom_theme <-
                 axis.line = element_line(),
                 panel.grid.major = element_line(size = 0.2),
                 panel.grid.minor = element_line(size = 0.1),
-                # text = element_text(size = 12),
-                # legend.position = "bottom",
+                text = element_text(size = 15),
+                legend.position = "bottom",
                 strip.background = element_blank(),
-                # axis.title.x = element_text(margin = margin(
-                #   t = 10,
-                #   r = 10,
-                #   b = 10,
-                #   l = 10
-                # )),
-                # axis.title.y = element_text(margin = margin(
-                #   t = 10,
-                #   r = 10,
-                #   b = 10,
-                #   l = 10
-                # )),
-                # axis.text.x = element_text(
-                #   angle = 30,
-                #   hjust = 1,
-                #   vjust = 1,
-                # )
+                axis.title.x = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.title.y = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.text.x = element_text(
+                    angle = 30,
+                    hjust = 1,
+                    vjust = 1,
+                )
             )
     )
 
+source("https://gist.githubusercontent.com/stemangiola/fc67b08101df7d550683a5100106561c/raw/7e948a2aac3f8ad5989822324395d7d93b51a949/ggplot_theme_multipanel")
 in_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/de_data/"
 out_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/data/final_sum_table/"
 plot_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/GSE129788_aging_mouse_brain/plot/"
@@ -56,6 +57,7 @@ df <- files %>%
     dplyr::bind_rows()
 
 df %>% saveRDS(glue("{out_dir}all_de.rds"))
+# df <- readRDS(glue("{out_dir}all_de.rds"))
 
 # generate faced density plot for both 3 methods
 # method = c("deseq2", "edgeR_quasi_likelihood","edger_robust_likelihood_ratio")
@@ -81,7 +83,10 @@ density_plot <- df %>%
     geom_density() +
     facet_wrap(~ cell_type) +
     scale_x_log10() +
-    ggtitle("Density plot of 11 cell types of dataset (GSE129788)") +
+    ggtitle("Density plot of 21 cell types of dataset (GSE129788)") +
+    xlab("RNA abundance scaled") +
+    ylab("Density")+
+    multipanel_theme + 
     custom_theme 
 
 density_plot %>% ggsave(filename = "Density_plot.pdf", 
@@ -104,17 +109,16 @@ PCA_plot <- df_for_PCA %>%
     # scale_fill_distiller(palette = "Spectral") +
     geom_point() +
     facet_wrap(~ cell_type) +
-    ggtitle(glue("PCA plot of top50 features for dataset (GSE120575) with method: {method}")) +
-    custom_theme
+    ggtitle(glue("PCA plot of top50 features for dataset (GSE129788)")) +
+    multipanel_theme + 
+    custom_theme 
 
 # Save PCA_plot as png & pdf
-PCA_plot %>% ggsave(filename = glue("{method}_PCA_plot.pdf"), 
+# PCA_plot %>% ggsave(filename = glue("{method}_PCA_plot.pdf"), 
+PCA_plot %>% ggsave(filename = glue("PCA_plot.pdf"), 
                     path = glue("{plot_dir}"),
                     width = 14, height = 10, units = "in", dpi = 300)
 
-PCA_plot %>% ggsave(filename =  glue("{method}_PCA_plot.png"), 
-                    path = glue("{plot_dir}"),
-                    width = 14, height = 10, units = "in", dpi = 300)
 dev.off()
 
 #####------------------------------------------------------------------------------------------------------------

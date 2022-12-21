@@ -22,30 +22,30 @@ custom_theme <-
                 axis.line = element_line(),
                 panel.grid.major = element_line(size = 0.2),
                 panel.grid.minor = element_line(size = 0.1),
-                text = element_text(size = 12),
+                text = element_text(size = 15),
                 legend.position = "bottom",
                 strip.background = element_blank(),
                 axis.title.x = element_text(margin = margin(
-                  t = 10,
-                  r = 10,
-                  b = 10,
-                  l = 10
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
                 )),
                 axis.title.y = element_text(margin = margin(
-                  t = 10,
-                  r = 10,
-                  b = 10,
-                  l = 10
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
                 )),
                 axis.text.x = element_text(
-                  angle = 30,
-                  hjust = 1,
-                  vjust = 1,
+                    angle = 30,
+                    hjust = 1,
+                    vjust = 1,
                 )
             )
     )
 
-data_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/"
+data_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/100%_subsample/"
 plot_dir = "/stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/plot/"
 
 # import dataset: merged_summary_table for ppcseq
@@ -61,10 +61,11 @@ bar_plot1 = merged_sum_table %>%
     geom_bar(stat = "identity") +
     scale_y_continuous() +
     custom_theme +
-    xlab("cell_type") +
-    ylab("proportions of outliers in DE genes") +
+    xlab("Cell type") +
+    ylab("Proportions of outliers") +
     ggtitle("Barplot describing the outlier proportions in DE genes for each cell type") +
     multipanel_theme +
+    custom_theme +
     theme(axis.title.x=element_blank(),
           axis.text.x=element_blank(),
           axis.ticks.x=element_blank()) 
@@ -84,11 +85,13 @@ dev.new()
 bar_plot2 <- sum_table %>% ggplot(aes(x = reorder(cell_type, -outlier_prop), y = Count,fill = variable)) +
     geom_bar(stat = "identity") +
     scale_y_continuous(trans = "log10") +
+    multipanel_theme +
     custom_theme +
     theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
-    xlab("cell_type") +
-    ylab("log(Count)") +
-    ggtitle("summary barplot of covid_atlas") 
+    xlab("Cell type") +
+    ylab("Log(Count)") +
+    ggtitle("Summary barplot of covid_atlas") 
+    
     # multipanel_theme
 
 library(patchwork)
@@ -139,25 +142,7 @@ data_for_volanco <-  data_for_volanco %>%
               `logCPM___(1/2 * disease_severity_standardmoderate + 1/2 * disease_severity_standardsevere) - disease_severity_standardhealthy`,
               `logCPM___disease_severity_standardsevere - (1/2 * disease_severity_standardmoderate + 1/2 * disease_severity_standardhealthy)`))
 
-# data_for_volanco <- data_for_volanco %>% nest(data = -cell_type) %>%
-#     mutate(test_df = map(data, ~.x %>% pivot_transcript(
-#         .transcript = transcript
-#     ))) %>%
-#     select(cell_type,test_df) %>% unnest(test_df)
 
-
-# data_for_volanco %>% 
-#     ggplot(aes(x = `logFC___disease_severity_standardsevere - (1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardhealthy)`,
-#                y = `PValue___disease_severity_standardsevere - (1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardhealthy)`,
-#                color = cell_type)) +
-#     geom_point() +
-#     scale_y_continuous(trans = "log10_reverse") +
-#     geom_hline(yintercept= 0.05, linetype='dotted', col = 'red') +
-#     geom_text(aes(-2, 0.05 ,label = "PValue = 0.05", vjust = -1, colour = "red")) +
-#     xlab("logFC") +
-#     ylab("PValue") +
-#     ggtitle("Volcano plot of the outlier DE genes in the contrast: severe COVID versus (mild and moderate COVID and healthy")+
-#     custom_theme 
 
 data_for_volanco <- data_for_volanco %>% 
 # Group by contrast. Comparisons both ways.
@@ -179,25 +164,33 @@ data_for_volanco <- data_for_volanco %>% nest(data = -contrast) %>%
     mutate(data = map(data, ~ .x %>% filter(PValue < 0.05))) %>% unnest(data)
 
 contrast_names <- c(
-    "(1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardsevere) - disease_severity_standardhealthy" = "covid vs healthy",
-    "(1/2 * disease_severity_standardmoderate + 1/2 * disease_severity_standardsevere) - ( 1/2 * disease_severity_standardhealthy + 1/2 * disease_severity_standardmild)" = "(moderate & severe) vs (healthy & mild)",
-    "disease_severity_standardsevere - (1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardhealthy)" = "severe vs (heathy & mild & moderate)"
+    "(1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardsevere) - disease_severity_standardhealthy" = "healthy vs (mild, moderate, severe COVID)",
+    "(1/2 * disease_severity_standardmoderate + 1/2 * disease_severity_standardsevere) - ( 1/2 * disease_severity_standardhealthy + 1/2 * disease_severity_standardmild)" = "(healthy & mild) vs (moderate & severe) ",
+    "disease_severity_standardsevere - (1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardhealthy)" = "(heathy & mild & moderate) vs severe"
 )
 
+data_for_volanco <- data_for_volanco %>% mutate(contrast_order = contrast)
+# temp$size_f = factor(temp$size, levels=c('50%','100%','150%','200%'))
+data_for_volanco$contrast_order = factor(data_for_volanco$contrast_order, levels=c("(1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardsevere) - disease_severity_standardhealthy",
+                                                                                   "(1/2 * disease_severity_standardmoderate + 1/2 * disease_severity_standardsevere) - ( 1/2 * disease_severity_standardhealthy + 1/2 * disease_severity_standardmild)",
+                                                                                   "disease_severity_standardsevere - (1/3 * disease_severity_standardmild + 1/3 * disease_severity_standardmoderate + 1/3 * disease_severity_standardhealthy)"
+                                                                                   ))
 data_for_volanco %>% 
     ggplot(aes(x = logFC,
                y = PValue,
                color = cell_type)) +
+    
+    
     geom_point() +
     scale_y_continuous(trans = "log10_reverse") +
     geom_hline(yintercept= 0.05, linetype='dotted', col = 'red') +
     geom_text(aes(-2, 0.05 ,label = "PValue = 0.05", vjust = -1, colour = "red")) +
-    xlab("logFC") +
-    ylab("PValue") +
-    facet_wrap(~ contrast, labeller = as_labeller(contrast_names)) +
+    xlab("Log fold change") +
+    ylab("P value") +
+    facet_wrap(~ contrast_order, labeller = as_labeller(contrast_names)) +
     ggtitle("Volcano plot of the outlier DE genes in 3 contrasts")+
     multipanel_theme +
-    custom_theme 
+    custom_theme
 
 
 
@@ -226,20 +219,25 @@ ppcseq_df_FC$cell_type <- gsub("_ppcseq.rds", "", ppcseq_df_FC$cell_type)
 ppcseq_df_FC = ppcseq_df_FC %>% 
     filter(deleterious_outliers) %>% 
     distinct(cell_type, transcript, slope_after_outlier_filtering, slope_before_outlier_filtering) %>% 
-    mutate(FC = slope_after_outlier_filtering/slope_before_outlier_filtering) 
+    mutate(ratio_logFC = slope_after_outlier_filtering/slope_before_outlier_filtering) 
 ppcseq_df_FC %>% 
     saveRDS(glue("{data_dir}final_sum_table/FC_df.rds"))
 
-FC_plot <- ppcseq_df_FC %>% ggplot(aes(x = FC, color =cell_type)) +
+FC_plot <- ppcseq_df_FC %>% ggplot(aes(x = ratio_logFC, color =cell_type)) +
     # geom_histogram(bins = 30) +
     geom_density() +
     scale_x_continuous() +
+    geom_vline(xintercept = 1, linetype="dotted", 
+               color = "grey", size=1.5) +
     xlim(-2, 3) +
     # facet_wrap(~ cell_type, scales = "free") + 
     # ggtitle("Histogram of fold changes of differential transcripts with and without outliers for method: deseq2") +
-    ggtitle(glue("Ratio of fold changes of differential transcripts after excluding the outliers")) +
-    xlab("ratio of fold change after outlier elimination") + 
-    custom_theme
+    ggtitle(glue("Ratio of log fold change of differential transcripts between experimental groups after outliers exclusion")) +
+    xlab("Ratio of log fold change") + 
+    ylab("Density")+
+    multipanel_theme +
+    custom_theme 
+    
 
 
 ## Density
@@ -249,7 +247,11 @@ density_plot <- df %>%
     geom_density() +
     facet_wrap(~ cell_type) +
     scale_x_log10() +
-    ggtitle("Density plot of 31 cell types of covid_atlas") +
+    ggtitle("Density plot of 31 cell types of covid_atlas") + 
+    multipanel_theme + 
+    custom_theme +
+    xlab("RNA abundance scaled") +
+    ylab("Density") +
     theme(legend.position="none")
 
 density_plot %>% ggsave(filename = "Density_plot.pdf", 
@@ -281,5 +283,14 @@ dev.off()
 #                     path = glue("{plot_dir}"),
 #                     width = 14, height = 10, units = "in", dpi = 300)
 # dev.off()
+
+# Boxplot
+CD4_TCM_ppcseq <- CD4_TCM_ppcseq %>% filter(tot_deleterious_outliers > 0) %>% 
+    unnest(sample_wise_data)
+
+CD4_TCM_ppcseq %>% nest(data = - transcript)
+
+
+
 
 

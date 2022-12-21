@@ -16,7 +16,8 @@ pvalue_column_name <- args[5]
 input_file = readRDS(filename)
 input_file <- input_file %>%
   mutate(abundance_RNA = abundance_RNA %>% as.integer) %>% # run ppcseq
-  mutate(is_significant = !!sym(FDR_column_name) < 0.05) 
+  # mutate(is_significant = !!sym(FDR_column_name) < 0.05) 
+  mutate(.do_check = edgerQLT_FDR < 0.05) 
 
 input_file %>%
       identify_outliers(

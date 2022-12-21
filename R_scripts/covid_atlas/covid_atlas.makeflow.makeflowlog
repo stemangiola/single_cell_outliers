@@ -645,3 +645,28 @@
 1662775405610011 28 4 7929029 1 0 91 0 1 93
 # FILE 1662775405615427 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
 # ABORTED 1662775405615501
+# FILE 1665480660945881 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1665480660959503 28 0 7929029 2 0 91 0 0 93
+# FILE 1665480660980959 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1665480660981128
+# FILE 1665480660983190 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1665480661005416 28 1 8457772 1 1 91 0 0 93
+1665480692012559 28 4 8457772 1 0 91 0 1 93
+# FILE 1665480692013081 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+# ABORTED 1665480692013130
+# FILE 1665480713477376 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 4 1073741824
+1665480713479283 28 0 8457772 2 0 91 0 0 93
+# FILE 1665480713480485 ./covid_atlas.makeflow.batchlog 1 0
+# STARTED 1665480713480619
+# FILE 1665480713482308 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 1 1073741824
+1665480713506583 28 1 8457775 1 1 91 0 0 93
+# FILE 1665522182680015 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 2 36535555
+# FILE 1665522182682806 makeflow.failed.28 4 0
+1665522182682822 28 2 8457775 1 0 92 0 0 93
+# FILE 1665522182683167 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_TCM_table.rds 1 1073741824
+1665522182706443 29 1 8461710 0 1 92 0 0 93
+# FILE 1665522281749386 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/summary_table/CD4_TCM_table.rds 2 223
+# FILE 1665522281751301 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/de_data/CD4_TCM_DE.rds 3 0
+# FILE 1665522281751324 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/single_cell_database/covid_atlas/data/ppcseq_data/CD4_TCM_ppcseq.rds 3 36535555
+1665522281751336 29 2 8461710 0 0 93 0 0 93
+# COMPLETED 1665522281751571

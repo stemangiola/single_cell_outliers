@@ -7,7 +7,7 @@ library(ggplot2)
 library(tidybulk)
 library(ggrepel)
 library(ggallin)
-
+source("https://gist.githubusercontent.com/stemangiola/fc67b08101df7d550683a5100106561c/raw/7e948a2aac3f8ad5989822324395d7d93b51a949/ggplot_theme_multipanel")
 friendly_cols <- dittoSeq::dittoColors()
 # Set theme
 custom_theme <-
@@ -20,26 +20,26 @@ custom_theme <-
                 axis.line = element_line(),
                 panel.grid.major = element_line(size = 0.2),
                 panel.grid.minor = element_line(size = 0.1),
-                # text = element_text(size = 12),
-                # legend.position = "bottom",
+                text = element_text(size = 15),
+                legend.position = "bottom",
                 strip.background = element_blank(),
-                # axis.title.x = element_text(margin = margin(
-                #   t = 10,
-                #   r = 10,
-                #   b = 10,
-                #   l = 10
-                # )),
-                # axis.title.y = element_text(margin = margin(
-                #   t = 10,
-                #   r = 10,
-                #   b = 10,
-                #   l = 10
-                # )),
-                # axis.text.x = element_text(
-                #   angle = 30,
-                #   hjust = 1,
-                #   vjust = 1,
-                # )
+                axis.title.x = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.title.y = element_text(margin = margin(
+                    t = 10,
+                    r = 10,
+                    b = 10,
+                    l = 10
+                )),
+                axis.text.x = element_text(
+                    angle = 30,
+                    hjust = 1,
+                    vjust = 1,
+                )
             )
     )
 
@@ -54,10 +54,11 @@ df <- files %>%
     dplyr::bind_rows()
 
 df %>% saveRDS(glue("{out_dir}all_de.rds"))
+# df <- readRDS(glue("{out_dir}all_de.rds"))
 
 # generate faced density plot for both 3 methods
 # method = c("deseq2", "edgeR_quasi_likelihood","edger_robust_likelihood_ratio")
-method = "edger_robust_likelihood_ratio"
+method = "edgeR_quasi_likelihood"
 FDR_column_name = case_when(
     method == "deseq2" ~ "deseq2_padj",
     method == "edgeR_quasi_likelihood" ~ "edgerQLT_FDR",
@@ -129,9 +130,11 @@ bar_plot = sum_table %>% ggplot(aes(x = variable, y = Count,fill = variable)) +
     scale_y_continuous() +
     custom_theme +
     facet_wrap(~ cell_type) +
+    xlab("Variable") +
+    ylab("Count") +
     theme(axis.text.x = element_text(angle = 90, hjust = 1))+
     # ggtitle("summary table of COVID 19 for method: deseq2")
-    ggtitle(glue("summary table of COVID 19 for method: {method}"))
+    ggtitle(glue("Summary table of COVID 19 for method: {method}"))
 
 
 # volcano plot
@@ -192,19 +195,14 @@ df_for_volcano %>%
     ggplot(aes(x = !!sym(logFC_column_name), y = !!sym(pvalue_column_name), label = symbol)) +
     geom_point(aes(color = is_significant, size = is_significant, alpha = is_significant)) +
     geom_text_repel(max.overlaps = 30, size = 2) +
-    # geom_point(data = subset(df_for_volcano, df_for_volcano$tot_deleterious_outliers > 0),color = "red") +
-    # geom_text_repel(aes(logFC, PValue, label = symbol),
-    #                 # mapping = aes(label = transcript),
-    #                 # color = "red", size = 3,
-    #                 box.padding = unit(0.5, "lines"), #字到点的距离
-    #                 point.padding = unit(0.8, "lines") #短线段可以省略 +
-    #                 segment.color = "red")
-    # ) 
     facet_wrap(~ cell_type) +
-    custom_theme +
     scale_y_continuous(trans = "log10_reverse") +
     scale_color_manual(values = c("black","#e11f28")) +
-    scale_size_discrete(range = c(0, 2))
+    scale_size_discrete(range = c(0, 2)) +
+    xlab("Log fold change") +
+    ylab("P value") +
+    # multipanel_theme +
+    custom_theme
 
 
 ## Histogram_fold_change_plot
