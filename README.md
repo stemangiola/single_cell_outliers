@@ -24,7 +24,7 @@ The data directory include the raw data that downloaded from the public reposito
 The *s41587-020-0602-4_COVID_19.rds* represents the raw data downloaded from the GEO. Except this file, all the rest directories include the processed data separated by the cell types. All the data are labelled clearly with the cell type name and the function name. For example, the file
 
 
-## R script direcotries
+## R script directories
 
 ```R
 /stornext/Bioinf/data/bioinf-data/Papenfuss_lab/projects/ma.m/single_cell_outliers/R_scripts/COVID_19/
@@ -48,4 +48,31 @@ Same as data directory, there are 6 R script directories that are used in each d
 ./COVID_19.makeflow.makeflowlog  # The output of the makeflow 
 ```
 
+## Steps for reproducting my results from raw data. 
+1. Generate Seurat object: 
+Rscript: COVID_19_generate_seurat.R    Data: ./s41587-020-0602-4_COVID_19.rds
+
+2. Generate pseudo-bulk samples: 
+Rscript: save_tidy_data.R              Data: ./s41587-020-0602-4_COVID_19.rds
+
+3. Perform pseudo-bulk differential gene-transcript analysis
+Rscript :run_DE.R                      Data directory: ./data/de_data
+
+4. Identify outliers
+Rscript: run_ppcseq.R                  Data directory: ./data/de_data
+
+5: Create summary table of the outliers
+Summary table format: 
+number_of_genes_with_outliers | total_number_of_genes | number_of_genes_with_outliers_in_top_10 differentially expressed genes based on p-value
+Rscript: create_summary.R             Data directory: ./data/summary_table
+
+6: Create summary table of the outliers for all the cell types
+Summary table format: 
+cell_type | number_of_genes_with_outliers | total_number_of_genes | number_of_genes_with_outliers_in_top_10 differentially expressed genes based on p-value
+Rscript :create_summary_table_for_all_cell_types.R   Data directory: ./data/final_summary_table
+
+7. Generate 5 plots 
+Rscript :create_5_summary_plots.R    Data directory: ./plot
+
+The Rscript ##COVID_19_generate_makeflow.R## for generating makeflow. This step is used in step3, 4, and 5. 
 
